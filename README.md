@@ -4,7 +4,19 @@ This file file serves as your book's preface, a great place to describe your boo
 
 $$
 
-\sin{5}
+sin{5}
 
 $$
+
+ehi
+
+$$
+
+\cos{45}
+
+$$
+
+
+
+
 
