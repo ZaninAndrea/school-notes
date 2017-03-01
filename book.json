@@ -1,8 +1,3 @@
 {
-    "plugins": ["mathjax", "simple-page-toc",  "bootstrap-callout" ],
-    "pluginsConfig": {
-        "simple-page-toc": {
-            "skipFirstH1": false
-           }
-    }
+    "plugins": ["mathjax", "atoc",  "bootstrap-callout" ]
 }
