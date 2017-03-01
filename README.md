@@ -1,5 +1,7 @@
 # ONDE E SUONI
 
+&lt;!-- toc --&gt;
+
 > **Definizione di onda**  
 > una perturbazione prodotta da una sorgente che si propaga in tutti i punti dello spazio
 
