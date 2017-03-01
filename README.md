@@ -16,30 +16,33 @@ La propagazione di un onda non implica il trasporto di materia, ma solo il trasp
 | trasversali | perturbazione perpendicolare allo spostamento |
 | longitudinali | perturbazione parallela allo spostamento |
 
-$\lambda$ --&gt; la distanza tra 2 punti omologhi  
+$$ \lambda $$ --&gt; la distanza tra 2 punti omologhi  
 T --&gt; tempo trascorso tra un massimo e l'altro  
-$f = \frac{1}{T}$  
+$$ f = \frac{1}{T} $$  
 v --&gt; velocità di propagazione dell'onda  
-$v = \frac{\lambda}{T}$  
+$$v = \frac{\lambda}{T}$$  
 $intensità = \frac{Potenza}{superficie} \qquad I=\frac{P}{Sup}$
 
-* onde corde : $v = \sqrt{\frac{F}{\mu}}$ , dove $\mu$ è la densità lineare e F è la forza della perturbazione
-* onde sonore: $v =\sqrt{\frac{\gamma R T}{M}}$
+* onde corde : $$v = \sqrt{\frac{F}{\mu}}$$ , dove $$\mu$$ è la densità lineare e F è la forza della perturbazione
+* onde sonore: $$v =\sqrt{\frac{\gamma R T}{M}}$$
+
   ## Suono
 
-  L'orecchio umano percepisce suoni nella gamma 20-20000 Hz, al di sotto di tale gamma sono infrasuoni, al di sopra sono ultrasuoni.
-  La "nota acuta o grave" è la frequenza dell'onda
-  Il "timbro dello strumento" è la forma dell'onda
-  $I=\frac{P}{4\pi r^2}$
+  L'orecchio umano percepisce suoni nella gamma 20-20000 Hz, al di sotto di tale gamma sono infrasuoni, al di sopra sono ultrasuoni.  
+  La "nota acuta o grave" è la frequenza dell'onda  
+  Il "timbro dello strumento" è la forma dell'onda  
+  $$I=\frac{P}{4\pi r^2}$$
+
   #### Decibel
 
-  I decibel sono una scala del _livello di intensità_ e sono definiti come
-  $\beta = 10\text{dB} \cdot \log{\(\frac{I}{I\_0}\)}$
-  $I\_o=10^{-12}\frac{W}{m^2}\;$ tale misura è il massimo suono udibile
+  I decibel sono una scala del _livello di intensità_ e sono definiti come  
+  $$\beta = 10\text{dB} \cdot \log{(\frac{I}{I_0})}$$  
+  $$I_o=10^{-12}\frac{W}{m^2}\;$$ tale misura è il massimo suono udibile
+
 
   $$
-  I=10I_0\rightarrow 10\text{dB} \\
-  I=100I_0\rightarrow 20\text{dB} \\
+  I=10I_0\rightarrow 10\text{dB}
+  I=100I_0\rightarrow 20\text{dB}
   I=1000I_0\rightarrow 30\text{dB}
   $$
 
