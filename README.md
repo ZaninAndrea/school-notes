@@ -21,7 +21,7 @@ T --&gt; tempo trascorso tra un massimo e l'altro
 $$ f = \frac{1}{T} $$  
 v --&gt; velocità di propagazione dell'onda  
 $$v = \frac{\lambda}{T}$$  
-$intensità = \frac{Potenza}{superficie} \qquad I=\frac{P}{Sup}$
+$$\text{intensità} = \frac{\text{Potenza}}{\text{superficie}} \qquad I=\frac{P}{Sup}$$
 
 * onde corde : $$v = \sqrt{\frac{F}{\mu}}$$ , dove $$\mu$$ è la densità lineare e F è la forza della perturbazione
 * onde sonore: $$v =\sqrt{\frac{\gamma R T}{M}}$$
@@ -40,11 +40,12 @@ $intensità = \frac{Potenza}{superficie} \qquad I=\frac{P}{Sup}$
   $$I_o=10^{-12}\frac{W}{m^2}\;$$ tale misura è il massimo suono udibile
 
 
-  $$
-  I=10I_0\rightarrow 10\text{dB}
-  I=100I_0\rightarrow 20\text{dB}
+$$
+  I=10I_0\rightarrow 10\text{dB} \\
+  I=100I_0\rightarrow 20\text{dB} \\
   I=1000I_0\rightarrow 30\text{dB}
-  $$
+$$
+
 
 ## Fenomeni delle onde
 
@@ -137,7 +138,7 @@ $$
 
 #### Formula generale
 
-$\pm$ e $\mp$ scelgo il segno sopra se si avvicinano, mentre il segno sotto se si allontanano
+$$\pm$$ e $$\mp$$ scelgo il segno sopra se si avvicinano, mentre il segno sotto se si allontanano
 
 
 $$
