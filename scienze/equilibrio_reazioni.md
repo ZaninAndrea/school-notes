@@ -34,7 +34,7 @@ Le **reazioni reversibili** sono reazioni i cui prodotti possono reagire per tor
 $$ A + B \Leftrightarrow C + D $$
 
 Nelle reazioni di questo tipo ci può essere un **equilibrio dinamico**, ossia quando 2 reazioni inverse si bilanciano.; in tal caso le proprietà macroscopiche non cambiano. L'equilibrio dinamico, quando alterato, tende a tornare allo stato di equilibrio.
-> **Esempio dello Iodio**
+> #### success::Esempio dello Iodio
 > $$ I_2 + H_2O \Leftrightarrow I^- + IO_3^- + 6H^+$$
 > - Per controllare che sia veramente un equilibrio dinamico aggiungo $$Na^+OH^-$$, che reagisce con $$H^+$$ formando $$H_2O +Na^+$$. Alterano la concetrazione di $$H^+$$, se essa torna all'equilibrio ho dimostrato che è dinamico.
 > - Aggiungendo iodio radioattivo alla soluzione satura noto che la soluzione diventa radioattiva, ciò significa che è un equlibrio dinamico, perchè c'è scambio tra la soluzione e lo iodio.
