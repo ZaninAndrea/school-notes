@@ -51,6 +51,7 @@ $$
 $$[X]$$ è la concentrazione di $$X$$ espressa in $$\frac{\text{moli}}{l}$$
 Ogni reazioni tende a stabilizzarsi con rapporti tra reagenti e prodotti tipici di quella reazione.
 Il valore di costante ci permette di capire se prevalgono reagenti o prodotti:
+
 valore|significato
 ---|---
 circa 1|circa uguali
@@ -76,6 +77,7 @@ $$
 v_1=K_1[H_2]^3[N_2] \\
 v_2=K_2[NH_3]^2
 $$
+
 $$3H_2$$|$$N_2$$|$$2NH_3$$
 ---|---|---
 x|y|z
