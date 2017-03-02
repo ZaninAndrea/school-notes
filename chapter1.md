@@ -1,10 +1,12 @@
 
-# ONDE E SUONI
+# ONDE
 > #### info::Definizione di onda
 >
 > una perturbazione prodotta da una sorgente che si propaga in tutti i punti dello spazio
 
 La propagazione di un onda non implica il trasporto di materia, ma solo il trasporto di energia
+
+<!-- toc -->
 
 ## Nomenclatura onde
  Nome | definizione
