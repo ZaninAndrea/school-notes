@@ -1,6 +1,7 @@
 # Reazioni ed equilibrio
 <!-- toc -->
 ## Velocità di reazione
+### Definizione
 > #### info::velocità di reazione
 >
 > ci sono reazioni lente e veloci. La velocità di reazione è la variazione di concentrazione di prodotti nell'intervallo di tempo  
@@ -27,6 +28,7 @@ Ogni reazione ha bisogno di un **energia di attivazione** (che serve a garantire
 - Se aumento la superficie la reazione è più veloce, quindi ad esempio sminuzzando
 
 ## Equilibrio chimico
+### Tipi di reazioni
 Le **reazioni a completamento** sono reazioni irreversibili, e.g. reazioni con formazione di gas in ambiente aperto
 $$Zn + 2HCl \rightarrow ZnCl_2 + H_2 \uparrow$$
 
