@@ -1,8 +1,9 @@
 # Reazioni ed equilibrio
 <!-- toc -->
 ## Velocità di reazione
-> **velocità di reazione**
-> ci sono reazioni lente e veloci. La velocità di reazione è la variazione di concentrazione di prodotti nell'intervallo di tempo
+> #### info::velocità di reazione
+>
+> ci sono reazioni lente e veloci. La velocità di reazione è la variazione di concentrazione di prodotti nell'intervallo di tempo  
 > $$\Delta P = \frac{\text{moli di soluto}}{\text{litri di soluzione}}$$
 
 ### Come avviene una reazione?
