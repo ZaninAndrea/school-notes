@@ -1,4 +1,5 @@
 # Hamlet
+<!-- toc -->
 ## Interpretation
 It's Shakespears most famous play
 Hamlet represents a man thorn by doubt

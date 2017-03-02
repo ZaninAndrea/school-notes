@@ -54,7 +54,9 @@ $$I=\frac{P}{4\pi r^2}$$
 #### Principio di sovrapposizione
 Quando più onde si trovano nella stessa posizione si sovrappongono e l'onda risultante è la somma algebrica delle onde
 L'interferenza si dice **costruttiva** quando l'onda risultante è la massima possibile.
-L'interferenza si dice **distruttiva** quando l'onda risultante è nulla.![esempio di sovrapposizione](https://i.imgur.com/3ACqhiF.png) ![enter image description here](https://i.imgur.com/xCvWkT7.png)
+L'interferenza si dice **distruttiva** quando l'onda risultante è nulla.
+![esempio di sovrapposizione](https://i.imgur.com/3ACqhiF.png)
+![enter image description here](https://i.imgur.com/xCvWkT7.png)
 *Onda blu è la somma della verde e della rossa*
 #### Fenomeno dei battimenti
 Due onde con frequenze molto simili danno origine al fenomeno dei battimenti (un particolare caso di interferenza), si forma quindi un onda che

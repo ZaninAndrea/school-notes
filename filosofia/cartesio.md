@@ -1,8 +1,10 @@
 # Cartesio e i razionalisti
-
+<!-- toc -->
+Gente importante
  - Cartesio (Renè Descartes)
  - Spinoza
  - Leibniz
+
 ## Cartesio
 Le sue due opere più importanti sono
 - *Il discorso sul metodo*
@@ -39,4 +41,4 @@ Ci sono idee:
 È possibile che Dio ci inganni sempre? No, perchè un Dio burlone è contrario alla ragione e quindi tutte le idee chiare e distinte sono ragionevolmente credibili. Un esempio di contenuto chiaro e distinto è che esistono la res extensa e la res cogitans.
 
 ### Riflessioni di Hobbes
-Hobbes obietta che 
+Hobbes obietta che

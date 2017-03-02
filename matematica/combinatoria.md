@@ -1,4 +1,5 @@
 # Calcolo Combinatorio
+<!-- toc -->
 ## Fattoriali
 Sono indicati con il simbolo ! dopo il numero
 $$
