@@ -1,6 +1,7 @@
 
 # ONDE E SUONI
-> **Definizione di onda**
+> #### info::Definizione di onda
+>
 > una perturbazione prodotta da una sorgente che si propaga in tutti i punti dello spazio
 
 La propagazione di un onda non implica il trasporto di materia, ma solo il trasporto di energia
@@ -22,7 +23,7 @@ v --> velocità di propagazione dell'onda
 $$v = \frac{\lambda}{T}$$
 $$intensità = \frac{Potenza}{superficie} \qquad I=\frac{P}{Sup}$$
 
- - onde corde : $$v = \sqrt{\frac{F}{\mu}}$ , dove $\mu$$ è la densità lineare e F è la forza della perturbazione
+ - onde corde : $$v = \sqrt{\frac{F}{\mu}}$$ , dove $$\mu$$ è la densità lineare e F è la forza della perturbazione
  - onde sonore: $$v =\sqrt{\frac{\gamma R T}{M}}$$
 ## Suono
 L'orecchio umano percepisce suoni nella gamma 20-20000 Hz, al di sotto di tale gamma sono infrasuoni, al di sopra sono ultrasuoni.
@@ -134,6 +135,8 @@ e.g. una matita immersa per metà in un bicchiere d'acqua sembra spezzato
 
 ### Angolo limite
 Il fenomeno dell'angolo limite avviene solo al passaggio da un mezzo con indice maggiore a uno con indice minore
+> #### info::Angolo limite
+>
 > L' angolo limite è quell'angolo di incidenza per il quale l'angolo di rifrazione è di 90°
 
 ### Cambiamento di fase dovuto alla riflessione
