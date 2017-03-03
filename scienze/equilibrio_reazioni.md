@@ -131,6 +131,8 @@ $$
 Calcolare il $$K_{\text{ps}} \text{ di }PbF_2$$ a 25° sapendo che la sua solubilità è $$2.15\cdot10^{-3}\text{mol/l}$$
 $$
 PbF_2 \Leftrightarrow P^{2+}+2F^- \\
+$$
+$$
 \begin{align*}
 K_{\text{ps}}&=[P^{2+}][F^-]^2 \\
 &=2.15\cdot10^{-3}\cdot(2.15\cdot10^{-3}\cdot2)^2
