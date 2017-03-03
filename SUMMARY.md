@@ -12,7 +12,5 @@
 * Filosofia
   * [Cartesio](filosofia\cartesio.md)
 * Italiano
-  * [Varie](/italiano/varie.md "Varie")
-
-
+  * [Varie](/italiano/varie.md)
 

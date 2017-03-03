@@ -114,23 +114,74 @@ $$
 ps sta per prodotto di solubilità, più $$K_{\text{ps}}$$ è alto, più il reagente è solubile.
 
 ### Esercizi
+#### Solubilità partendo da $$K_{\text{ps}}$$
 Calcolare la solubilità di $$CaF_2$$ dato $$K_{\text{ps}}=3.2\dot 10^{-11}$$
 $$
 CaF_2 \Leftrightarrow Ca^{2+}+2F^- \\
 K_{\text{ps}}=[Ca^{2+}][F^-]^2
 $$
 Si libereranno x moli di $$Ca^{2+}$$ e 2x moli di $$F^-$$
+ 
 $$
 3.2\cdot 10^{-11}=x\cdot(2x)^2 \\
 x=2\cdot 10^{-4}m/l
 $$
 
-
-----------
+#### $$K_{\text{ps}}$$ partendo dalla solubilità
+Calcolare il $$K_{\text{ps}} \text{ di }PbF_2$$ a 25° sapendo che la sua solubilità è $$2.15\cdot10^{-3}\text{mol/l}$$
+$$
+PbF_2 \Leftrightarrow P^{2+}+2F^- \\
+\begin{align*}
+K_{\text{ps}}&=[P^{2+}][F^-]^2 \\
+&=2.15\cdot10^{-3}\cdot(2.15\cdot10^{-3}\cdot2)^2
+&=3.97\cdot 10^{-8}
+\end{align*}
+$$
+#### Prevedere se si formerà un precipitato
 Prevedere se mescolate 2 soluzioni si forma un precipitato
 $$
 AgNO_3 \quad 10^{-2}M \\
 HCl \quad 10^{-4}M \\
-AgNO_3 + HCl \rightarrow AgCl + HNO_3 \\
+AgNO_3 + HCl \rightarrow AgCl\downarrow + HNO_3 \\
 K_{\text{ps}}=1.8\cdot 10^{-10}
 $$
+Dobbiamo controllare quindi se $$AgCl$$ ha una concentrazione superiore a $1.8\cdot 10^{-10}$
+$$AgNO_3$$ in acqua si separa in $$Ag^+ + NO_3^-$$, mentre $$HCl$$ si separa in $$H^+ + Cl^-$$
+$$
+\begin{align*}
+K_{\text{ps}} &=[Ag^+][Cl^-] \\
+&=10^{-2}\text{m/l}\cdot 10^{-4}\text{m/l} \\
+&=10^{-6}\text{m/l}
+\end{align*}
+$$
+La concentrazione $$10^{-6}\gt\gt K_{\text{ps}}$$ quindi $$AgCl$$ precipita
+
+#### Effetto dello ione comune
+$$
+PbCl_2 \Leftrightarrow Pb^{2+} + 2Cl^- \\
+K_{\text{ps}}=2.4\cdot 10^{-4}
+$$
+Aggiungo ora $$NaCl$$, quindo ho più cloro, di conseguenza si scioglierà meno $$PbCl_2$$ in acqua
+Per ogni mole di $$Pb$$ si liberano 2 moli di $$Cl$$.
+In acqua pura la sua solubilità è
+$$
+\begin{align*}
+2.4\cdot 10^{-4}&=x\cdot(2x)^2 \\
+x&=0.039 \text{m/l}
+\end{align*}
+$$
+Aggiungo ora 0.1 moli di $$NaCl$$, che porta ioni $$Cl^-$$, quindi sposto l'equilibrio
+
+| $$Pb^{2+}$$ | $$2Cl^-$$ |
+| --- | --- |
+| x | 2x |
+|x | 0.1 + 2x |
+La costante $$K_{\text{ps}}$$ è molto piccola, quindi $$2x + 0.1 \approx 0.1$$
+$$
+\begin{align*}
+2.4\cdot 10^{-4}&=x\cdot(2x + 0.1) \\
+&\approx x\cdot(0.1) \\
+x &\approx0.0024\text{m/l}
+\end{align*}
+$$
+Ho confermato che aggiungere $$NaCl$$ ha diminuito la solubilità.
