@@ -11,4 +11,8 @@
   * [Hamlet](english_literature\hamlet.md)
 * Filosofia
   * [Cartesio](filosofia\cartesio.md)
+* Italiano
+  * [Varie](/italiano/varie.md "Varie")
+
+
 
