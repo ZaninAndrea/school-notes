@@ -2,8 +2,7 @@
 <!-- toc -->
 ## Velocità di reazione
 ### Definizione
-> #### info::velocità di reazione
->
+> #### velocità di reazione
 > ci sono reazioni lente e veloci. La velocità di reazione è la variazione di concentrazione di prodotti nell'intervallo di tempo  
 > $$\Delta P = \frac{\text{moli di soluto}}{\text{litri di soluzione}}$$
 
@@ -36,7 +35,7 @@ Le **reazioni reversibili** sono reazioni i cui prodotti possono reagire per tor
 $$ A + B \Leftrightarrow C + D $$
 
 Nelle reazioni di questo tipo ci può essere un **equilibrio dinamico**, ossia quando 2 reazioni inverse si bilanciano.; in tal caso le proprietà macroscopiche non cambiano. L'equilibrio dinamico, quando alterato, tende a tornare allo stato di equilibrio.
-> success::Esempio dello Iodio
+> #### Esempio dello Iodio
 > $$ I_2 + H_2O \Leftrightarrow I^- + IO_3^- + 6H^+$$
 > - Per controllare che sia veramente un equilibrio dinamico aggiungo $$Na^+OH^-$$, che reagisce con $$H^+$$ formando $$H_2O +Na^+$$. Alterano la concetrazione di $$H^+$$, se essa torna all'equilibrio ho dimostrato che è dinamico.
 > - Aggiungendo iodio radioattivo alla soluzione satura noto che la soluzione diventa radioattiva, ciò significa che è un equlibrio dinamico, perchè c'è scambio tra la soluzione e lo iodio.
