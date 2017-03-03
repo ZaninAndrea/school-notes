@@ -1,8 +1,7 @@
 # Summary
 
-* Fisic
-
-&gt;! [Onde](fisica\onde.md)
+* Fisica
+  * [Onde](fisica\onde.md)
 
 * Matematica
   * [Calcolo Combinatorio](matematica\combinatoria.md)
