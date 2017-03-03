@@ -73,11 +73,11 @@ Se aumento la pressione l'equilibrio si sposta in modo da ridurre le moli di gas
 Se nelle 2 reazioni il numero di moli non cambia, allora indipendentemente dalla pressione l'equilibrio non cambia.
 ##### Esempio
 $$
-3H_{2_{(g)}} + N_{2_{(g)}}=2NH_{3_{(g)}}
-$$
-$$
-v_1=K_1[H_2]^3[N_2] \\
-v_2=K_2[NH_3]^2
+3H_{2_{(g)}} + N_{2_{(g)}}=2NH_{3_{(g)}} \\ 
+\begin{align*}
+v_1&=K_1[H_2]^3[N_2] \\
+v_2&=K_2[NH_3]^2
+\end{align*}
 $$
 
 $$3H_2$$|$$N_2$$|$$2NH_3$$
@@ -86,8 +86,10 @@ x|y|z
 2x|2y|2z
 
 $$
-v_1=K_1x^3y \qquad v_1=K_1 8x^3 2y=16(K_1x^3y) \\
-v_2=K_2z^2 \qquad  v_2=K_2 4z^2=4(K_2z^2)
+\begin{align*}
+v_1&=K_1x^3y& &v_1=K_1 8x^3 2y=16(K_1x^3y) \\
+v_2&=K_2z^2& &v_2=K_2 4z^2=4(K_2z^2)
+\end{align*}
 $$
 Quindi nella fase 2 $$v_1$$ è aumentata di 16 volte, mentre $$v_2$$ è aumentata di 4 volte
 
@@ -98,8 +100,10 @@ Serve a produrre l'ammoniaca e sfrutta le leggi dell'quilibrio chimico per avere
 Quando le sostanze in equilibrio sono in fasi diverse (solido, liquido, gassoso).
 e.g.
 $$
-C_{(s)}+O_{2_{(g)}} \Leftrightarrow 2CO_{(g)} \\
-K_{\text{equilibrio}}=\frac{[CO_{s)}]^2}{[C_{(s)}]^2[O_{2_{(g)}}]}
+\begin{align*}
+C_{(s)}+O_{2_{(g)}} &\Leftrightarrow 2CO_{(g)} \\
+K_{\text{equilibrio}}&=\frac{[CO_{s)}]^2}{[C_{(s)}]^2[O_{2_{(g)}}]}
+\end{align*}
 $$
 Ma la concentrazione non può variare in un solido o in un liquido puro, quindi non ha senso inserirli nella formula per la costante di equilibrio, la costante ingloba la loro presenza.
 $$
@@ -108,8 +112,10 @@ $$
 Negli equilibri di solubilità non teniamo conto del materiale solido non sciolto.
 e.g.
 $$
-AgCl \Leftrightarrow Ag^+ + Cl^- \\
-K_{\text{ps}}=[Ag^+][Cl^-]
+\begin{align*}
+AgCl &\Leftrightarrow Ag^+ + Cl^- \\
+K_{\text{ps}}&=[Ag^+][Cl^-]
+\end{align*}
 $$
 ps sta per prodotto di solubilità, più $$K_{\text{ps}}$$ è alto, più il reagente è solubile.
 
@@ -117,14 +123,18 @@ ps sta per prodotto di solubilità, più $$K_{\text{ps}}$$ è alto, più il reag
 #### Solubilità partendo da $$K_{\text{ps}}$$
 Calcolare la solubilità di $$CaF_2$$ dato $$K_{\text{ps}}=3.2\dot 10^{-11}$$
 $$
-CaF_2 \Leftrightarrow Ca^{2+}+2F^- \\
-K_{\text{ps}}=[Ca^{2+}][F^-]^2
+\begin{align*}
+CaF_2 &\Leftrightarrow Ca^{2+}+2F^- \\
+K_{\text{ps}}&=[Ca^{2+}][F^-]^2
+\end{align*}
 $$
 Si libereranno x moli di $$Ca^{2+}$$ e 2x moli di $$F^-$$
  
 $$
-3.2\cdot 10^{-11}=x\cdot(2x)^2 \\
-x=2\cdot 10^{-4}m/l
+\begin{align*}
+3.2\cdot 10^{-11}&=x\cdot(2x)^2 \\
+x&=2\cdot 10^{-4}m/l
+\end{align*}
 $$
 
 #### $$K_{\text{ps}}$$ partendo dalla solubilità
@@ -144,10 +154,12 @@ $$
 #### Prevedere se si formerà un precipitato
 Prevedere se mescolate 2 soluzioni si forma un precipitato
 $$
-AgNO_3 \quad 10^{-2}M \\
-HCl \quad 10^{-4}M \\
-AgNO_3 + HCl \rightarrow AgCl\downarrow + HNO_3 \\
-K_{\text{ps}}=1.8\cdot 10^{-10}
+\begin{align*}
+AgNO_3 \quad &10^{-2}M \\
+HCl \quad &10^{-4}M \\
+AgNO_3 + HCl &\rightarrow AgCl\downarrow + HNO_3 \\
+K_{\text{ps}}&=1.8\cdot 10^{-10}
+\end{align*}
 $$
 Dobbiamo controllare quindi se $$AgCl$$ ha una concentrazione superiore a $1.8\cdot 10^{-10}$
 $$AgNO_3$$ in acqua si separa in $$Ag^+ + NO_3^-$$, mentre $$HCl$$ si separa in $$H^+ + Cl^-$$
@@ -162,8 +174,10 @@ La concentrazione $$10^{-6}\gt\gt K_{\text{ps}}$$ quindi $$AgCl$$ precipita
 
 #### Effetto dello ione comune
 $$
-PbCl_2 \Leftrightarrow Pb^{2+} + 2Cl^- \\
-K_{\text{ps}}=2.4\cdot 10^{-4}
+\begin{align*}
+PbCl_2 &\Leftrightarrow Pb^{2+} + 2Cl^- \\
+K_{\text{ps}}&=2.4\cdot 10^{-4}
+\end{align*}
 $$
 Aggiungo ora $$NaCl$$, quindo ho più cloro, di conseguenza si scioglierà meno $$PbCl_2$$ in acqua
 Per ogni mole di $$Pb$$ si liberano 2 moli di $$Cl$$.
@@ -176,10 +190,10 @@ x&=0.039 \text{m/l}
 $$
 Aggiungo ora 0.1 moli di $$NaCl$$, che porta ioni $$Cl^-$$, quindi sposto l'equilibrio
 
-| $$Pb^{2+}$$ | $$2Cl^-$$ |
-| --- | --- |
-| x | 2x |
-|x | 0.1 + 2x |
+| | $$Pb^{2+}$$ | $$2Cl^-$$ |
+|---| --- | --- |
+|concentrazioni in acqua pura| x | 2x |
+|concentrazioni in soluzione con $$NaCl$$|x | 0.1 + 2x |
 La costante $$K_{\text{ps}}$$ è molto piccola, quindi $$2x + 0.1 \approx 0.1$$
 $$
 \begin{align*}
