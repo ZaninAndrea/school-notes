@@ -128,14 +128,16 @@ x=2\cdot 10^{-4}m/l
 $$
 
 #### $$K_{\text{ps}}$$ partendo dalla solubilità
-Calcolare il $$K_{\text{ps}} \text{ di }PbF_2$$ a 25° sapendo che la sua solubilità è $$2.15\cdot10^{-3}\text{mol/l}$$
+Calcolare il $$K_{\text{ps}} \text{ di }PbF_2$$ a 25° sapendo che la sua solubilità è $$2.15 \cdot 10^{-3} \text{mol/l}$$ 
+**Equazione di solubilità**
 $$
 PbF_2 \Leftrightarrow P^{2+}+2F^- \\
 $$
+**Adesso troviamo il $$K_{\text{ps}}$$**
 $$
 \begin{align*}
 K_{\text{ps}}&=[P^{2+}][F^-]^2 \\
-&=2.15\cdot10^{-3}\cdot(2.15\cdot10^{-3}\cdot2)^2
+&=2.15\cdot10^{-3}\cdot(2.15\cdot10^{-3}\cdot2)^2 \\
 &=3.97\cdot 10^{-8}
 \end{align*}
 $$
