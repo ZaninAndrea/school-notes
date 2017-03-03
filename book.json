@@ -1,3 +1,8 @@
 {
-    "plugins": ["mathjax",  "bootstrap-callout" , "toc", "addcssjs" ]
+    "plugins": ["mathjax",  "bootstrap-callout" , "toc", "addcssjs" ],
+    "pluginsConfig": {
+        "addcssjs": {
+            "css": ["css/website.css"]
+              }
+        }
 }
