@@ -2,7 +2,6 @@
 
 * Fisica
   * [Onde](fisica\onde.md)
-
 * Matematica
   * [Calcolo Combinatorio](matematica\combinatoria.md)
 * Scienze
