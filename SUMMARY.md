@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Fisica](fisica.md)
+* Fisica
   * [Onde](fisica\onde.md)
 * Matematica
   * [Calcolo Combinatorio](matematica\combinatoria.md)
@@ -13,4 +12,6 @@
   * [Cartesio](filosofia\cartesio.md)
 * Italiano
   * [Varie](/italiano/varie.md)
+
+
 
