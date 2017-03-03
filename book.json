@@ -1,10 +1,9 @@
 {
-    "plugins": ["mathjax",  "bootstrap-callout" , "toc" ],
+    "plugins": ["mathjax", "toc" ],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
-            "className": "toc",
-      "maxDepth": 3
+            "className": "toc"
         }
     }
 }

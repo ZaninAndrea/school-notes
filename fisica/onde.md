@@ -1,6 +1,6 @@
 
 # ONDE
-> #### info::Definizione di onda
+> #### definizione di onda
 >
 > una perturbazione prodotta da una sorgente che si propaga in tutti i punti dello spazio
 
@@ -139,7 +139,7 @@ e.g. una matita immersa per metà in un bicchiere d'acqua sembra spezzato
 
 ### Angolo limite
 Il fenomeno dell'angolo limite avviene solo al passaggio da un mezzo con indice maggiore a uno con indice minore
-> #### info::Angolo limite
+> #### Angolo limite
 >
 > L' angolo limite è quell'angolo di incidenza per il quale l'angolo di rifrazione è di 90°
 
