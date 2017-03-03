@@ -42,3 +42,11 @@ Ci sono idee:
 
 ### Riflessioni di Hobbes
 Hobbes obietta che dall'essere una res cogitans non si può dedurre di essere una sostanza pensante. Perchè sarebbe come dire che io sono passeggiante quindi sono una passeggiata.
+
+**CARTESIO**
+Entità pensante --> esiste il pensiero come entità a se stante
+
+**HOBBES** 
+Entità pensante --> entità = sostanza + proprietà di pensare
+Entità passeggiante --> entità materiale + proprietà di passeggiare
+Ontologia materialista, è un monista (ossia pensa che esista solo una cosa)
