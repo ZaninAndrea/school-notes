@@ -41,4 +41,4 @@ Ci sono idee:
 È possibile che Dio ci inganni sempre? No, perchè un Dio burlone è contrario alla ragione e quindi tutte le idee chiare e distinte sono ragionevolmente credibili. Un esempio di contenuto chiaro e distinto è che esistono la res extensa e la res cogitans.
 
 ### Riflessioni di Hobbes
-Hobbes obietta che 
+Hobbes obietta che dall'essere una res cogitans non si può dedurre di essere una sostanza pensante. Perchè sarebbe come dire che io sono passeggiante quindi sono una passeggiata.
