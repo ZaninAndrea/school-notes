@@ -31,14 +31,14 @@ Basi solide:
 - cogito, anche se dubito di pensare sto pensando
 
 Ci sono idee:
-- fittizie che vengo dall'esterno
+- avventizie (fittizie??) che vengo dall'esterno
 - fattizie che vengono da se stesso
 - innate
 	- tra queste c'è l'idea di Dio
 		- non posso essermela fatta io, perchè io non ho nozione di nulla di perfetto e non può provenire dagli altri
 		- quindi ce la deve aver messa Dio
-
+		
 È possibile che Dio ci inganni sempre? No, perchè un Dio burlone è contrario alla ragione e quindi tutte le idee chiare e distinte sono ragionevolmente credibili. Un esempio di contenuto chiaro e distinto è che esistono la res extensa e la res cogitans.
 
 ### Riflessioni di Hobbes
-Hobbes obietta che
+Hobbes obietta che 
