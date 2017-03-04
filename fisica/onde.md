@@ -18,15 +18,16 @@ armoniche|quando l'onda ha forma sinusoidale
 trasversali|perturbazione perpendicolare allo spostamento
 longitudinali|perturbazione parallela allo spostamento
 
-$$\lambda$$ --> la distanza tra 2 punti omologhi
-T --> tempo trascorso tra un massimo e l'altro
+$$\lambda \: \rightarrow$$ la distanza tra 2 punti omologhi
+$$T \: \rightarrow$$ tempo trascorso tra un massimo e l'altro
 $$f = \frac{1}{T}$$
-v --> velocità di propagazione dell'onda
+$$v \: \rightarrow$$ velocità di propagazione dell'onda
 $$v = \frac{\lambda}{T}$$
 $$intensità = \frac{Potenza}{superficie} \qquad I=\frac{P}{Sup}$$
 
  - onde corde : $$v = \sqrt{\frac{F}{\mu}}$$ , dove $$\mu$$ è la densità lineare e F è la forza della perturbazione
  - onde sonore: $$v =\sqrt{\frac{\gamma R T}{M}}$$
+
 ## Suono
 L'orecchio umano percepisce suoni nella gamma 20-20000 Hz, al di sotto di tale gamma sono infrasuoni, al di sopra sono ultrasuoni.
 La "nota acuta o grave" è la frequenza dell'onda
@@ -37,9 +38,11 @@ $$I=\frac{P}{4\pi r^2}$$
  $$\beta = 10\text{dB} \cdot \log{(\frac{I}{I_0})}$$
  $$I_o=10^{-12}\frac{W}{m^2}\;$$ tale misura è il massimo suono udibile
  $$
- I=10I_0\rightarrow 10\text{dB} \\
- I=100I_0\rightarrow 20\text{dB} \\
- I=1000I_0\rightarrow 30\text{dB}
+ \begin{align*}
+ I&=10I_0&\rightarrow 10\text{dB} \\
+ I&=100I_0&\rightarrow 20\text{dB} \\
+ I&=1000I_0&\rightarrow 30\text{dB}
+ \end{align*}
  $$
 
 ## Fenomeni delle onde
@@ -62,9 +65,11 @@ L'interferenza si dice **distruttiva** quando l'onda risultante è nulla.
 Due onde con frequenze molto simili danno origine al fenomeno dei battimenti (un particolare caso di interferenza), si forma quindi un onda che
 
 $$
-y_1=A\cos{(2\pi f_1 t)} \\
-y_2=A \cos{(2\pi f_2 t)} \\
-y_1 + y_2 = 2A\cos{(2\pi (f_1 - f_2)t)} \cos{(2\pi (f_1 + f_2)t)}
+\begin{align*}
+y_1&=A\cos{(2\pi f_1 t)} \\
+y_2&=A \cos{(2\pi f_2 t)} \\
+y_1 + y_2 &= 2A\cos{(2\pi (f_1 - f_2)t)} \cos{(2\pi (f_1 + f_2)t)}
+\end{align*}
 $$
 ![enter image description here](https://i.imgur.com/3iIjY6s.png)
 ## Onde stazionarie
@@ -90,23 +95,31 @@ $$
 La percezione del suono dipende anche dal moto relativo di sorgente e ascoltatore.
 #### Osservatore in movimento
 $$
-v=\text{velocità dell'onda}\\
-u_o=\text{velocità osservatore in movimento}\\
-f^{'}=\frac{v\pm u_o}{\lambda}=\frac{v \pm u_o}{\frac{v}{f}}
-=(1 \pm \frac{u_o}{v})f\\
-\lambda^{'}=\lambda
+\begin{align*}
+v&\rightarrow \text{velocità dell'onda}\\
+u_o&\rightarrow \text{velocità osservatore in movimento}\\
+f^{'}&=\frac{v\pm u_o}{\lambda}\\
+&=\frac{v \pm u_o}{\frac{v}{f}} \\
+&=(1 \pm \frac{u_o}{v})f\\
+\lambda^{'}&=\lambda
+\end{align*}
 $$
 
 #### Sorgente in movimento
 $$
-v=\text{velocità dell'onda}\\
-u_s=\text{velocità sorgente in movimento}\\
-\lambda^{'}=vT \mp u_sT=\frac{(v \mp u_s)}{f}\\
-f^{'}=\frac{v}{\lambda^{'}}=\frac{v}{(v \mp u_s)}f=(\frac{1}{1 \mp \frac{u_s}{v}})f
+\begin{align*}
+v&=\text{velocità dell'onda}\\
+u_s&=\text{velocità sorgente in movimento}\\
+\lambda^{'}&=vT \mp u_sT \\
+&=\frac{(v \mp u_s)}{f}\\
+f^{'}&=\frac{v}{\lambda^{'}} \\
+&=\frac{v}{(v \mp u_s)}f \\
+&=(\frac{1}{1 \mp \frac{u_s}{v}})f
+\end{align*}
 $$
 
 #### Formula generale
-$$\pm$$ e $$\mp$$ scelgo il segno sopra se si avvicinano, mentre il segno sotto se si allontanano
+$$\pm$$ e $$\mp$$ scelgo il segno sopra se si avvicinano al suono, mentre il segno sotto se si allontanano dal suono.
 $$
 f^{'}=\frac{(1 \pm \frac{u_o}{v})}{(1 \mp \frac{u_s}{v})}f
 $$
