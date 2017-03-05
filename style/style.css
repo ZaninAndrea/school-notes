@@ -1,6 +1,13 @@
 blockquote{
-    border-left: 4px solid blue;
+    margin: 20px 0;
+    padding: 15px 30px 15px 15px;
+    border-left: 5px solid #d0e3f0;
+    background-color: #f0f7fd;
 }
 blockquote h4{
-    color: blue;
+    margin-top: 0;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
 }
