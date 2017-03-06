@@ -50,3 +50,7 @@ Entità pensante --> esiste il pensiero come entità a se stante
 Entità pensante --> entità = sostanza + proprietà di pensare
 Entità passeggiante --> entità materiale + proprietà di passeggiare
 Ontologia materialista, è un monista (ossia pensa che esista solo una cosa)
+
+Candido: focus su denaro, gesuiti, donne, colonialismo, lavoro, utopia
+Leibniz sostiene che il nostro è il migliore dei mondi possibili, in quanto è creato da Dio.
+Ab uno omnia deducendo

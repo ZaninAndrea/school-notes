@@ -17,4 +17,7 @@
 * [Cartesio](filosofia\cartesio.md)
 
 ## Italiano
-* [Varie](/italiano/varie.md)
+* [Varie](italiano\varie.md)
+
+## Storia
+* [Varie](storia\varie.md)
