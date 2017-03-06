@@ -49,8 +49,8 @@ P_{n,r}=\frac{n!}{(n-r)!}
 $$
 **n** is the size of the sequence **from** which the objects are permuted
 **r** is the size of the size of the sequence **in** which the objects are permuted.
->**Italiano**  
->quando n e k sono uguali vengono chiamati permutazioni, altrimenti le chiamiamo disposizioni
+> **Italiano**  
+> quando n e k sono uguali vengono chiamati permutazioni, altrimenti le chiamiamo disposizioni
 
 Sulla calcolatrice si calcola con la funzione nPr
 #### With undistinguishable objects
