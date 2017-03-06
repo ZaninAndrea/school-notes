@@ -42,7 +42,7 @@ $$
 permutations is the rearrangement of objects or symbols in an ordered list without repetitions, perhaps missing some elements. Each unique ordering is called a permutation.
 $$
 P_{n,r}=\frac{n!}{(n-r)!}
-$$# 
+$$
 **n** is the size of the sequence **from** which the objects are permuted
 **r** is the size of the size of the sequence **in** which the objects are permuted.
 >**Italiano**
