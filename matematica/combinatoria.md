@@ -34,8 +34,12 @@ $$
 $$
 
 ### Esericizi
- 1. $$\frac{\binom{10}{7}+\binom{9}{0}+\binom{9}{1}}{\binom{0}{0}}\qquad[130]$$
- 2. $$\binom{10}{k}=\binom{10}{k-2} \qquad[k=6]$$
+$$
+\begin{align*}
+1.& &\frac{\binom{10}{7}+\binom{9}{0}+\binom{9}{1}}{\binom{0}{0}}& &[130] \\
+2.& &\binom{10}{k}=\binom{10}{k-2}& &[k=6]
+\end{align*}
+$$
 
 ## Combinatoria
 ### Permutations without repetition
