@@ -19,10 +19,15 @@ trasversali|perturbazione perpendicolare allo spostamento
 longitudinali|perturbazione parallela allo spostamento
 
 $$\lambda \: \rightarrow$$ la distanza tra 2 punti omologhi
+
 $$T \: \rightarrow$$ tempo trascorso tra un massimo e l'altro
+
 $$f = \frac{1}{T}$$
+
 $$v \: \rightarrow$$ velocità di propagazione dell'onda
+
 $$v = \frac{\lambda}{T}$$
+
 $$intensità = \frac{Potenza}{superficie} \qquad I=\frac{P}{Sup}$$
 
  - onde corde : $$v = \sqrt{\frac{F}{\mu}}$$ , dove $$\mu$$ è la densità lineare e F è la forza della perturbazione
