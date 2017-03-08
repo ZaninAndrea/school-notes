@@ -15,6 +15,7 @@
 
 ## Filosofia
 * [Cartesio](filosofia\cartesio.md)
+* [Spinoza](filosofia\Spinoza.md)
 
 ## Italiano
 * [Varie](italiano\varie.md)
