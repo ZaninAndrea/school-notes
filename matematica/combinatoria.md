@@ -1,4 +1,4 @@
-# Calcolo Combinatorio
+# Calcolo Combinatorio### 
 <!-- toc -->
 ## Fattoriali
 Sono indicati con il simbolo ! dopo il numero
@@ -34,19 +34,23 @@ $$
 $$
 
 ### Esericizi
- 1. $$\frac{\binom{10}{7}+\binom{9}{0}+\binom{9}{1}}{\binom{0}{0}}\qquad[130]$$
- 2. $$\binom{10}{k}=\binom{10}{k-2} \qquad[k=6]$$
+$$
+\begin{align*}
+1.& &\frac{\binom{10}{7}+\binom{9}{0}+\binom{9}{1}}{\binom{0}{0}}& &[130] \\
+2.& &\binom{10}{k}=\binom{10}{k-2}& &[k=6]
+\end{align*}
+$$
 
 ## Combinatoria
 ### Permutations without repetition
 permutations is the rearrangement of objects or symbols in an ordered list without repetitions, perhaps missing some elements. Each unique ordering is called a permutation.
 $$
-D_{n,r}=\frac{n!}{(n-r)!}
+P_{n,r}=\frac{n!}{(n-r)!}
 $$
 **n** is the size of the sequence **from** which the objects are permuted
 **r** is the size of the size of the sequence **in** which the objects are permuted.
->**Italiano**
->quando n e k sono uguali vengono chiamati permutazioni, altrimenti le chiamiamo disposizione
+> **Italiano**  
+> quando n e k sono uguali vengono chiamati permutazioni, altrimenti le chiamiamo disposizioni
 
 Sulla calcolatrice si calcola con la funzione nPr
 #### With undistinguishable objects
