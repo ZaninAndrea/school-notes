@@ -6,6 +6,7 @@
 
 ## Matematica
 * [Calcolo Combinatorio](matematica\combinatoria.md)
+* [Probabilità](matematica\probabilita.md)
 
 ## Scienze
 * [Reazioni ed equilibrio](scienze\equilibrio_reazioni.md)
