@@ -10,3 +10,15 @@ Il processo fu molto lungo: da un lato non volevano pagare le tasse, ma dall'alt
 È un movimento culturale che caratterizza buona parte del '700
 I deisti introducono un'idea di tolleranza verso le altre religioni e le altre idee, bisogna avere rispetto per le varie posizioni religiose, filosofiche, politiche.
 Durante questo periodo la lettura diventa un attività sempre più normale per tutti i cittadini del regno.
+
+## Beccaria
+È importante che la pena sia certa in modo che il reo non tenti di sfuggirne, magari compiendo altre efferatezze. Inoltre tanto più la pena è enorme tanto più il criminale tenterà di schivarne gli effetti.
+Storicamente pene pesanti hanno portato a società molto violente, perché allora la pena era guidata dalla stessa crudeltà del reato.
+
+> #### Frase da tatuare
+> Sul trono dettava leggi di ferro ad anime atroci di schiavi che ubbidivano
+
+Le pene severe e la tirannia instaurano un circolo vizioso 
+È importante che lo svantaggio della pena sia poco superiore ai vantaggi del crimine, in questo calcolo dobbiamo considerare la perdita dei vantaggi acquisiti e l'infallibilità dlela pena.
+
+Con pene troppo crudeli è difficile conservare la proporzionalità tra delitto e pena.
