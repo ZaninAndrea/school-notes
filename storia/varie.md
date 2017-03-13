@@ -22,3 +22,15 @@ Le pene severe e la tirannia instaurano un circolo vizioso
 È importante che lo svantaggio della pena sia poco superiore ai vantaggi del crimine, in questo calcolo dobbiamo considerare la perdita dei vantaggi acquisiti e l'infallibilità dlela pena.
 
 Con pene troppo crudeli è difficile conservare la proporzionalità tra delitto e pena.
+
+### Da dove viene il diritto di uccidere?
+Sicuramente questo diritto non viene dalla sovranità delle leggi, perché le leggi rappresentano la somma delle volontà di tutti i cittadini e nessuno ha mai voluto conferire allo stato il diritto di ucciderlo.
+Coloro che pensano che l'uomo non abbia il diritto di uccidersi, come potrebbero pensare che egli possa conferirlo allo stato.
+
+Le persone povere non avranno motivo di seguire le leggi
+
+## Kant
+> #### Frase da tatuare (anche in verifica)
+> L'illuminismo è l'uscita dell'uomo dallo stato di minorità che egli deve imputare a se stesso
+
+Nessuno deve fidarsi di qualcosa solo perché l'ha detto qualcun altro.
