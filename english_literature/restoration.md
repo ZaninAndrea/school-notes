@@ -1,5 +1,5 @@
 # Restoration (1660-1776)
-Historically the Restoration is the recovery of the parliament after the death of Oliver Cromwell, this period ends with the American Revolution.
+Historically the Restoration is the recovery of the Parliament and King after the death of Oliver Cromwell, this period ends with the American Revolution.
 <!-- toc -->
 In this period there is more freedom in the fields of art, literature, theater.
 
