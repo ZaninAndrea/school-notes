@@ -20,6 +20,10 @@ $$
 p(E_1 \cup E_2)= p(E_1) + p(E_2) - p (E_1 \cap E_2)
 $$
 Quando $$p(E_1 \cap E_2)=0$$ i 2 eventi sono incompatibili, altrimenti sono compatibili. 
+$$
+p(E_1 \cap E_2)= p(E_1) \cdot p(E_2)
+$$
+
 
 ### Evento condizionato
 Quando un evento precedente condiziona le probabilità di un evento successivo.
