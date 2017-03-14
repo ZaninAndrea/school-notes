@@ -13,6 +13,7 @@
 
 ## English Literature
 * [Hamlet](english_literature\hamlet.md)
+* [Restoration](english_literature\restoration.md)
 
 ## Filosofia
 * [Cartesio](filosofia\cartesio.md)
