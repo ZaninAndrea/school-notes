@@ -14,3 +14,7 @@ La **legge di Coulomb** che descrive la forza elettrica è analoga alla legge de
 $$
 \overrightarrow{F_{el}}=k\frac{q_1 q_2}{r^2} \qquad \overrightarrow{F_{gr}} = G \frac{m_1 m_2}{r^2}
 $$
+Quanità di carica di un elettrone o protone
+$$
+e=1.6 \cdot 10^{-19} C
+$$
