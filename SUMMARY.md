@@ -3,6 +3,7 @@
 
 ## Fisica
 * [Onde](fisica\onde.md)
+* [Elettrostatica](fisica\elettrostatica.md)
 
 ## Matematica
 * [Calcolo Combinatorio](matematica\combinatoria.md)
