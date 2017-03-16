@@ -52,3 +52,4 @@ Il poeta elegiaco si ribella contro le forme tradizionali della poesia
 Rifiutano la vita militare per prediligere il *servitium amoris*
 L'elegia non può essere compresa senza essere contestualizzata
 
+
