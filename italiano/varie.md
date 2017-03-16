@@ -21,5 +21,34 @@ Componimenti d'occasione \(recitati per nascite, matrimonii,...\), il poeta avev
 
   Dedicata a Domiziano
 
+# Gruppo Leo - Elegi
+1 secolo dC
+Componimento poetico che fa uso del distico elegiaco, ha origini greche.
+distico elegiaco: esametro + pentametro
+È difficile trovare differenze tra l'elegia greca e romana, per la scarsità di reperti della prima.
+**Soggettività** come tratto caratteristico dell'elegia romana
+Componimenti con temi vari, tra cui emozioni e riflessione, accomunati dal tema dell'amore, anche se questa è una nostra percezione.
+alcuni dicono che derivi da **elegos** (strumento musicale), altri la traducono con canto di lamento
 
+## Elegia greca
+### Epoca arcaica
+Si sviluppa dal 7 secolo aC, con Callino e Tirteo e i loro componimenti a tema bellico, con riferimenti all'arete 
+Successivamente Mimnermo introduce il **tema dell'amore**, avvicinandosi a quella che sarà l'elegia latina; egli parla dell'amore tragico e delal vecchiaia che colpisce tutti gli uomini.
+
+### Epoca ellenistica
+Tono più erudito e raffinato, iniziano a comparire i temi mitologici
+Autore principale: Callimaco, egli visse alla corte dei Tolomei ad Alessandri e compose Aitia
+
+# Elegia latina
+Ipotesi sulle origini:
+- Friedrich Leo ipotizza un anello di congiunzione perduto tra elegia greca e latina, che doveva essere di carattere erotico-soggettivo, ma l'opzione fu scartata.
+- Felix Jacobi, che la fà derivare dall'epigramma erotico-ellenistico, ma l'epigramma era troppo breve e poco complesso
+- **si pensa che venga da una varietà di temi**
+
+È una poesia dotta e raffinata, con temi come l'otium e la varietas
+
+**testi troppo lunghi -> TAGLIATI**
+Il poeta elegiaco si ribella contro le forme tradizionali della poesia
+Rifiutano la vita militare per prediligere il *servitium amoris*
+L'elegia non può essere compresa senza essere contestualizzata
 
