@@ -11,6 +11,7 @@
 
 ## Scienze
 * [Reazioni ed equilibrio](scienze\equilibrio_reazioni.md)
+* [Soluzioni](scienze\soluzioni.md)
 
 ## English Literature
 * [Hamlet](english_literature\hamlet.md)
