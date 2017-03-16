@@ -47,6 +47,6 @@ $$
 \text{peso soluto} &= 10 \cdot 40g = 400g \\
 \text{peso soluzione} &= 1.33 \cdot 1000 = 1330g \\
 400g : 1330g &= x:100 \\
-\text{%p/p} &\approx 30%
+\text{%p/p} &\approx 30\%
 \end{align*}
 $$
