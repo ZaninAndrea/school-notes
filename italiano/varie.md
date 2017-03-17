@@ -39,7 +39,7 @@ Successivamente Mimnermo introduce il **tema dell'amore**, avvicinandosi a quell
 Tono più erudito e raffinato, iniziano a comparire i temi mitologici
 Autore principale: Callimaco, egli visse alla corte dei Tolomei ad Alessandri e compose Aitia
 
-# Elegia latina
+## Elegia latina
 Ipotesi sulle origini:
 - Friedrich Leo ipotizza un anello di congiunzione perduto tra elegia greca e latina, che doveva essere di carattere erotico-soggettivo, ma l'opzione fu scartata.
 - Felix Jacobi, che la fà derivare dall'epigramma erotico-ellenistico, ma l'epigramma era troppo breve e poco complesso
@@ -52,4 +52,12 @@ Il poeta elegiaco si ribella contro le forme tradizionali della poesia
 Rifiutano la vita militare per prediligere il *servitium amoris*
 L'elegia non può essere compresa senza essere contestualizzata
 
+> Ad un certo punto l'elegia si trasforma in inno
 
+## Poeti elegiaci
+* Ovidio
+* Tibullo, era di rango equestre. Nel 30 a.C: aveva seguito Messalla in gallia, si ipotizza sia nato nel 50 a.C., morì ne 19 a.C. Scrisse il "Corpus Tibullianum".
+  * **Liber I**: Tema centrale l'amore per Devia, partendo dalla quartà elegia parla anche dell'amore per Marato, sedotto da Tibullo grazie a Priapo. Esaltazione di una vita pacifica. Finale tragico perchè Tibullo deve abbandonare Delia e Marato lo tradisce
+  * **Liber II**: 
+* Properzio
+* Cornelio Gallo, era un homo novus, ossia il primo nella sua famiglia a ricoprire importanti cariche politiche. 69-26 a.C. Forum Iulii. FU nominati procuratore di una provincia d'Egitto, poi cadde in disgrazia. Scrisse la raccolta "Amores", 4 libri di elegie, dedicata a Licoride, che probabilmente era uno pseudonimo per Volumnia. Pochi frammenti, lo stile è incerto, prende spunto dai poeti novi. Da molti considerato l'iniziatore di questo genere, perchè introduce impronta autobiografica, passionalità e la tendenza a raccontare una solo storia amorosa.
