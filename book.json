@@ -1,5 +1,5 @@
 {
-    "plugins": ["mathjax", "toc", "downloadpdf", "toggle2" ],
+    "plugins": ["mathjax", "toc", "downloadpdf", "richquotes" ],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
