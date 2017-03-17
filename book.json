@@ -4,6 +4,12 @@
         "toc": {
             "addClass": true,
             "className": "toc"
+        },
+        "richquotes":{
+            "chem": {
+		"alert": "success",
+		"picto": "fa-flask"
+	    }
         }
     }
 }
