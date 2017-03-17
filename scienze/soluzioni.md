@@ -66,7 +66,8 @@ x &\approx 2.15 ml
 \end{align*}
 $$
 Quindi prendo 2.15 ml di acido e li diluisco fino a farli arrivare a 100 ml di soluzione.
-> **danger** Consiglio del chimico
+> **danger**
+> #### Consiglio del chimico
 > Mai dare da bere all'acido, sempre versare l'acido nell'acqua e poi con una pipetta goccia a goccia aggiustare la quantità di acqua.
 
 ## Interazioni soluto-solvente
