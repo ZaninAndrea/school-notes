@@ -1,14 +1,9 @@
 {
-    "plugins": ["mathjax", "toc", "downloadpdf", "richquotes" ],
+    "plugins": ["mathjax", "toc", "richquotes" ],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
             "className": "toc"
-        },
-        "downloadpdf": {
-          "base": "https://www.gitbook.com/download/pdf/book/zaninandrea/school-notes",
-          "label": "Download PDF",
-          "multilingual": false
         }
     }
 }
