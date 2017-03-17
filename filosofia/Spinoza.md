@@ -15,7 +15,7 @@ Parte da zero
 - **finito**
 - **sostanza**: ciò che è in se e è concepito per se, ossia esiste per conto suo e non ha bisogno di altro per essere compreso (es. per capire il concetto figlio devo cpaire il concetto padre)
     - la sostanza ha infiniti attributi, ma noi siamo limitati e ne concepiamo soltanto 2: pensiero ed estensione
-        - tra pensiero e estensione c'è una relazione di parallelismo _ordo et connexio rerum idem est ac ordo et connexio idearum_, come 2 orologi che pur essendo indipendenti mostrano sempre la stessa ora
+        - tra pensiero e estensione c'è una relazione di parallelismo _ordo et connexio rerum idem est ac ordo et connexio idearum_, come 2 orologi che pur essendo indipendenti mostrano sempre la stessa ora. Pensiero e estensione esprimono lo stato dello stesso sistema
     - tutto ciò che noi vediamo di finito sono _modi_ della sostanza
     - tutto ciò che accade nella sostanza accade in modo meccanico, secondo rapporti causa-effetto
 - **attributo**
@@ -38,3 +38,7 @@ Volendo questa sarebbe una dimostrazioni a priori dell'esistenza di Dio.
 ### Appendice
 Le varie cose hanno bisogno di Dio per essere determinate, ogni cosa è stata creata da Dio, ma non per sua volontà, ma come conseugenza della sua natura.
 Gli eventi non hanno uno scopo, ma gli umani credono che gli eventi si susseguano uno scopo, perché nascono ignorando la causa delle cose e cercano ciò che è utile a loro, agiscono quindi sempre per un fine
+
+
+> #### Strawman
+> Tecnica argomentitva in cui si argomenta ontro una versione semplificata dell'idea dell'avversario in modo da renderla criticabile.
