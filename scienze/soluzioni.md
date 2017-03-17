@@ -68,3 +68,40 @@ $$
 Quindi prendo 2.15 ml di acido e li diluisco fino a farli arrivare a 100 ml di soluzione.
 > #### Consiglio del chimico
 > Mai dare da bere all'acido, sempre versare l'acido nell'acqua e poi con una pipetta goccia a goccia aggiustare la quantità di acqua.
+
+## Interazioni soluto-solvente
+**Perché le sostanze si sciolgono?** I legami tra le particelle di soluto e quelli tra le particelle di solvente vengono rotti e si formano nuovi legami tra particelle di soluto e di solvente.
+Un fattore importante è anche l'aumento di entropia
+**Cerchiamo di sciogliere un gas in acqua** prendiamo alcuni esempi:$$CO_2 \; NH_3 \; HCl \; O_2 \; N_2$$. Fattori importanti sono
+* affinità soluto solvente, quindi polarità e non polarità
+* se la molecola reagisce con l'acqua
+
+### Caso della $$CO_2$$
+La $$CO_2$$ viene in parte sciolta e a ciò segue la reazione
+$$
+CO_2 + H_2O \Leftrightarrow H_2CO_3 \Leftrightarrow H^+ + HCO_3^-
+$$
+Dato che la $$CO_2$$ che si scioglie reagisce c'è spazio perchè si sciolga altra $$CO_2$$, questo processo continua e quindi la $$CO_2$$ è solubile
+
+### Caso di $$NH_3$$
+È una molecola polare e quindi già per questo sarebbe solubile, ma in più reagisce con l'acqua e quindi è ancora più solubile
+$$
+NH_3 + H_2O \Leftrightarrow NH_4OH \Leftrightarrow NH_4^+ + OH^-
+$$
+
+
+| | $$CO_2$$ | $$NH_3$$ | $$O_2$$ | $$HCl$$ | $$N_2$$ |
+| --- | --- | --- | --- | --- | --- |
+| polare | NO | SI | NO | | |
+| reagisce| SI | SI | NO | | |
+| solubile| molto | molto | poco | | |
+
+
+
+
+
+
+
+
+
+
