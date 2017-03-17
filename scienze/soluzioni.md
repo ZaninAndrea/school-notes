@@ -39,7 +39,7 @@ m &= \frac{6\text{ moli}}{0.812 kg} = 7.39m
 \end{align*}
 $$
 
-#### peso-peso da molare
+#### Da molarità a peso-peso
 Soluzione di $$NaOH$$ 10M con $$d=1.33\frac{g}{ml}$$
 $$
 \begin{align*}
@@ -50,3 +50,21 @@ $$
 \%\text{p/p} &\approx 30\%
 \end{align*}
 $$
+
+#### Preparare una soluzione meno concentrata
+Mi serve: 100 ml di $$H_2SO_4$$ 0.05M 
+Ho a disposizione: $$H_2SO_4$$ 20% p/p $$d=11.14\frac{g}{ml}$$
+$$
+\begin{align*}
+0.05M&=\frac{\text{n° moli}}{0.1l} \rightarrow 0.005 \text{moli} \\
+\text{peso molare } H_2SO_4 &= 98g \\ 
+\text{peso soluto} &= 0.005 mol \cdot 98 g = 0.49g \\
+\text{g di soluzione} \rightarrow 20 g : 100g &= 0.49g : x \\
+x &= 2.45g \\
+1.14g : 1 ml &= 2.45 g : x \\
+x &\approx 2.15 ml
+\end{align*}
+$$
+Quindi prendo 2.15 ml di acido e li diluisco fino a farli arrivare a 100 ml di soluzione.
+> #### Consiglio del chimico
+> Mai dare da bere all'acido, sempre versare l'acido nell'acqua e poi con una pipetta goccia a goccia aggiustare la quantità di acqua.
