@@ -50,3 +50,5 @@ Da questi Spinoza deriva altri 40 ca. affetti (emozioni).
 Le passioni sono una parte importante dell'uomo nè positive nè negative.
 Alcune passioni se accompagnate alla ragione ci fanno sentire liberi, anche se la libertà assoluta non è possibile.
 Ciò che è bene è ciò che è utile. 
+
+
