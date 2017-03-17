@@ -89,6 +89,8 @@ $$
 NH_3 + H_2O \Leftrightarrow NH_4OH \Leftrightarrow NH_4^+ + OH^-
 $$
 
+### Caso di $$O_2$$
+Non è polare e non reagisce, quidi è poco solubile se non in condizioni particolari.
 
 | | $$CO_2$$ | $$NH_3$$ | $$O_2$$ | $$HCl$$ | $$N_2$$ |
 | --- | --- | --- | --- | --- | --- |
