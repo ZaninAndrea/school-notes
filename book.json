@@ -1,5 +1,5 @@
 {
-    "plugins": ["mathjax", "toc", "downloadpdf" ],
+    "plugins": ["mathjax", "toc", "downloadpdf", "quiz" ],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
@@ -9,6 +9,22 @@
           "base": "https://www.gitbook.com/download/pdf/book/zaninandrea/school-notes",
           "label": "Download PDF",
           "multilingual": false
-        }
+        },
+        "quiz": {
+            "labels": {
+                "check"             : "Controlla le risposte",
+                "showExplanation"   : "Mostra spiegazione", 
+                "showCorrect"       : "Mostra risposta",   
+                "explanationHeader" : "Spiegazione"
+            },
+            "text": {
+                "noChosen"    : "Scegli almeno una risposta",  
+                "incomplete"  : "Mancano alcune risposte" 
+            },
+            "buttons": {
+                "showCorrect"       : true, 
+                "showExplanation"   : true 
+            }
+    }
     }
 }

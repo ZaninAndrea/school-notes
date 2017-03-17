@@ -42,3 +42,11 @@ Gli eventi non hanno uno scopo, ma gli umani credono che gli eventi si susseguan
 
 > #### Strawman
 > Tecnica argomentitva in cui si argomenta ontro una versione semplificata dell'idea dell'avversario in modo da renderla criticabile.
+
+La natura segue il principio _Conatus sese conservandi_, ossia la natura tende a cercare di conservarsi nell'esistenza. Questo sforzo se si riguardo solo la mente è volontà, riguarda mente e corpo è un appetito e gli appetiti consapevoli sono detti desideri.
+Quando il tentativo di autoconservarci viene soddisfatto proviamo gioia, se riguarda anche il corpo è piacere.
+Quando invece viene ostacolato proviamo tristezza, se riguarda anche il corpo è dolore.
+Da questi Spinoza deriva altri 40 ca. affetti (emozioni).
+Le passioni sono una parte importante dell'uomo nè positive nè negative.
+Alcune passioni se accompagnate alla ragione ci fanno sentire liberi, anche se la libertà assoluta non è possibile.
+Ciò che è bene è ciò che è utile. 
