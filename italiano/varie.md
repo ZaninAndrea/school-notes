@@ -17,7 +17,8 @@ Fu uno dei pochi se non il solo a scrivere lirica nel periodo imperiale, perché
 Componimenti d'occasione \(recitati per nascite, matrimonii,...\), il poeta aveva una grande conoscenza del gusto dell'epoca, descrive in modo dettagliato ville e giardini.
 
 * Interventi degli degli dei
-  ### Tebaide
+
+### Tebaide
 
   Dedicata a Domiziano
 
