@@ -62,3 +62,23 @@ L'elegia non può essere compresa senza essere contestualizzata
   * **Liber II**: 
 * Properzio
 * Cornelio Gallo, era un homo novus, ossia il primo nella sua famiglia a ricoprire importanti cariche politiche. 69-26 a.C. Forum Iulii. FU nominati procuratore di una provincia d'Egitto, poi cadde in disgrazia. Scrisse la raccolta "Amores", 4 libri di elegie, dedicata a Licoride, che probabilmente era uno pseudonimo per Volumnia. Pochi frammenti, lo stile è incerto, prende spunto dai poeti novi. Da molti considerato l'iniziatore di questo genere, perchè introduce impronta autobiografica, passionalità e la tendenza a raccontare una solo storia amorosa.
+
+# Lotti - Poliziano
+## Poliziano
+Protasi, l'idea dell'amore, della sapienza e della fortuna vengono unificati. Il poeta è spinto a celebrare.
+Introduce i 3 concetti chiave: fortuna, morte e tempo.
+Forza - Amore -> Fortuna (Caso) -> Tempo - Morte
+Tradizione trionfale 
+Poliziano parte dalla morte come aspetto principale e ricava gli altri in relazione alla morte. La morte è sconfitta dal tempo e il tempo dalla poesia
+### Stanze
+Soggetto Iulo (Giuliano de Medici)
+Ottava 8: figura delle dolce cerbe cure
+
+## Machiavelli
+Parallelamente in Machiavelli possiamo trovare i concetti di Forza - Astuzia -> Virtù -> Fortuna 
+
+
+
+
+
+
