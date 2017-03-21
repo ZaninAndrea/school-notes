@@ -41,8 +41,28 @@ Many newspapers and magazines spread in this period, among those the Tatler and 
 The main purpouse of the writers was to teach **how to think and behave**, particularly to the middle-classes
 Educated people gather in pubs and cafes to **discuss social and political issues** of the time, to share opinions.
 
-### Daniel Defoe
+The word novel (romanzo) means also new. In this time fiction developed.
+The story are the facts, while the plot is the way they are presented (flashbacks and flashforwards).
+In this period we see the rise of the novel, they present the need for realism; novels deal with common and ordinary situation, using a clear language.
+In this period the plot is mainly in chronological order, novels are bound in realistic details. The readers ask for original story that can entertain them and make them empathize.
+- The realistic novel contains many details about time and places, e.g. Robinson Crusoe, in which time is minutely measured, it gives the reader coordinates and plenty of names and details.
+- The utopian novel, which shows imaginary world, it includes precise geographical information e.g. Gulliver's travels.
+- ephistolary novel, which focusses on exchanges of letters. Those letters are a mean of psychological analysis
+- ...
+- sentimental novel e.g. Tristram Shandy
 
+### Daniel Defoe (1660-)
+He was born in a puritan family, he worked both as a writer and as a business man. He was improsoned for satire, he also went bankrupt and died in misery. He served as a political spy for both parties; he became famous thanks to Robinson Crusoe. He wrote mainly in prose (articles, essays, books) 
+
+#### Robinson Crusoe
+It's the story of a shipwreck sailor who had to land on a desert island. The story is told in first person. The names of the places which he encounters are carefully reported.
+he represented the typical english colonist, furthermore he's strong, intelligence, and puritan.
+he meets and indigenous whom he give the name Friday. he tames the indigenous. Thanks to this Master-Slave relation we can see the process of colonisation's various phases:
+- baptize: giving him a name
+- giving him threadbare european clothes 
+- teaching him english, as opposed to learning his language
+- teaching him the principles of Christianity
+- forbid him to carry weapon, because Robinson is superior, due to his being white
 
 ## Vocabulary
 
@@ -50,3 +70,5 @@ Educated people gather in pubs and cafes to **discuss social and political issue
 | --- | --- | --- |
 | pave the way | | spianare la strada |
 | lay the foundations | | gettare le fondamenta (figurato)|
+| subdue | | sottomettere |
+| threadbare | worn out | usati |
