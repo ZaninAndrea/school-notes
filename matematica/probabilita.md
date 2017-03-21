@@ -34,3 +34,8 @@ p(BR) &= p(\text{B 1° estr}) \cdot p(\text{R 2° estr | è uscito blu al 1°}) 
 &= \frac{3}{10} \cdot \frac{5}{9}
 \end{align*}
 $$
+
+### Bayes
+$$
+p(A)\cdot p(B|A)=p(B)\cdot p(A|B)
+$$
