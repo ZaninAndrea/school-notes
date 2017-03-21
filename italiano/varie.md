@@ -73,7 +73,8 @@ Poliziano parte dalla morte come aspetto principale e ricava gli altri in relazi
 ### Stanze
 Soggetto Iulo (Giuliano de Medici)
 Ottava 8: figura delle dolce cerbe cure
-Ottava 25: "... e la ingeniosa pecchia al
+Ottava 25: "... e la ingegnosa pecchia al primo albore giva predando ora uno or altro fiore ..."****
+Ottave 33-34: Come Amore si vendica
 
 ## Machiavelli
 Parallelamente in Machiavelli possiamo trovare i concetti di Forza - Astuzia -> Virtù -> Fortuna 
