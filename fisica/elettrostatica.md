@@ -12,9 +12,16 @@
 La forza elettrica può essere sia attrattiva che repulsiva.
 La **legge di Coulomb** che descrive la forza elettrica è analoga alla legge dell'attrazione gravitazionale.
 $$
-\overrightarrow{F_{el}}=k\frac{q_1 q_2}{r^2} \qquad \overrightarrow{F_{gr}} = G \frac{m_1 m_2}{r^2}
+\begin{align*}
+\overrightarrow{F_{el}}&=k\frac{q_1 q_2}{r^2}\\
+k&=8.99\cdot 10^9 \frac{Nm^2}{C^2} \\
+\overrightarrow{F_{el}}&=\frac{1}{4\pi \epsilon_0}\cdot \frac{q_1 q_2}{r^2} \\
+\epsilon_0&=8.85\cdot 10^{-12}\frac{C^2}{Nm^2}
+\end{align*}
 $$
 Quanità di carica di un elettrone o protone
 $$
-e=1.6 \cdot 10^{-19} C
+e=1.602 \cdot 10^{-19} C
 $$
+
+A livello microscopico le forze elettriche sono molto più grandi delle forze gravitazionali (all'interno di un atomo la differenz aha un ordine di grandezza di $$10^{39}$$)
