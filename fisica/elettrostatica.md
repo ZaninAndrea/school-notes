@@ -1,4 +1,4 @@
-# Elettrostatica
+![](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)# Elettrostatica
 * isolanti, gli elettroni non si spostano all'interno
 * conduttori, hanno degli elettroni liberi di muoversi
 <!-- toc -->
@@ -25,3 +25,12 @@ e=1.602 \cdot 10^{-19} C
 $$
 
 A livello microscopico le forze elettriche sono molto più grandi delle forze gravitazionali (all'interno di un atomo la differenz aha un ordine di grandezza di $$10^{39}$$)
+
+## Campo elettrico
+Se una carica di prova $$q_0$$ è sottoposta ad una forza $$F$$ in un certo punto allora il campo elettrico in quel punto è
+$$
+\overrightarrow{E}=\frac{\overrightarrow{F}}{q_0}
+$$
+La presenza di una carica genera un campo elettrico ed esso influenza tutte le cariche nello spazio.
+Posso rappresentare un campo elettrico con le linee di forza, che sono uscenti dalle cariche positive ed entranti nelle cariche negative; il numero di linee è proporzionale all'intensità della carica
+![linee di forza](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)
