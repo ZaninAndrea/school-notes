@@ -24,7 +24,7 @@ $$
 e=1.602 \cdot 10^{-19} C
 $$
 
-A livello microscopico le forze elettriche sono molto più grandi delle forze gravitazionali (all'interno di un atomo la differenz aha un ordine di grandezza di $$10^{39}$$)
+A livello microscopico le forze elettriche sono molto più grandi delle forze gravitazionali (all'interno di un atomo la differenza ha un ordine di grandezza di $$10^{39}$$)
 
 ## Campo elettrico
 Se una carica di prova $$q_0$$ è sottoposta ad una forza $$\overrightarrow{F}$$ in un certo punto allora il **campo elettrico** in quel punto è
