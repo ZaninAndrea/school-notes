@@ -44,4 +44,5 @@ Posso rappresentare un campo elettrico con le **linee di forza**, che
 * sono simmetriche in tutte 3 le dimensioni
 * la densità di linee è proporzionale all'intensità del campo
 * due linee di uno stesso campo non possono incrociarsi
+
 ![linee di forza](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)
