@@ -38,5 +38,10 @@ $$
 $$
 
 Il campo elettrico è anche una **funzione vettoriale della posizione**.
-Posso rappresentare un campo elettrico con le **linee di forza**, che sono uscenti dalle cariche positive ed entranti nelle cariche negative; il numero di linee è proporzionale all'intensità della carica
+Posso rappresentare un campo elettrico con le **linee di forza**, che
+* sono uscenti dalle cariche positive ed entranti nelle cariche negative
+* il numero di linee è proporzionale all'intensità della carica
+* sono simmetriche in tutte 3 le dimensioni
+* la densità di linee è proporzionale all'intensità del campo
+* due linee di uno stesso campo non possono incrociarsi
 ![linee di forza](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)
