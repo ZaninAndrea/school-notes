@@ -66,8 +66,13 @@ Era di rango equestre. Nel 30 a.C: aveva seguito Messalla in gallia, si ipotizza
   
 ### Properzio
 Nato ad Assisi, rimane orfano di padre e perde le sue proprietà. Poco prima di morire nel 15 a.C. pubblica altre 2 opere. Le sue elegie sono tutte scritte tra il 30 a.C. e il 15 a.C. (lo stesso periodo in cui operò Tibullo)
-Il primo libro è ricordato come ***Monobiblos***, pubblicato tra il 29 e il 18, sono 22 elegie dedicate a Tullo, che trattano l'amore per Cinzia. Nell'elegia del proemio Properzio presenta la sua situazione amorosa come misera, poiché il suo amore è indirizzato ad una donna crudele. Non riesce a liberarsi dda questo amore.
-La poesia è non soltanto uno sfogo per le pene d'amore, ma anche per quellle personali
+Il primo libro è ricordato come ***Monobiblos***, pubblicato tra il 29 e il 18, sono 22 elegie dedicate a Tullo, che trattano l'amore per Cinzia, con alcuni inserti autobiografici. Nell'elegia del proemio Properzio presenta la sua situazione amorosa come misera, poiché il suo amore è indirizzato ad una donna crudele. Non riesce a liberarsi dda questo amore.
+La poesia è non soltanto uno sfogo per le pene d'amore, ma anche per quelle personali
+Rifiuta l'invito di Mecenate a scrivere una poesia di carattere epico.
+Non vuole celebrare Augusto, perché è diventato troppo vecchio per poter amare.
+Libro terzo: 25 elegie, che si adeguano abbastanza alle richieste di Mecenate. SI separa da Cinzia
+Quarto libro: 11 elegie romane in cui spiega le origini di ROma, tramite i miti; ma l'amore rimane comunque centrale, soprattutto nelle elegie 7 e 8, nelle quali riappare Cinzia sotto forma di fantasma.
+**Properzio vs Tibullo**: Le principali distinzioni sono la ricchezza di esempi e riferimenti mitologici.
 
 ### Cornelio Gallo
 Era un homo novus, ossia il primo nella sua famiglia a ricoprire importanti cariche politiche. 69-26 a.C. Forum Iulii. FU nominati procuratore di una provincia d'Egitto, poi cadde in disgrazia. Scrisse la raccolta "Amores", 4 libri di elegie, dedicata a Licoride, che probabilmente era uno pseudonimo per Volumnia. Pochi frammenti, lo stile è incerto, prende spunto dai poeti novi. Da molti considerato l'iniziatore di questo genere, perchè introduce impronta autobiografica, passionalità e la tendenza a raccontare una solo storia amorosa.
