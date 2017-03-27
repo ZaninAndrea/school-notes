@@ -56,12 +56,27 @@ L'elegia non può essere compresa senza essere contestualizzata
 > Ad un certo punto l'elegia si trasforma in inno
 
 ## Poeti elegiaci
-* Ovidio
-* Tibullo, era di rango equestre. Nel 30 a.C: aveva seguito Messalla in gallia, si ipotizza sia nato nel 50 a.C., morì ne 19 a.C. Scrisse il "Corpus Tibullianum".
+### Ovidio
+### Tibullo
+Era di rango equestre. Nel 30 a.C: aveva seguito Messalla in gallia, si ipotizza sia nato nel 50 a.C., morì ne 19 a.C. Scrisse il "Corpus Tibullianum".
   * **Liber I**: Tema centrale l'amore per Devia, partendo dalla quartà elegia parla anche dell'amore per Marato, sedotto da Tibullo grazie a Priapo. Esaltazione di una vita pacifica. Finale tragico perchè Tibullo deve abbandonare Delia e Marato lo tradisce
-  * **Liber II**: 
-* Properzio
-* Cornelio Gallo, era un homo novus, ossia il primo nella sua famiglia a ricoprire importanti cariche politiche. 69-26 a.C. Forum Iulii. FU nominati procuratore di una provincia d'Egitto, poi cadde in disgrazia. Scrisse la raccolta "Amores", 4 libri di elegie, dedicata a Licoride, che probabilmente era uno pseudonimo per Volumnia. Pochi frammenti, lo stile è incerto, prende spunto dai poeti novi. Da molti considerato l'iniziatore di questo genere, perchè introduce impronta autobiografica, passionalità e la tendenza a raccontare una solo storia amorosa.
+  * **Liber II**: festa degli Ambarvalia. Compleanno di Cornuto e speranza di una vita felice. Amore per Nemesi e la schiavitù d'amore. Sacerdozio degli figlo di Messalla.
+  * **Liber III**: Viene presentata una nuova amata.
+  * **Lo stile**: Viene definito *tersus atque elegans*. Temi: tradimento, amore, paura, pace vs guerra. 
+  
+### Properzio
+Nato ad Assisi, rimane orfano di padre e perde le sue proprietà. Poco prima di morire nel 15 a.C. pubblica altre 2 opere. Le sue elegie sono tutte scritte tra il 30 a.C. e il 15 a.C. (lo stesso periodo in cui operò Tibullo)
+Il primo libro è ricordato come ***Monobiblos***, pubblicato tra il 29 e il 18, sono 22 elegie dedicate a Tullo, che trattano l'amore per Cinzia, con alcuni inserti autobiografici. Nell'elegia del proemio Properzio presenta la sua situazione amorosa come misera, poiché il suo amore è indirizzato ad una donna crudele. Non riesce a liberarsi dda questo amore.
+La poesia è non soltanto uno sfogo per le pene d'amore, ma anche per quelle personali
+Rifiuta l'invito di Mecenate a scrivere una poesia di carattere epico.
+Non vuole celebrare Augusto, perché è diventato troppo vecchio per poter amare.
+Libro terzo: 25 elegie, che si adeguano abbastanza alle richieste di Mecenate. SI separa da Cinzia
+Quarto libro: 11 elegie romane in cui spiega le origini di ROma, tramite i miti; ma l'amore rimane comunque centrale, soprattutto nelle elegie 7 e 8, nelle quali riappare Cinzia sotto forma di fantasma.
+**Properzio vs Tibullo**: Le principali distinzioni sono la ricchezza di esempi e riferimenti mitologici.
+
+### Cornelio Gallo
+Era un homo novus, ossia il primo nella sua famiglia a ricoprire importanti cariche politiche. 69-26 a.C. Forum Iulii. FU nominati procuratore di una provincia d'Egitto, poi cadde in disgrazia. Scrisse la raccolta "Amores", 4 libri di elegie, dedicata a Licoride, che probabilmente era uno pseudonimo per Volumnia. Pochi frammenti, lo stile è incerto, prende spunto dai poeti novi. Da molti considerato l'iniziatore di questo genere, perchè introduce impronta autobiografica, passionalità e la tendenza a raccontare una solo storia amorosa.
+
 
 # Lotti - Poliziano
 ## Poliziano
@@ -73,7 +88,7 @@ Poliziano parte dalla morte come aspetto principale e ricava gli altri in relazi
 ### Stanze
 Soggetto Iulo (Giuliano de Medici)
 Ottava 8: figura delle dolce cerbe cure
-Ottava 25: "... e la ingegnosa pecchia al primo albore giva predando ora uno or altro fiore ..."****
+Ottava 25: "... e la ingegnosa pecchia al primo albore giva predando ora uno or altro fiore ..."
 Ottave 33-34: Come Amore si vendica
 
 ## Machiavelli
