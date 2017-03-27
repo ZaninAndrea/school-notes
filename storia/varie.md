@@ -1,3 +1,35 @@
+# Varie
+<!-- toc -->
+
+## Oltre Luigi XIV e verso l'Illuminismo
+Il Settecento è considerato il periodo del **dispotismo illuiminato** / **assolutismo illuminato** / **dispotismo riformatore**: I sovrani avanzano politiche che dal punto di vista istituzionale è autocratico con una serie di interventi di ammordernamento della burocrazia e dello stato
+Assolutismo illuminato non si usa molto, perché non si può dire che I sovrani seguano il programma politico dell'illuminismo, in quanto l'illuminismo non ha un programma politico unico. 
+
+L'assolutismo inoltre è una concezione del potere, che non fu mai totalmente realizzato
+Maria Teresa d'Asburgo, Giuseppe II e Leopoldo II, furono sovrani di questo tipo.
+Non possiamo dire che i sovrani fossero totalmente per l'illumismo:
+* Spesso furono cattolici, nonostante l'illuminismo fosse fortemente contro la religione
+
+Cercano di distanziarsi dalla Chiesa, una questione importante fu il giurisdizionalismo:
+* La giurisdizione dello Stato e della Chiesa sono separati
+  * Allora I territori della Chiesa erano un territorio franco
+  * I gesuiti vengono diffusamente soppressi, perchè promuovevano la Chiesa
+
+L'aumento d'importanza della nobiltà di toga serve a consolidare il potere dello stato
+CI sono anche iniziative a favore del popolo
+* In austria lo stato fornisce l'istruzione elementare (3 anni)
+* Questo serve in modo da ottimizzare la formazione e la produttività del popolo
+
+Pietro il Grande girò in incognito per un paio di anni in Europa per raccogliere informazioni
+Vietò l'utilizzo delle barbe
+Sostituisce la Duma (senato dei boiari) e la sostituisce con un senato nominato da lui
+Maria Teresa d'Austria si impegno ha creare un catasto a scopo fiscale, il catasto è un registro delle proprietà immobiliari
+* Per fare un catasto servono conoscienze di rilievo del territorio
+* Usano I teodoliti
+* Catasto geometrico particellare
+* Usucapione: se un bene non è utilizzato da 10/20 anni può essere preso attraverso l'uso
+* In trentino abbiamo registrato quasi tutti I beni
+
 ## Catasto teresiano
 Utile per la tassazione sulle proprietà
 Dei funzionari dovranno redigere mappe precise e stabilire a chi appartiene ciascuna delle particelle in cui è diviso il territorio e dovranno annotare quale tipo di proprietà
