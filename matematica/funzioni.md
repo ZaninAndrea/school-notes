@@ -64,6 +64,50 @@ $$
 - **biettiva:** sia iniettiva che suriettiva
 - **crescente:** $$\forall \: x_1, x_2 \in A \mid x_1 < x_2 \Rightarrow f(x_1) \lt f(x_2)$$
 - **monotòna:** una funzione si dice monotona se è sempre crescente o sempre decrescente nel suo dominio
-- **periodica:** $$\exists \: T \mid f(x)=f(x+kT) \; k \in \mathbb{Z}$$
+- **periodica:** $$\exists \: T \mid f(x)=f(x+kT) \quad k \in \mathbb{Z}$$
 - **pari:** $$\forall \: x \in A \; f(-x)=f(x)$$
 - **dispari:** $$\forall \: x \in A \; f(-x)=-f(x)$$
+
+## Sottoinsiemi di R
+### Intervalli
+Intervalli in $$\mathbb{R}$$
+- **intervallo chiuso:** estermi inclusi $$[a,b]=\{x \mid x \in \mathbb{R} \quad a \ge x \ge b \}$$
+- **intervallo aperto:**  estremi non inclusi $$(a,b) = ]a,b[$$
+    - l'infinito non può mai essere incluso $$(- \infty, 5)$$
+- **intervallo misto:** $$(a,b]$$
+
+### Superiormente limitato
+Un insieme $$A \subseteq \mathbb{R}$$ si dice **superiormente limitato** se $$\exists \; k \in \mathbb{R} \mid \forall \; x \in A \quad x \le k $$
+$$k$$ non necessariamente deve appartenere ad $$\mathbb{R}$$, e.g.
+
+$$
+\begin{align*}
+A &= \{ x \mid x = \frac{n}{n+1} \quad n \in \mathbb{N} \} \\
+&= \{0,\frac{1}{2},\frac{2}{3},\frac{3}{4},...\}
+\end{align*}
+$$
+
+$$A$$ è superiormente limitato da 1, anche se 1 non è incluso nell'insieme.
+Analogamente un insieme può essere **inferiormente limitato**
+
+### Estremo superiore
+Dato $$A$$ superiormente limitato, si dice **estremo superiore** di $$A$$ quel numero $$M$$ tale che
+- $$\forall x \in A \quad x \le M $$
+- $$\forall \epsilon \gt 0 \; \exists x \in A \mid M - \epsilon \le x \le M $$
+
+$$\epsilon$$ e $$\delta$$ in matematica indicano un numero positivo arbitrariamente piccolo
+
+L'insieme $$A$$ (vedi sopra) ha come estremo superiore 1, ma non ha un estremo inferiore.
+
+### Intorno
+Si dice **intorno** di un punto $$ x_0 $$ un qualsiasi intervallo aperto contenente $$x_0$$, e.g. $$(x_0 - \delta \; , \; x_0 + \delta ) $$. Posso definire anche un intorno di infinito:
+- intorno di $$+ \infty$$: $$(M \; , \; + \infty)$$
+- intorno di $$- \infty$$: $$(- \infty \; , \; -M)$$
+
+
+### Punto isolato
+$$x_0$$ è detto **punto isolato** se esiste un intorno di $$x_0$$ che non contiene elementi di $$A$$$ diversi da $$x_0$$
+
+
+
+
