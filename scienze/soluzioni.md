@@ -73,6 +73,8 @@ Quindi prendo 2.15 ml di acido e li diluisco fino a farli arrivare a 100 ml di s
 ## Interazioni soluto-solvente
 **Perché le sostanze si sciolgono?** I legami tra le particelle di soluto e quelli tra le particelle di solvente vengono rotti e si formano nuovi legami tra particelle di soluto e di solvente.
 Un fattore importante è anche l'aumento di entropia
+
+## Solubilità dei gas
 **Cerchiamo di sciogliere un gas in acqua** prendiamo alcuni esempi:$$CO_2 \; NH_3 \; HCl \; O_2 \; N_2$$. Fattori importanti sono
 * affinità soluto solvente, quindi polarità e non polarità
 * se la molecola reagisce con l'acqua
@@ -93,18 +95,48 @@ $$
 ### Caso di $$O_2$$
 Non è polare e non reagisce, quidi è poco solubile se non in condizioni particolari.
 
+### Caso di $$HCl$$
+È polare e reagisce
+$$
+HCl \Leftrightarrow H^+ + Cl^-
+$$
+
 | | $$CO_2$$ | $$NH_3$$ | $$O_2$$ | $$HCl$$ | $$N_2$$ |
 | --- | --- | --- | --- | --- | --- |
-| polare | NO | SI | NO | | |
-| reagisce| SI | SI | NO | | |
-| solubile| molto | molto | poco | | |
+| polare | NO | SI | NO | SI | NO |
+| reagisce| SI | SI | NO | SI | NO |
+| solubile| molto | molto | poco | molto | poco |
+
+Altri parametri che influenza la solubilità di un gas sono temperatura e pressione.
+
+### Temperatura
+Aumentando la temperatura il gas diventa meno solubile, perché la maggiore energia cinetica aumenta la frequenza con cui i legami tra l'acqua e il soluto vengono rotti. Questa regola vale solo per i gas.
+
+> #### Curiosità
+> Nei mari del Nord sono molto ricchi di pesce perchè l'acqua essendo fredda è ricca di ossigeno e quindi di biomassa.
+
+### Pressione
+Aumentando la pressione il gas diventa più solubile, perché aumento il numero di urti.
+
+#### Legge di Henzy
+$$
+\frac{m}{v}=KP
+$$
 
 
+## Solubilità dei liquidi
+Proviamo a sciogliere 3 liquidi in acqua: $$CCl_4$$, $$CH_3-O-CH_3$$, $$CH_3CH_2OH$$.
 
+||$$CCl_4$$ | $$CH_3-O-CH_3$$ | $$CH_3CH_2OH$$ |
+|---|---|---|---|
+|polare|NO|SI|SI|
+|miscibile|NO|SI|SI|
+> #### Consiglio del chimico
+> **Il simile scioglie il simile**
+> Liquidi polari sciolgono liquidi polari, e liquidi non polari sciolgono liquidi non polari.
 
-
-
-
-
+## Solubilità dei solidi
+In linea generale i sali si sciolgono bene, in quanto sono composti ionici.
+Per i composti covalenti invece dipende dal composto
 
 
