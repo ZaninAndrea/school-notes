@@ -1,5 +1,5 @@
 {
-    "plugins": ["mathjax", "toc", "graph" ],
+    "plugins": ["toc", "mathjax", "graph" ],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
