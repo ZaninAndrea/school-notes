@@ -66,7 +66,8 @@ $$
 $$
 
 ### Applicazioni
-#### Calcolare la **densità lineare di carica** di un filo
+#### Calcolare il campo elettrico di un filo
+La **densità lineare di carica** è definita come 
 $$
 \lambda = \frac{q}{l}
 $$
@@ -78,7 +79,59 @@ $$
 \theta_E &= \frac{q_{\text{interna}}}{\epsilon_0} \\
 &= \frac{\lambda \cdot h}{\epsilon_0} \\
 \overrightarrow{E} \cdot 2\pi r h &= \frac{\lambda \cdot h}{\epsilon_0} \\ 
+&\Downarrow \\
 \theta_E &= \frac{\lambda}{2\pi \epsilon_0 r}
 \end{align*}
 $$
 
+#### Calcolare il campo elettrico di una lamina 
+Scelgo come superficie quella ci un cilindro che attraversa la lamina, la cui superficie circolare non è quindi bucata da linee di campo. 
+$$\sigma$$ indica la **densità superficiale di carica**.
+$$
+\begin{align*}
+\theta_E &= \overrightarrow{E} \cdot \overrightarrow{S_1} \cdot cos{0°} + \overrightarrow{E} \cdot \overrightarrow{S_2} \cdot cos{0°} + \overrightarrow{E} \cdot \overrightarrow{S_3} \cdot cos{90°} \\
+&= \overrightarrow{E} \cdot \overrightarrow{S_1} + \overrightarrow{E} \cdot \overrightarrow{S_2}  \\
+\theta_E &= \frac{q_{\text{interna}}}{\epsilon_0} \\
+&= \frac{\sigma \cdot S_1}{\epsilon_0} \\
+2\overrightarrow{E}S_1 &= \frac{\sigma \cdot S_1}{\epsilon_0} \\
+&\Downarrow \\
+\overrightarrow{E} &= \frac{\sigma}{2\epsilon_0}
+\end{align*}
+$$
+Quindi il campo elettrico generato da una lamina non dipende dalla distanza, supponendo che la lamina sia infinitamente larga.
+
+#### Campo elettrico di una sfera uniformemente carica
+Una sfera nella quale la carica è uniformemente distribuita.
+Densità volumica/volumetrica di carica $$\rho = \frac{q}{V}$$
+##### All'interno della sfera
+$$
+\begin{align*}
+\theta_E(s) &= \overrightarrow{E} \cdot \overrightarrow{S} \\
+&= \overrightarrow{E} \cdot 4\pi r^2 \\
+\theta_E (s) &= \frac{\rho \cdot \frac{4}{3}\pi r^3 }{\epsilon_0} \\
+\overrightarrow{E} \cdot 4\pi r^2 &= \frac{\rho \cdot \frac{4}{3}\pi r^3 } {\epsilon_0} \\
+&\Downarrow \\
+\overrightarrow{E} &= \frac{\rho r}{3 \epsilon_0} 
+\end{align*}
+$$
+
+##### All'esterno della sfera
+$$
+\begin{align*}
+\theta_E(s) &= \overrightarrow{E} \cdot \overrightarrow{S} \\
+&= \overrightarrow{E} \cdot 4\pi r^2 \\
+\theta_E (s) &= \frac{\rho \cdot \frac{4}{3}\pi R^3 }{\epsilon_0} \\
+\overrightarrow{E} \cdot 4\pi r^2 &= \frac{\rho \cdot \frac{4}{3}\pi R^3 } {\epsilon_0} \\
+&\Downarrow \\
+\overrightarrow{E} &= \frac{\rho R^3}{3 \epsilon_0 r^2} 
+\end{align*}
+$$
+
+Si comporta esattamenta come una carica puntiforme, quindi posso usare anche la formula della carica puntiforme
+$$
+\begin{align*}
+\overrightarrow{E} &= \frac{\rho R^3}{3 \epsilon_0 r^2} \\
+&= \frac{\rho \frac{4}{3}\pi R^3}{4\pi \epsilon_0 r^2} \\
+&= \frac{1}{4\pi \epsilon_0} \cdot \frac{q}{r^2}
+\end{align*}
+$$
