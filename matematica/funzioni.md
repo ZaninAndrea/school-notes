@@ -59,8 +59,7 @@ $$
 
 {% graph %}
 {
-    "title": "Grafico",
-    "grid": true,
+    "grid": false,
     "xAxis": {
         "label": "x",
         "domain": [0, 30]

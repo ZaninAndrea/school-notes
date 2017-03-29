@@ -48,9 +48,37 @@ Posso rappresentare un campo elettrico con le **linee di forza**, che
 ![linee di forza](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)
 
 ## Teorema di Gauss
-Flusso di campo elettrico
+### Flusso di campo elettrico
+Il flusso di campo elettrico $$\theta_E$$ è definito come
 $$
 \theta_E = \sum_i \overrightarrow{E_i} \cdot \Delta \overrightarrow{S}
 $$
 
-$$\overrightarrow{S_i}$$ è il vettore superficie, ossia il vettore normale alla superficie, con modulo uguale all'area della superficie e uscente dalla stessa.
+$$\overrightarrow{S_i}$$ è il vettore superficie, ossia il vettore normale alla superficie, con modulo uguale all'area della superficie e uscente dalla stessa. 
+Posso pensarlo anche come 
+$$
+\theta_E = \text{linee di campo }\overrightarrow{E}\text{ uscenti }-\text{linee di campo }\overrightarrow{E}\text{ entranti} $$
+
+### Teorema
+Il teorema di Gauss dice che 
+$$
+\theta_E = \frac{Q_{\text{interno}}}{\epsilon_0}
+$$
+
+### Applicazioni
+#### Calcolare la **densità lineare di carica** di un filo
+$$
+\lambda = \frac{q}{l}
+$$
+Scelgo una superficie simmetrica rispetto al filo: un cilindro. Le faccie superiore e inferiore del cilindro non sono bucate da linee di campo in quanto sono perpendicolari alle stesse
+$$
+\begin{align*}
+\theta_E &= \overrightarrow{E} \cdot S_1 \cdot \cos{90°} + \overrightarrow{E} \cdot S_2 \cdot \cos{90°} + \overrightarrow{E} \cdot S_3 \cdot cos{0°} \\
+ &= 0 + 0 + E \cdot 2\pi r h \\
+\theta_E &= \frac{q_{\text{interna}}}{\epsilon_0} \\
+&= \frac{\lambda \cdot h}{\epsilon_0} \\
+\overrightarrow{E} \cdot 2\pi r h &= \frac{\lambda \cdot h}{\epsilon_0} \\ 
+\theta_E &= \frac{\lambda}{2\pi \epsilon_0 r}
+\end{align*}
+$$
+
