@@ -74,10 +74,10 @@ $$
     }],
     "annotations": [{
         "x": -5,
-        "text": 'x = -5'
+        "text": "x = -5"
     }, {
         "y": -1,
-        "text": 'y = -1'
+        "text": "y = -1"
     }]
 }
 {% endgraph %}

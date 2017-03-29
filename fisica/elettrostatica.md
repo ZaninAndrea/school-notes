@@ -46,3 +46,6 @@ Posso rappresentare un campo elettrico con le **linee di forza**, che
 * due linee di uno stesso campo non possono incrociarsi
 
 ![linee di forza](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)
+
+## Teorema di Gauss
+
