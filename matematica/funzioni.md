@@ -58,28 +58,28 @@ y + 1 &= \frac{7}{x+5} \\
 $$
 
 {% graph %}
-    {
-        "title":"Grafico",     
-        "grid":true,
-        "xAxis": {
-            "label":"x",
-            "domain": [0,300]
-        },
-        "yAxis": {
-            "label":"y",
-            "domain": [-1.5,1.5]
-        },
-        "data": [
-            { "fn": "( 2 - x )/( x + 5 )"}
-        ],
-  annotations: [ {
-    x: -5,
-    text: 'x = -5'
-  }, {
-    y: -1,
-    text: 'y = -1'
-  }]
-    }
+{
+    "title": "Grafico",
+    "grid": true,
+    "xAxis": {
+        "label": "x",
+        "domain": [0, 300]
+    },
+    "yAxis": {
+        "label": "y",
+        "domain": [-1.5, 1.5]
+    },
+    "data": [{
+        "fn": "( 2 - x )/( x + 5 )"
+    }],
+    "annotations": [{
+        x: -5,
+        text: 'x = -5'
+    }, {
+        y: -1,
+        text: 'y = -1'
+    }]
+}
 {% endgraph %}
 
 ### Caratteristiche delle funzioni
