@@ -63,7 +63,7 @@ $$
     "grid": true,
     "xAxis": {
         "label": "x",
-        "domain": [0, 300]
+        "domain": [0, 30]
     },
     "yAxis": {
         "label": "y",

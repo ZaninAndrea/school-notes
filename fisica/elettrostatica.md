@@ -48,4 +48,9 @@ Posso rappresentare un campo elettrico con le **linee di forza**, che
 ![linee di forza](/assets/Linee-Forza-Cariche-Puntiforme-300x150.png)
 
 ## Teorema di Gauss
+Flusso di campo elettrico
+$$
+\theta_E = \sum_i \overrightarrow{E_i} \cdot \Delta \overrightarrow{S}
+$$
 
+$$\overrightarrow{S_i}$$ è il vettore superficie, ossia il vettore normale alla superficie, con modulo uguale all'area della superficie e uscente dalla stessa.
