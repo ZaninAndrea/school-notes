@@ -57,6 +57,24 @@ y + 1 &= \frac{7}{x+5} \\
 \end{align*}
 $$
 
+{% graph %}
+    {
+        "title":"Grafico",     
+        "grid":true,
+        "xAxis": {
+            "label":"x",
+            "domain": [0,300]
+        },
+        "yAxis": {
+            "label":"y",
+            "domain": [-1.5,1.5]
+        },
+        "data": [
+            { "fn": "( 2 - x )/( x + 5 )"}
+        ]
+    }
+{% endgraph %}
+
 ### Caratteristiche delle funzioni
 - **iniettive:** $$\forall \: x,y \in A \Rightarrow f(x)\ne f(y)$$
     - una funzione è reversibile se è iniettiva
