@@ -1,0 +1,2 @@
+# Leibniz
+Dio ha creato il migliore dei mondi possibili, ossia quello in cui la quantità del male permette la massimizzazione del bene. Questo concetto appare nella **_Teodicea_**, ossia giustificazione di Dio. Parte dal concetto che non tutti gli eventi sono conpossibili.
