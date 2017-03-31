@@ -43,12 +43,22 @@ Gli eventi non hanno uno scopo, ma gli umani credono che gli eventi si susseguan
 > #### Strawman
 > Tecnica argomentitva in cui si argomenta ontro una versione semplificata dell'idea dell'avversario in modo da renderla criticabile.
 
-La natura segue il principio _Conatus sese conservandi_, ossia la natura tende a cercare di conservarsi nell'esistenza. Questo sforzo se si riguardo solo la mente è volontà, riguarda mente e corpo è un appetito e gli appetiti consapevoli sono detti desideri.
+La natura segue il principio _Conatus sese conservandi_ , ossia la natura **cerca di conservarsi nell'esistenza**. Questo sforzo se si riguardo solo la mente è volontà, riguarda mente e corpo è un appetito e gli appetiti consapevoli sono detti _cupiditas_ (o desideri).
 Quando il tentativo di autoconservarci viene soddisfatto proviamo gioia, se riguarda anche il corpo è piacere.
 Quando invece viene ostacolato proviamo tristezza, se riguarda anche il corpo è dolore.
 Da questi Spinoza deriva altri 40 ca. affetti (emozioni).
 Le passioni sono una parte importante dell'uomo nè positive nè negative.
 Alcune passioni se accompagnate alla ragione ci fanno sentire liberi, anche se la libertà assoluta non è possibile.
 Ciò che è bene è ciò che è utile. 
+Anche vanità e altri tratti da noi considerati cattivi, da Spinoza sono giustificati in quanto sono il risultato di qualcosa che ci ha provocato felicità.
+
+Quindi per Spinoza esiste il Bene e il male, ma essi derivano dall'uomo e dall'effetto che hanno su di esso e non sono concetti assoluti, ma relativi.
+
+Io sono libero quando la mia ragione comprende ciò che ci mi sta succedendo anche emozionalmente, essere liberi significa essere consapevoli di ciò che è necessario che siamo.
 
 
+# Epistemologia
+Ci sono 3 modalità di conoscenza della realtà_
+- i sensi
+- la ragione
+- _amor dei intellectualis_: ad un certo punto possiamo guardare alla natura come un grande meccanismo necessario. In questo stato una persona guarda alle cose _sub specie aeternitatis_, ossia come se fossero eterne
