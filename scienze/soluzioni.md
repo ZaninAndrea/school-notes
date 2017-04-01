@@ -9,6 +9,9 @@ Per esprimere le percentuali possiamo utilizzare i seguenti modi:
 * percentuali
     * peso-peso $$\frac{\text{gr soluto}}{\text{gr soluzione}}$$
     * volume-volume $$\frac{\text{l soluto}}{\text{l soluzione}}$$
+* frazione molare $$\frac{\text{moli sostanza}}{\text{moli totali}}$$
+* ppm (parti per milione) $$\frac{\text{mg soluto}}{\text{kg soluzione}}$$
+
 
 È importante saper convertire le varie misure tra loro
 ### Esercizi
@@ -139,4 +142,76 @@ Proviamo a sciogliere 3 liquidi in acqua: $$CCl_4$$, $$CH_3-O-CH_3$$, $$CH_3CH_2
 In linea generale i sali si sciolgono bene, in quanto sono composti ionici.
 Per i composti covalenti invece dipende dal composto
 
+## Normalità
+### Esercizi
+#### Esercizio 1
+Una soluzione di solfato di sodio viene preparata sciogliendo 14,2 g di soluto in 100 ml di soluzione.
+Calcola molarità, normalità, molalità, percentuale peso/peso
+**molarità**
+$$
+\begin{align*}
+\text{peso molare}&=142g \\
+\text{n° moli} &= \frac{14.2 g}{142 g}\\
+&= 0.1 mol \\
+M &= \frac{0.1 mol}{0.1 l} \\
+&= 1M 
+\end{align*}
+$$
 
+**normalità**
+$$
+\begin{align*}
+\text{peso equivalente}&=\frac{142 g}{2} \\
+&=71g \\
+\text{n° eq}&=\frac{14.2g}{71g} \\
+&=0.2 eq \\
+N&=\frac{0.2eq}{0.1l} \\
+&=2N
+\end{align*}
+$$
+
+**molalità**
+$$
+\begin{align*}
+\text{peso soluzione} &= 112 g \\
+\text{peso solvente}&=112g - 14.2 g \\
+&=97.8g \\
+m&=\frac{0.1 mol}{0.0978 kg} \\
+&=1.02 m
+\end{align*}
+$$
+
+**percentuale peso/peso**
+
+$$
+\begin{align*}
+14.2g : 112g &= x : 100g \\
+x&=12.7 \\
+&\Downarrow \\
+&12.7 \text{ %p/p}
+\end{align*}
+$$
+
+#### Esercizio 2
+30 ml di acido solforico 5% p/p, con densità 1.05 g/ml reagiscono con 30 ml di idrossido ferrico 3N. Quanti grammi di sale ottengo?
+$$
+\begin{align*}
+3H_2SO_4 + 2 Fe(OH)_3 &\rightarrow Fe_2(SO_4)_3 + 6H_2O \\
+\text{peso soluzione }H_2SO_4 &= 30 \cdot 1.05 \\
+&= 31.5g \\
+5 : 100 &= x: 31.5 g \\
+x &= 1.6g \text{ di } H_2SO_4 \\
+\text{n° moli }H_2SO_4 &= \frac{1.6g}{98g} \\
+&=0.0016 mol \\
+3N &\equiv 1M \\
+1M &= \frac{\text{x moli}}{0.03 l} \\
+x&=0.03 \text{ moli di }Fe(OH)_3 \\
+&\text{calcolo del limitante} \\
+3:2 &= 0.016 :x \\
+x&=0.01 \text{mol di }Fe(OH)_3 \\
+&\Downarrow \\
+H_2SO_4 \text{ è il limitante} \\
+3:1&=0.016:x\\
+x&=5.3\cdot 10^{-3}\text{mol di sale}
+\end{align*}
+$$
