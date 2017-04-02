@@ -6,6 +6,7 @@
 
 * [Onde](fisica\onde.md)
 * [Elettrostatica](fisica\elettrostatica.md)
+* [Termodinamica](fisica\termodinamica.md)
 
 ## Matematica
 
