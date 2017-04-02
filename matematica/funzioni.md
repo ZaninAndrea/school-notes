@@ -130,7 +130,7 @@ Si dice **intorno** di un punto $$ x_0 $$ un qualsiasi intervallo aperto contene
 
 
 ### Punto isolato
-$$x_0$$ è detto **punto isolato** se esiste un intorno di $$x_0$$ che non contiene elementi di $$A$$$ diversi da $$x_0$$
+$$x_0$$ è detto **punto isolato** se esiste un intorno di $$x_0$$ che non contiene elementi di $$A$$ diversi da $$x_0$$
 
 
 
