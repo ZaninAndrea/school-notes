@@ -37,5 +37,5 @@
 
 ## Storia
 
-* [Varie](storia\varie.md)
+* [Illuminismo](storia\illuminismo.md)
 
