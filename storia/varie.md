@@ -43,6 +43,22 @@ Il processo fu molto lungo: da un lato non volevano pagare le tasse, ma dall'alt
 I deisti introducono un'idea di tolleranza verso le altre religioni e le altre idee, bisogna avere rispetto per le varie posizioni religiose, filosofiche, politiche.
 Durante questo periodo la lettura diventa un attività sempre più normale per tutti i cittadini del regno.
 
+C'è in generale una propensione a considerare gli uomini uguali indipendentemente dalle razze, avversione alla guerra,critica alle religioni rivelate
+
+Il sovrano è sottomesso alle leggi, che possono comunque essere modificate.
+
+
+
+### Star dell'illuminismo
+Montesquieu scrive **Esprit des lois** (lo spirito dele leggi). Deve esserci una divisione dei poteri.
+
+> #### Frase da tatuare
+> Il potere corrompe, il potere assoluto corrompe assolutamente
+
+Secondo Voltaire l'uguaglianza è impossibile, perchè il popolo è troppo stupido. Deve esserci libertà di pensiero
+
+Rousseau pensa che gli uomini debbano essere considerati uguali, in quanto nascono uguali. Deve esserci la sovranità popolare.
+
 ## Beccaria
 È importante che la pena sia certa in modo che il reo non tenti di sfuggirne, magari compiendo altre efferatezze. Inoltre tanto più la pena è enorme tanto più il criminale tenterà di schivarne gli effetti.
 Storicamente pene pesanti hanno portato a società molto violente, perché allora la pena era guidata dalla stessa crudeltà del reato.
@@ -79,5 +95,7 @@ Si diffondono salotti culturali, cafè, libelli - Pamphlet (pubblicazione con in
 Una delle opere principali di questo periodo è la ***Encyclopedie*** , realizzata da *D'Alembert* e *Diderot*; nonostante l'opera fosse costosissima fu un grande successo editoriale. Le voci sono scritte dalle fugure più importanti in quell'ambito.
 L'opera mostra il superamento del preconcetto secondo il quale le scienze non hanno a che fare con i mestieri, ci sono per esempio voci su come costruire una miniera.
 L'enciclopedia viene più volte censurata in Francia, in quanto molte voci erano considerate troppo sovversive.
+Presenta il punto di vista dei filosofi.
 
 L'illuminismo non fu un movimento compatto. Persone importanti: Voltaire, Rousseau, Montesquie, Diderot, Spinoza, Bayle, Locke.
+
