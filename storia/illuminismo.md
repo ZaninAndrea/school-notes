@@ -47,7 +47,17 @@ C'è in generale una propensione a considerare gli uomini uguali indipendentemen
 
 Il sovrano è sottomesso alle leggi, che possono comunque essere modificate.
 
-
+> #### Leggi oggi
+> **Storia di una legge:** si scrive un Disegno di legge, ossia una prima scrittura della legge. I DDL possono essere proposti per iniziativa popolare (vengono quasi sempre modificate), iniziativa parlamentare, iniziativa del governo.
+> 
+> **Legge delega:** è una legge che ha un unico articolo nel quale si delega il governo a legiferare su un tema. Il Governo è quindi autorizzato a create un Decreto Legislativo.
+> 
+> **Decreto Legge:** un atto emanato dal Governo che ha valore di legge, ma ha una data di scadenza di 60 giorni.
+> Storicamente questa data di scadenza è stata spesso aggirata emanando più volte lo stesso decreto.
+> 
+> **Voto di fiducia:** Il governo può porre la _questione di fiducia_ su una legge, ossia se la legge non passa il Presidente del Consiglio si deve dimettere.
+> 
+> **Regolamenti:** il governo può approvare dei regolamenti, ossia norme di dettaglio molto tecniche
 
 ### Star dell'illuminismo
 Montesquieu scrive **Esprit des lois** (lo spirito dele leggi). Deve esserci una divisione dei poteri.
