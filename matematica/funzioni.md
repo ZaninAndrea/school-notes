@@ -17,7 +17,8 @@ Funzioni trascendenti:
 - esponenziali
 - goniometriche
 
-### Esercizio 1
+### Esercizi
+#### Esercizio 1
 Studio la funzione $$y=\frac{2-x}{x+5}$$
 **DOMINIO:** $$x \ne -5 $$
 **INTERSEZIONE CON GLI ASSI**
@@ -81,7 +82,7 @@ $$
 }
 {% endgraph %}
 
-### Esercizio 2
+#### Esercizio 2
 $$
 y=2^\sqrt{x} - \sqrt{2^x}
 $$
@@ -127,6 +128,28 @@ $$
 0 \lt x \lt 4
 $$
 ![](/assets/studio.png)
+
+#### Esercizio 3
+**DOMINIO: ** $$x\ne \frac{\pi}{6},\frac{11\pi}{6}$$
+
+$$
+2\cos{x}-\sqrt{3}\ne0 \\
+x\ne \frac{\pi}{6},\frac{11\pi}{6}
+$$
+
+**INTERSEZIONI: ** (0,0) ($$\pi$$,0) ($$2\pi$$,0)
+con x
+$$
+\begin{cases}
+y=0\\
+\sin{x}=0
+\end{cases}
+\\
+\Downarrow
+\\
+x=0,\pi,2\pi
+$$
+
 ### Caratteristiche delle funzioni
 - **iniettive:** $$\forall \: x,y \in A \Rightarrow f(x)\ne f(y)$$
     - una funzione è reversibile se è iniettiva
