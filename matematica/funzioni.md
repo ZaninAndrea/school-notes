@@ -82,6 +82,9 @@ $$
 {% endgraph %}
 
 ### Esercizio 2
+$$
+y=2^\sqrt{x} - \sqrt{2^x}
+$$
 **DOMINIO: ** $$x\ge0$$
 
 $$
