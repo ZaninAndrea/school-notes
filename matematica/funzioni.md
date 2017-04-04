@@ -186,7 +186,7 @@ Analogamente un insieme può essere **inferiormente limitato**
 ### Estremo superiore
 Dato $$A$$ superiormente limitato, si dice **estremo superiore** di $$A$$ quel numero $$M$$ tale che
 - $$\forall x \in A \quad x \le M $$
-- $$\forall \epsilon \gt 0 \; \exists x \in A \mid M - \epsilon \le x \le M $$
+- $$\forall \epsilon \gt 0 \; \exists x \in A  (x \ne M) \mid M - \epsilon \le x \le M $$
 
 $$\epsilon$$ e $$\delta$$ in matematica indicano un numero positivo arbitrariamente piccolo
 
@@ -201,6 +201,51 @@ Si dice **intorno** di un punto $$ x_0 $$ un qualsiasi intervallo aperto contene
 ### Punto isolato
 $$x_0$$ è detto **punto isolato** se esiste un intorno di $$x_0$$ che non contiene elementi di $$A$$ diversi da $$x_0$$
 
+### Punto di accumulazione
+$$x_0$$ si dice **punto di accumulazione** dell'insieme $$\mathbb{A}$$ se ogni intorno di $$x_0$$ contiene un elemento dell'insieme $$\mathbb{A}$$
 
+$$
+\forall \epsilon \gt 0\quad \exists x \in \mathbb{A} \mid x \in (x_0 - \epsilon, x_0 + \epsilon)
+$$
 
+E.g.
+$$
+\begin{align*}
+A&=\{x \mid x = \frac{1}{n} \text{ con } n \in \mathbb{N} -\{0\}\} \\
+&=\{0,\frac{1}{2},\frac{1}{3},\frac{1}{4}, \dots\}
+\end{align*}
+$$
+A è superiormente e inferiormente limitato, non ha un estremo superiore, ma ha come estremo inferiore e punto di accumulazione 0.
+
+## Limiti
+### Comprensione intuitiva dei limiti
+$$
+\lim_{x \to 2} \frac{x^2-4}{x-2} \qquad \text{generica} \\
+\lim_{x \to 2^-} \frac{x^2-4}{x-2} \qquad \text{da sinistra} \\
+\lim_{x \to 2^+} \frac{x^2-4}{x-2} \qquad \text{da destra} \\
+$$
+
+**Valori della funzione avvicinandomi da sinistra**
+
+| x | 1.9 | 1.99 | 1.999 |
+| --- | --- | --- | --- |
+| y | 3.9 | 3.99 | 3.999 |
+
+Intuitivamente per $$x=2$$ attribuiremmo il valore 4, ma la funzione non vale 4, anzi la funzione non è nemmeno definita per $$x=2$$
+
+$$
+\lim_{x \to 2^-} \frac{x^2-4}{x-2} = 4
+$$
+
+**Valori della funzione avvicinandomi da destra** 
+
+| x | 2.1 | 2.01 | 2.001 |
+| --- | --- | --- | --- |
+| y | 4.1 | 4.01 | 4.001 |
+
+Anche in questo caso intuitivamente attribuiremmo valore 4 per $$x=2$$
+
+$$
+\lim_{x \to 2^+} \frac{x^2-4}{x-2} = 4
+$$
 
