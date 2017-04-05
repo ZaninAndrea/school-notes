@@ -57,6 +57,16 @@ L'elegia non può essere compresa senza essere contestualizzata
 
 ## Poeti elegiaci
 ### Ovidio
+Nasce nel 43 a.C. circa, fa parte di una famiglia di rango equestre, dapprima studi oratoria, poi si dedica a politica e poesia. Entrerà a far parte del circolo di Messalla.
+Verrà poi esiliato da Roma a Tomi per uno screzio che egli fece ad Augusto, durante l'esilio scrive _Tristia_ e _Epistule ex Ponto_
+
+#### Le opere
+- **amores:** elegia erotica soggettiva, parla della storia d'amore con Corinna. Temi: soggezione del poeta, sofferenze per l'infedeltà di lei, militia amoris. Usa molti exempla mitologici. L'amore è un gioco stimolante da cui trarre emozioni superficiali.
+- **heroides:** elegie erotico mitollogich sviluppate come letteere d'amore tra eroine mitologiche e i loro amanti. Unione di elegia ed epica
+- **ars amatoria:** capolavoro dell'elegia amorosa, atteggiamento didascalico. Ci da' un quadro della  società dell'epoca e del loro stile di vita raffinato
+- **fasti:** eziologico, uno dei pochi tentativi di Ovidio di scrivere poesia celebrativa.
+
+
 ### Tibullo
 Era di rango equestre. Nel 30 a.C: aveva seguito Messalla in gallia, si ipotizza sia nato nel 50 a.C., morì ne 19 a.C. Scrisse il "Corpus Tibullianum".
   * **Liber I**: Tema centrale l'amore per Devia, partendo dalla quartà elegia parla anche dell'amore per Marato, sedotto da Tibullo grazie a Priapo. Esaltazione di una vita pacifica. Finale tragico perchè Tibullo deve abbandonare Delia e Marato lo tradisce
