@@ -1,4 +1,8 @@
 # Soluzioni
+**Elettroliti:** tutte le sostanze che in soluzione acquosa conducono la corrente elettrica (sali, acidi, basi)
+
+**ionizzazione** se gli ioni si formano in acqua, **dissociazione** se gli ioni si separano soltanto in acqua
+
 <!-- toc -->
 
 ## Esprimere la concentrazione
@@ -215,3 +219,47 @@ H_2SO_4 \text{ è il limitante} \\
 x&=5.3\cdot 10^{-3}\text{mol di sale}
 \end{align*}
 $$
+
+
+## Acidi e Basi
+Esistono più definizioni di acidi e basi
+
+### Teora di Arrhenius
+Un **acido** è una sostanza che in soluzione acquosa libera ioni $$H^+$$ 
+$$
+HX \Leftrightarrow H^+ + X^-
+$$
+
+Una **base** è una sostanza che in soluzione acquosa libera ioni $$OH^-$$
+$$
+MOH \Leftrightarrow M^+ + OH^-
+$$
+
+Quando un acido ed una base reagiscono si forma una soluzione neutra, infatti mancano gli ioni $$H^+$$ e $$OH^-$$
+
+$$
+H^+ + X^- + M^+ + OH^- \rightarrow M^+ + X^- + H_2O
+$$
+
+### Teoria di Bronsted
+Un **acido** è un donatore di protoni ($$H^+$$ è un protone) 
+Una **base** è un accettore di protoni
+L'acqua nella teoria di Bronsted è un reagente
+
+Inserisco un **acido in acqua**
+
+$$
+HX + H_2O \rightarrow X^- + H_3O^+
+$$
+
+$$X^-$$ adesso è un accettore di protoni, quindi è una base, mentre l'acqua diventa $$H_3O^+$$, ossia un acido. $$HX$$ e $$X^-$$ sono una coppia acido-base coniugata, così come $$H_2O$$ e $$H_3O$$
+
+Inserisco invece una **base in acqua**
+
+$$
+OH^- + H_2O \Leftrightarrow H_2O + OH^-
+$$
+
+Ossia $$OH^-$$ reagisce con l'acqua e le toglie un $$H^+$$ trasformandosi in $$H_2O$$, volendo potrei aggiungere alla reazione lo ioni spettatore $$M$$
+
+Nei due casi l'acqua agisce come base o come acido, quindi l'acqua è una sostanza che si comporta come acido o come base dipendentemente dall'ambiente. Queste sostanze sono dette **anfotere**
