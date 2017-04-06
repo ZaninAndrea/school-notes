@@ -1,4 +1,4 @@
-# Funzioni
+# Studio di funzione
 Una funzione è una relazione tra 2 insieme che associa un elemento di $$A$$ ad un solo elemento di $$B$$.
 $$
 \forall \: x \in A \; \exists! \; y \in B \mid y=f(x) 
@@ -248,4 +248,42 @@ Anche in questo caso intuitivamente attribuiremmo valore 4 per $$x=2$$
 $$
 \lim_{x \to 2^+} \frac{x^2-4}{x-2} = 4
 $$
+
+### Definizione di limite
+#### CASO l FINITO
+$$
+\lim_{x \to x_0} f(x) = l
+$$
+$$x_0$$ può essere sia un numero che infinito
+$$I(x_0)$$ è un intorno di $$x_0$$
+$$\forall$$ intorno di $$l$$ ($$\forall \epsilon \gt 0$$ arbitrariamente piccolo) $$\exists I(x_0) \text{ t.c. } \forall x \ne x_0 \in I(x_0) \Rightarrow \mid F(x) - l \mid  \lt \epsilon $$
+
+**Verifica con la definizione il seguente limite**
+$$
+\lim_{x \to 2} \frac{x^2 -4}{x-2} = 4
+$$
+
+DEFINIZIONE
+$$
+\forall \epsilon \gt 0 \; \exists I(2) \text{ t.c. } \forall x \ne 2 \in I(2) \Rightarrow \mid \frac{x^2 -4}{x-2} - l \mid  \lt \epsilon 
+$$
+
+SVILUPPO LA CONDIZIONE
+$$
+\mid \frac{x^2 -4}{x-2} - l \mid \lt \epsilon \\
+\mid \frac{x^2 -4 -4x + 8}{x-2} \mid \lt \epsilon \\
+\mid \frac{x^2 -4x +4}{x-2} \mid \lt \epsilon \\
+\mid \frac{(x-2)^2}{x-2} \mid \lt \epsilon \\
+\mid x-2 \mid \lt \epsilon
+$$
+
+Sviluppando, ho verificato che x è molto vicino a 2, infatti la differenza tra 2 ed x è di minima (inferiore ad $$\epsilon$$)
+
+
+
+
+
+
+
+
 

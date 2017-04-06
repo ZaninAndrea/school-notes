@@ -12,8 +12,7 @@
 
 * [Calcolo Combinatorio](matematica\combinatoria.md)
 * [Probabilità](matematica\probabilita.md)
-* [Funzioni](matematica\funzioni.md)
-
+* [Studio di funzione](matematica\funzioni.md)
 
 ## Scienze
 
