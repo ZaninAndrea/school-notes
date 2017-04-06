@@ -263,3 +263,14 @@ $$
 Ossia $$OH^-$$ reagisce con l'acqua e le toglie un $$H^+$$ trasformandosi in $$H_2O$$, volendo potrei aggiungere alla reazione lo ioni spettatore $$M$$
 
 Nei due casi l'acqua agisce come base o come acido, quindi l'acqua è una sostanza che si comporta come acido o come base dipendentemente dall'ambiente. Queste sostanze sono dette **anfotere**
+
+> #### Reazione acido base
+> $$3H_2SO_4 + 2Al(OH)_3 \Leftrightarrow Al_2(SO_4)_3 + 6H_2O$$
+>
+> **Arrhenius** 
+> $$6H^+ + 3SO_4^{2-} + 2Al^{3+} + 6OH^- \rightarrow 2Al^{3+} + 2SO_4^{2-} + 6H_2O$$
+> $$6H^+ + 6OH^- \rightarrow 6H_2O$$
+> In Arrhenius ogni reazioni acido base può essere scritta seconda lo schema $$H^+ + OH^- \rightarrow H_2O$$
+>
+> **Bronsted**
+> $$3H_2SO_4 + 6OH^- \rightarrow 3SO_4^{2-} + 6H_2O$$
