@@ -58,13 +58,14 @@ L'elegia non può essere compresa senza essere contestualizzata
 ## Poeti elegiaci
 ### Ovidio
 Nasce nel 43 a.C. circa, fa parte di una famiglia di rango equestre, dapprima studi oratoria, poi si dedica a politica e poesia. Entrerà a far parte del circolo di Messalla.
-Verrà poi esiliato da Roma a Tomi per uno screzio che egli fece ad Augusto, durante l'esilio scrive _Tristia_ e _Epistule ex Ponto_
+Verrà poi esiliato da Roma a Tomi per uno screzio che egli fece ad Augusto, durante l'esilio scrive _Tristia_ e _Epistulae ex Ponto_
 
 #### Le opere
 - **amores:** elegia erotica soggettiva, parla della storia d'amore con Corinna. Temi: soggezione del poeta, sofferenze per l'infedeltà di lei, militia amoris. Usa molti exempla mitologici. L'amore è un gioco stimolante da cui trarre emozioni superficiali.
 - **heroides:** elegie erotico mitollogich sviluppate come letteere d'amore tra eroine mitologiche e i loro amanti. Unione di elegia ed epica
 - **ars amatoria:** capolavoro dell'elegia amorosa, atteggiamento didascalico. Ci da' un quadro della  società dell'epoca e del loro stile di vita raffinato
-- **fasti:** eziologico, uno dei pochi tentativi di Ovidio di scrivere poesia celebrativa.
+- **fasti:** eziologico, uno dei pochi tentativi di Ovidio di scrivere poesia celebrativa. Narrazione delle vicende che hanno portato alla nascita delle varie festività.
+- **elegie dell'esilio:** _Tristia_ e _Epistulae ex Ponto_, presentano un unico tema: lamento, dolore e speranza
 
 
 ### Tibullo
@@ -86,6 +87,18 @@ Quarto libro: 11 elegie romane in cui spiega le origini di ROma, tramite i miti;
 
 ### Cornelio Gallo
 Era un homo novus, ossia il primo nella sua famiglia a ricoprire importanti cariche politiche. 69-26 a.C. Forum Iulii. FU nominati procuratore di una provincia d'Egitto, poi cadde in disgrazia. Scrisse la raccolta "Amores", 4 libri di elegie, dedicata a Licoride, che probabilmente era uno pseudonimo per Volumnia. Pochi frammenti, lo stile è incerto, prende spunto dai poeti novi. Da molti considerato l'iniziatore di questo genere, perchè introduce impronta autobiografica, passionalità e la tendenza a raccontare una solo storia amorosa.
+
+## Inno alla Pace - Tibullo
+Notiamo lo stile legante.
+Tibullo amava Delia
+TIbullo parte per la guerra, Delia è depressa, TIbullo supplica la morte, ma poi si rende conto di dover morire e quindi trova la pace.
+Tibullo si riunirà a Delia nei campi elisi e così avrà pace e amore
+La morte nera (non star wars)
+è preoccupato, nonstante abbia consultato presagiPoi esaltazione alla pace e ai tempi passatiTibullo non teme la morte, perchè sa di doverla affrontare, nonstante ciò è preoccupato
+Vuole una lapide con scritto: "Qui giace consumato da morte inclemente Tibullo, mentre seguiva Messalla per terra e per male "
+
+## L'amore oltre la morte - Properzio
+Apparizione spettrale della defunta Cnizia, che rimprovera il poeta per averla sostituita con un'altra donna
 
 
 # Lotti - Poliziano
