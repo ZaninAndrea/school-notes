@@ -270,11 +270,13 @@ $$
 
 SVILUPPO LA CONDIZIONE
 $$
-\mid \frac{x^2 -4}{x-2} - l \mid \lt \epsilon \\
-\mid \frac{x^2 -4 -4x + 8}{x-2} \mid \lt \epsilon \\
-\mid \frac{x^2 -4x +4}{x-2} \mid \lt \epsilon \\
-\mid \frac{(x-2)^2}{x-2} \mid \lt \epsilon \\
-\mid x-2 \mid \lt \epsilon
+\begin{align*}
+\mid \frac{x^2 -4}{x-2} - l \mid &\lt \epsilon \\
+\mid \frac{x^2 -4 -4x + 8}{x-2} \mid &\lt \epsilon \\
+\mid \frac{x^2 -4x +4}{x-2} \mid &\lt \epsilon \\
+\mid \frac{(x-2)^2}{x-2} \mid &\lt \epsilon \\
+\mid x-2 \mid &\lt \epsilon
+\end{align*}
 $$
 
 Sviluppando, ho verificato che x è molto vicino a 2, infatti la differenza tra 2 ed x è di minima (inferiore ad $$\epsilon$$)
