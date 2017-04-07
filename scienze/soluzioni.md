@@ -274,3 +274,29 @@ Nei due casi l'acqua agisce come base o come acido, quindi l'acqua è una sostan
 >
 > **Bronsted**
 > $$3H_2SO_4 + 6OH^- \rightarrow 3SO_4^{2-} + 6H_2O$$
+
+### Natura degli acidi e delle basi
+Partiamo da un composto generico X-O-H, dove X può essere un elemento del 1° o del 7° gruppo. Se l'elemento è del 1° ha un comportamento basico, se è del 7° acido, a parità di struttura.
+
+Per esempio $$HClO$$ ha la seguente struttura ed elettronegatività.
+$$
+\begin{align*}
+3.0 \qquad 3&.5 \qquad 2.2 \\ 
+Cl \qquad &O \qquad H \\
+&\delta - \quad \; \delta +
+\end{align*}
+$$ L'acqua tenderà ad agganciarsi da H $$\delta +$$ e O $$\delta -$$ e accentua la separazionedi carica e quindi favorisce la rottura del legame tra O e H, quindi la reazione sarà $$HClO \Leftrightarrow H^+ + ClO^-$$
+Abbiamo quindi giustificato il comportamento acido di HClO
+
+Analogamente posso studiare il comportamento basico di NaOH
+
+Quindi **l'elettronegatività **determina il comportamento acido o basico. 
+Nel caso di elementi del 7° gruppo, maggiore è l'elettronegatività dell'elemento X, più l'equilibrio si sposta a destra e quindi maggiore è la forza dell'acido.
+Nel caso di elementi del 1° gruppo, minore è l'elettronegatività dell'elemento X, più l'equilibrio si sposta verso destra e quindi maggiore è la forza della base.
+
+
+Supponiamo di aggiungere un $$O$$ a $$HClO$$, raggiungendo la struttura $$O \leftarrow Cl - O - H$$. L'ossigeno priva il cloro di elettroni, rendendolo molto più elettronegativo, riesce quindi a strappare un elettrone all'ossigeno, quindi l'ossigeno a sua volta attrae di più $$H$$ 
+
+> #### Consiglio del chimico
+> Se il numero di ossigeni supera di 2 il numero di idrogeni l'acido è molto forte.
+> Per avere una forza notevole servono almeno altri 2 ossigeni, quindi $$HClO_3$$ e $$HClO_4$$ 
