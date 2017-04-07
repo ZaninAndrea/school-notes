@@ -98,8 +98,9 @@ La morte nera (non star wars)
 Vuole una lapide con scritto: "Qui giace consumato da morte inclemente Tibullo, mentre seguiva Messalla per terra e per male "
 
 ## L'amore oltre la morte - Properzio
-Apparizione spettrale della defunta Cnizia, che rimprovera il poeta per averla sostituita con un'altra donna
-
+Apparizione spettrale della defunta Cinzia, che rimprovera il poeta per averla sostituita con un'altra donna
+Mani: gli spiriti degli antenati che rimangono nella casa 
+Tema del lettocum temporale
 
 # Lotti - Poliziano
 ## Poliziano
@@ -113,6 +114,8 @@ Soggetto Iulo (Giuliano de Medici)
 Ottava 8: figura delle dolce cerbe cure
 Ottava 25: "... e la ingegnosa pecchia al primo albore giva predando ora uno or altro fiore ..."
 Ottave 33-34: Come Amore si vendica
+Il fuoco aveva intaccato la gemma
+descrizione sprezzante della sepoltura
 
 ## Machiavelli
 Parallelamente in Machiavelli possiamo trovare i concetti di Forza - Astuzia -> Virtù -> Fortuna 
