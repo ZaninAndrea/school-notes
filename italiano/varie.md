@@ -118,12 +118,19 @@ Il fuoco aveva intaccato la gemma
 descrizione sprezzante della sepoltura
 insistenza sulla vanità, sul fantastico
 
+...
+
+Il filologo deve comportarsi come sculapio nei confronti di ippolito (che dopo essere stato squartato è stato ricomposto e riportato in vita).
 
 ## Machiavelli
 Parallelamente in Machiavelli possiamo trovare i concetti di Forza - Astuzia -> Virtù -> Fortuna 
 
+### Lettera al Vettori
+Machiavelli è preoccupato che il Vettori non lo abbia più in grazia, perché non gli scrive più.
 
+Machiavelli gli racconterà la sua vita.
+Machiaveelli vive in una villa, va a caccia (attività misera per un politico impegnato come lui), perde il suo tempo facendo nulla
 
-
+Il cuore della lettera è il contatto che Machiavelli ha con gli antichi, attraverso il rituale di cambiarsi d'abito e leggere i classici.
 
 
