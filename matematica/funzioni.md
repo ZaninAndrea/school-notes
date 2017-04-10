@@ -186,11 +186,11 @@ Analogamente un insieme può essere **inferiormente limitato**
 ### Estremo superiore
 Dato $$A$$ superiormente limitato, si dice **estremo superiore** di $$A$$ quel numero $$M$$ tale che
 - $$\forall x \in A \quad x \le M $$
-- $$\forall \epsilon \gt 0 \; \exists x \in A  (x \ne M) \mid M - \epsilon \le x \le M $$
+- $$M \not\in A \to \forall \epsilon \gt 0 \; \exists x \in A  (x \ne M) \mid M - \epsilon \le x \le M $$
 
 $$\epsilon$$ e $$\delta$$ in matematica indicano un numero positivo arbitrariamente piccolo
 
-L'insieme $$A$$ (vedi sopra) ha come estremo superiore 1, ma non ha un estremo inferiore.
+L'insieme $$A$$ (vedi sopra) ha come estremo superiore 1 e come estremo inferiore 0.
 
 ### Intorno
 Si dice **intorno** di un punto $$ x_0 $$ un qualsiasi intervallo aperto contenente $$x_0$$, e.g. $$(x_0 - \delta \; , \; x_0 + \delta ) $$. Posso definire anche un intorno di infinito:
@@ -215,7 +215,7 @@ A&=\{x \mid x = \frac{1}{n} \text{ con } n \in \mathbb{N} -\{0\}\} \\
 &=\{0,\frac{1}{2},\frac{1}{3},\frac{1}{4}, \dots\}
 \end{align*}
 $$
-A è superiormente e inferiormente limitato, non ha un estremo superiore, ma ha come estremo inferiore e punto di accumulazione 0.
+A ha come punto di accumulazione 0.
 
 ## Limiti
 ### Comprensione intuitiva dei limiti
@@ -282,10 +282,56 @@ $$
 Sviluppando, ho verificato che x è molto vicino a 2, infatti la differenza tra 2 ed x è di minima (inferiore ad $$\epsilon$$)
 
 
+#### Caso con limite infinito positivo
+$$
+\lim_{x \to x_0} f(x)=+\infty
+$$
 
+DEFINIZIONE
+$$\forall M >0 \text{ arb. grande } \exists I(x_0) \mid \forall x \ne x_0 \in I(x_0) \Rightarrow f(x) \gt M$$
 
+**Esempio**
+$$
+\lim_{x \to 1} \frac{1}{(x-1)^2} = + \infty
+$$
+VERIFICO LA CONDIZIONE
+$$
+\begin{align*}
+\forall M>0 \; \exists I(x_0) \mid \forall x \ne x_0 \in I(x_0) \Rightarrow \frac{1}{(x-1)^2} &\gt M \\
+\frac{1}{(x-1)^2} &\gt M \\
+(x-1)^2 &\lt \frac{1}{M} \\
+-\sqrt{\frac{1}{M}}  \lt x-1 &\lt +\sqrt{\frac{1}{M}} \\
+1 -\sqrt{\frac{1}{M}} \lt x &\lt 1 +\sqrt{\frac{1}{M}}
+\end{align*}
+$$
 
+Posso scegliere un M arbitrariamente grande, che porterà la condizione finale ad essere un intorno arbitrariamente piccolo.
 
+#### Caso con limite infinito negativo
+$$
+\lim_{x \to x_0} f(x)=-\infty
+$$
+
+DEFINIZIONE
+$$\forall M >0 \text{ arb. grande } \exists I(x_0) \mid \forall x \ne x_0 \in I(x_0) \Rightarrow f(x) \lt -M$$
+
+**Esempio**
+$$
+\lim_{x \to 2} \frac{-3}{\mid x-2 \mid} = - \infty
+$$
+
+VERIFICO LA CONDIZIONE
+
+$$
+\begin{align*}
+\frac{-3}{\mid x-2 \mid} &\lt -M \\
+\frac{3}{\mid x-2\mid} &\gt M \\
+\frac{-3}{M} \lt x-2 &\lt \frac{3}{M} \\
+2 - \frac{3}{M} \lt x &\lt 2 + \frac{3}{M}
+\end{align*}
+$$
+
+Analogamente a prima, posso scegliere un M arbitrariamente grande, che porterà l'ultima condizione ad essere un intorno arbitrariamente piccolo.
 
 
 
