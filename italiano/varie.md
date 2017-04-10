@@ -116,6 +116,8 @@ Ottava 25: "... e la ingegnosa pecchia al primo albore giva predando ora uno or 
 Ottave 33-34: Come Amore si vendica
 Il fuoco aveva intaccato la gemma
 descrizione sprezzante della sepoltura
+insistenza sulla vanità, sul fantastico
+
 
 ## Machiavelli
 Parallelamente in Machiavelli possiamo trovare i concetti di Forza - Astuzia -> Virtù -> Fortuna 
