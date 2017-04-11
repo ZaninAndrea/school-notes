@@ -72,3 +72,25 @@ he meets and indigenous whom he give the name Friday. he tames the indigenous. T
 | lay the foundations | | gettare le fondamenta (figurato)|
 | subdue | | sottomettere |
 | threadbare | worn out | usati |
+
+### Jonathan Swift
+Jonathan Swift mainly wrote satirical pamphlets. He becomes the dean of the Sant Patricks Cathedral in Dublin and soon after he dies of mental disease.
+
+#### Gulliver's Travels
+It's divided in 4 voyages to 4 far-away places in the world. It was published anonymously, due to the many critiques of the contemporary society he makes.
+
+It can be considered a utopian novel, even though it's realistic at times. E.g. all the imaginary places, which are carefully described, are contained in real continents. 
+It is a satire on the political and religious institution of the Britons.
+It is also a travel book and a philosophical book.
+
+Lemuel Gulliver worked as a surgeon, who worked on merchant ships. Throughout his 4 voyages he comes face to face with different races, either better or the same as our. 
+Examining them he thinks about our society, their society show all the flaws of his contemporaries. 
+
+The lilliputiants are evil, wwereas the giants are kindhearted. The giants kept him in a cage to protect him from the animals, eventually an eagle picks him up and drops him on an english ship.
+
+Then he lands on the island Laputa, the Laputians were ugly. They were philosophers and scientists, they couldn't do anything right, they weren't able to do anything practical. They carried out many experiments completely absurd.
+This passage is a sharp satire on the comtemporary philosophy and science.
+
+In the last voyage he finds the Yahoos, that are similar to his race. In that lands live also the Wims, wise horses. The Wims are intelligent and Gulliver would like to live with them forever, but they do not allow him to stay with them.
+
+When he comes back to England he doesn't know any longer were he belongs and is disgusted of his own wife.
