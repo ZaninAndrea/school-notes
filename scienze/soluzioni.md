@@ -300,3 +300,42 @@ Supponiamo di aggiungere un $$O$$ a $$HClO$$, raggiungendo la struttura $$O \lef
 > #### Consiglio del chimico
 > Se il numero di ossigeni supera di 2 il numero di idrogeni l'acido è molto forte.
 > Per avere una forza notevole servono almeno altri 2 ossigeni, quindi $$HClO_3$$ e $$HClO_4$$ 
+
+### pH
+Reazione di dissociazione dell'acqua
+$$
+H_2O \Leftrightarrow H^+ + OH^-
+$$
+La costante di equilibrio, o **prodotto ionico dell'acqua** $$K_w = [H^+][OH^-]$$ a 25° vale $$10^{-14}$$, la concentrazione di entrambi gli ioni è quindi $$10^{-7}$$.
+
+Aggiungendo un acido o una base altero l'equilibrio, per l'effetto dello ione comune.
+
+E.g. aggiungo acido fino a portare la concentrazione di ioni $$H^+$$ fino a $$10^{-3}$$ e di conseguenza quella degli ioni $$OH^-$$ a $$10^{-11}$$ (dato che il prodotto ionico rimane invariato).
+
+$$
+pH = -\log{[H^+]} \\
+pOH = -\log{[OH^-]} \\
+pH + pOH = 14
+$$
+
+#### Esempio
+$$
+\begin{align*}
+2Al(OH)_3 + 3H_2SO_4 &\rightarrow Al_2(SO_4)_3 + 6H_2O \\
+0.5N&=\frac{\text{n° eq}}{0.01l} \\
+&\downarrow \\
+1.7 &\cdot 10^{-3} \text{ moli di } Al(OH)_3 \\
+30ml &\to 33g \text{ di soluzione di }H_2SO_4 \\
+5:100&=x:33g \\
+x&=1.65g \text{ di }H_2SO_4 \\
+\text{n° mol}&=\frac{1.65g}{98g} \\
+&=1.7 \cdot 10^{-2} \\
+2:3&=1.7\cdot 10^{-3}:x\\
+x&=2.5\cdot 10^{-3} \text{ moli di }H_2SO_4\text{ consumate} \\
+0.017-2.5\cdot 10^{-3}&=0.0145 \text{ molil in eccesso di }H_2SO_4 \\
+[H^+] &= \frac{0.0145\cdot 2}{0.04l} \\
+&=0.72 \\
+pH&=-\log{0.72} \\
+&=0.14
+\end{align*}
+$$
