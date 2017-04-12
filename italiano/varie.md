@@ -133,4 +133,6 @@ Machiaveelli vive in una villa, va a caccia (attività misera per un politico im
 
 Il cuore della lettera è il contatto che Machiavelli ha con gli antichi, attraverso il rituale di cambiarsi d'abito e leggere i classici.
 
+Machiavelli descrive il Principe come "la discussione su come siano i principati, su che tipo siano, come si acquistano, come si mantengono e perché si perdono". Ne consiglia la lettura all'amico.
+
 
