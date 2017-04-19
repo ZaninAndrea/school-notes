@@ -145,10 +145,15 @@ $$
 $$\Delta U$$ è la differenza di potenziale elettrico
 $$\Delta V$$ è la differenza di potenziale
 
-L'unità di misura della differenza di potenziale è il Volt, indicato con $$V=1\frac{J}{C}$$
-L'energia si può misurare utilizzando l'unità elettronvolt: $$eV=e\cdot 1V = 1.6 \cdot 10^{-19} J$$
+Il potenziale diminuisce se ci si muove nella direzione del campo elettrico, quindi le cariche posistive si muovono verso zone di potenziale basso e quelle negative verso zone di potenziale alto.
+
+Il potenziale è una grandezza scalare
+
+L'unità di misura della differenza di potenziale è il **Volt,** indicato con $$V=1\frac{J}{C}$$
+L'energia si può misurare utilizzando l'unità **elettronvolt**: $$eV=e\cdot 1V = 1.6 \cdot 10^{-19} J$$
 
 ### Differenza di potenziale in un campo elettrico uniforme
+![](/assets/campo.PNG)
 $$
 \begin{align*}
 W&=F_{el}\cdot \Delta s \\
@@ -161,3 +166,18 @@ W&=F_{el}\cdot \Delta s \\
 E&=-\frac{\Delta V}{\Delta s}
 \end{align*}
 $$
+
+### Differenza di potenziale in un campo generato da una carica puntiforme
+![](/assets/campo2.png)
+Con il calcolo integrale la formula risulta:
+$$
+\begin{align*}
+V_A - V_B &= \frac{1}{4\pi \epsilon_0}\frac{q}{r_A} - \frac{1}{4\pi \epsilon_0}\frac{q}{r_B} \\
+V(r) &= \frac{1}{4\pi \epsilon_0}\frac{q}{r}
+\end{align*}
+$$
+
+Se $$r \to + \infty$$ allora $$V \to 0$$
+
+### Superfici equipotenziali
+Le linee equipotenziali sono perpendicolari alle linee di campo. Nel caso di una carica puntiforme le superfici equipotenziali sono sfere.
