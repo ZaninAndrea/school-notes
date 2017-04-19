@@ -301,6 +301,37 @@ Supponiamo di aggiungere un $$O$$ a $$HClO$$, raggiungendo la struttura $$O \lef
 > Se il numero di ossigeni supera di 2 il numero di idrogeni l'acido è molto forte.
 > Per avere una forza notevole servono almeno altri 2 ossigeni, quindi $$HClO_3$$ e $$HClO_4$$ 
 
+**Acido forte**
+$$
+\begin{align*}
+HX + H_2O_{(e)} &\overset{\longrightarrow}{\leftarrow} x^- + H_3O^+ \\
+K_a &= \frac{[x^-][H_3O^+]}{[HX]} \\
+K_a &\gt 1
+\end{align*}
+$$
+
+**Base forte**
+$$
+\begin{align*}
+b + H_2O_{(e)} &\overset{\longrightarrow}{\leftarrow} BH^+ + OH^- \\
+K_b &= \frac{[BH^+][OH^-]}{[B]} \\
+K_b & \gt 1
+\end{align*}
+\overset{\longrightarrow}{\leftarrow}
+$$
+
+**Acido debole**
+In un acido debole la concentrazione dell'acido indissociato è fondamentalmente costante
+$$
+\begin{align*}
+CH_3COOH &\overset{\rightarrow}{\longleftarrow} CH_3COO^- + H_3O \\
+K_a &= \frac{[CH_3COO^-][H_3O]}{[CH_3COOH]} \\
+&= \frac{[H_3O^+]^2}{[CH_3COOH]} \\
+[H_3O^+]&= \sqrt{[CH_3COOH]\cdot K_a}
+\end{align*}
+$$
+Analogamente posso calcolare il pH di una base
+
 ### pH
 Reazione di dissociazione dell'acqua
 $$
@@ -332,10 +363,22 @@ x&=1.65g \text{ di }H_2SO_4 \\
 &=1.7 \cdot 10^{-2} \\
 2:3&=1.7\cdot 10^{-3}:x\\
 x&=2.5\cdot 10^{-3} \text{ moli di }H_2SO_4\text{ consumate} \\
-0.017-2.5\cdot 10^{-3}&=0.0145 \text{ molil in eccesso di }H_2SO_4 \\
+0.017-2.5\cdot 10^{-3}&=0.0145 \text{ moli in eccesso di }H_2SO_4 \\
 [H^+] &= \frac{0.0145\cdot 2}{0.04l} \\
 &=0.72 \\
 pH&=-\log{0.72} \\
 &=0.14
 \end{align*}
 $$
+
+#### Indicatori di pH
+Il **pHmetro** è uno strumento che dispone di una sonda, all'interno della quale ci sono un elettrolita e una membrana lascia passare degli ioni, convertendo il pH in una **piccola scarica elettrica**, permettendo di visualizzare il pH su una scala. Il pHmetro è munito anche di un termometro per agggiustare la misura rispetto alla temperatura.
+
+Gli indicatori di pH sono sostanze di tipo $$HA$$, che dissociandosi cambiano colore. Ogni indicatore ha il suo **punto di viraggio**, ossia un valore di pH nel quale l'indicatore assume un colore intermedio.
+
+$$
+HA \Leftrightarrow H^+ + A^-
+$$
+
+Gli ioni $$H^+$$ sono un prodotto e quindi in ambiente acido la reazione si sposta verso sinistra, mentre $$OH^-$$ cattura $$H^+$$, spostando la reazione verso destra.
+
