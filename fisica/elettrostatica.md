@@ -10,6 +10,7 @@
 
 ## Forza elettrica
 La forza elettrica può essere sia attrattiva che repulsiva.
+La forza elettrica è una forza conservativa.
 La **legge di Coulomb** che descrive la forza elettrica è analoga alla legge dell'attrazione gravitazionale.
 $$
 \begin{align*}
@@ -51,7 +52,7 @@ Posso rappresentare un campo elettrico con le **linee di forza**, che
 ### Flusso di campo elettrico
 Il flusso di campo elettrico $$\theta_E$$ è definito come
 $$
-\theta_E = \sum_i \overrightarrow{E_i} \cdot \Delta \overrightarrow{S}
+\theta_E \overset{\text{def}}{=} \sum_i \overrightarrow{E_i} \cdot \Delta \overrightarrow{S}
 $$
 
 $$\overrightarrow{S_i}$$ è il vettore superficie, ossia il vettore normale alla superficie, con modulo uguale all'area della superficie e uscente dalla stessa. 
@@ -133,5 +134,30 @@ $$
 \overrightarrow{E} &= \frac{\rho R^3}{3 \epsilon_0 r^2} \\
 &= \frac{\rho \frac{4}{3}\pi R^3}{4\pi \epsilon_0 r^2} \\
 &= \frac{1}{4\pi \epsilon_0} \cdot \frac{q}{r^2}
+\end{align*}
+$$
+
+## Potenziale
+$$
+\Delta V \overset{\text{def}}{=} \frac{\Delta U}{q_0} = - \frac{W}{q_0}
+$$
+
+$$\Delta U$$ è la differenza di potenziale elettrico
+$$\Delta V$$ è la differenza di potenziale
+
+L'unità di misura della differenza di potenziale è il Volt, indicato con $$V=1\frac{J}{C}$$
+L'energia si può misurare utilizzando l'unità elettronvolt: $$eV=e\cdot 1V = 1.6 \cdot 10^{-19} J$$
+
+### Differenza di potenziale in un campo elettrico uniforme
+$$
+\begin{align*}
+W&=F_{el}\cdot \Delta s \\
+&=q_0 E \Delta s \\
+&\downarrow \\
+\Delta V &= - \frac{W}{q_0} \\
+&= - \frac{q_0 E \Delta s}{q_0} \\
+&= - E \Delta s \\
+&\downarrow \\
+E&=-\frac{\Delta V}{\Delta s}
 \end{align*}
 $$
