@@ -136,3 +136,52 @@ Il cuore della lettera è il contatto che Machiavelli ha con gli antichi, attrav
 Machiavelli descrive il Principe come "la discussione su come siano i principati, su che tipo siano, come si acquistano, come si mantengono e perché si perdono". Ne consiglia la lettura all'amico.
 
 
+# Gruppo Paris - Manierismo e Barocco
+## Manierismo
+Si diffonde in Italia tra XVI e XVII secolo.
+**Emblema**: espressione complessa
+Particolare attenzione alla tecnica letteraria, molte figure retoriche
+**Ornatus in verbis conjunctis**: discorso figurato che si basa sulla disposizione delle parole.
+Risalto degli elementi decorativi.
+Non c'è una gerarchia tra gli elementi.
+
+Si sviluppa nel contesto della Controriforma e del Concilio di Trento
+Autori principali:
+* Torquato Tasso
+* Battista Guarini
+* Giordano Bruno (più come pensatore)
+
+### Torquato Tasso
+Nasce l'11 Marzo 1544 a Sorrrento da genitori nobili. Suo padre viene esiliato e suo madre allontanata durante la sua infanzia. A 18 anni scrive _Rinaldo_ (dedicato al cardinale Luigi d'Este)
+Nel 1574 si ammala e poi perde la ragione, per questo viene rinchiuso nell'ospedale di Sant'Anna per 7 anni.
+Trascorre gli ultimi anni della sua vita da pellegrino, finché non arriva a Roma, ove muore il giorno prima della sua prevista incoronazione con l'alloro solenne.
+
+Tasso vive in un periodo di transizione tra manierismo e barocco. Egli è un autore eclettico. Segue le regole aristoteliche (in particolare la _Poetica_)
+
+#### La Gerusalemme Liberata
+è l'opera più importante del tasso.
+Viene pubblicata una prima volta incompleta senza l'autorizzazione del Tasso durante la sua prigionia e successivamente nel 1581 viene pubblicata con la sua autorizzazione (sempre durante la prigionia).
+Anche prima della pubblicazione l'opera era conosciuta dalla corte estense.
+
+Lo schema metrico sono ottave rimate in ABABABCC
+
+**Personaggi**
+Goffredo di Buglione. Personaggio storico, è il capo supremo delle forze cristiane. Nonostante sia il protagonista non è il personaggio più importante
+Aladino e Solimano sono rispettivamente sovrano di Gerusalemme e Sovrano d'Egitto.
+**Rinaldo e Tancredi**: i 2 eroi dalla parte cristiana
+**Argante e Clorinda**: i 2 eroi dalla parte musulmana
+**Erminia**: una principessa araba innamorata di Tancredi
+**Armida**: la maga che imprigiona Rinaldo
+Ismeno: un mago musulmano
+Carlo e Ubaldo, che liberano Rinaldo
+
+Parla dell'ultimo inverno di permanenza in Terrasanta, dell'assedio finale a Gerusalemme e della conquista del Sepolcro. La trama è simile a quella dell'Iliade.
+All'inizio le forze cristiane vogliono andare a fare la pausa invernale, ma a Goffredo appare l'angelo Gabriele che lo esorto ad un ultimo assalto.
+Argante e Tancredi si scontrano per decidere le sorti della guerra (vedi Paride vs Menelao), ma lo scontro si conclude in parità e non viene ripreso, perché Solimano porta altre truppe, volgendo la guerra in favore dei pagani, ma poi Rinaldo libera dalla maga Armida e rovescia di nuovo la situazione.
+Gli arabi organizzano una sortita notturna, ma per errore chiudono Clorinda fuori dalle mura e viene raggiunta da Tancredi, che però non la riconosce perché ha un'armatura diversa dal solito. Tancredi era innamorato di Clorinda, ma non era ricambiato.Tancredi vince, alla fine scopre di aver ucciso la sua amata, nonostante la disperazione accetta di battezzarla.
+Goffredo vuole ricostruire le macchine da assedio, ma Ismeno incanta la foresta impededogli di tagliare gli alberi.Guardandosi alla specchio Rinaldo capisce quantoera caduto in basso e quindi si riprende.
+Nella battaglia finale i cristiani vincono.
+Erminia è innamorata di Tancredi che è innamorato di Clorinda, ma sono tutti amori impossibili.
+Termina con Goffredo che pianta il vessilo cristiano a Gerusalemme.
+
+La trama è lineare e concentrata sulla guerra. C'è l'invocazione alla Madonna ed è dedicata ai Conti d'Este
