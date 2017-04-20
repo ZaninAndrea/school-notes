@@ -250,6 +250,8 @@ $$
 $$
 
 ### Definizione di limite
+L'operazione di limite ha senso solamente quando $$x$$ tende ad un punto di accumulazione.
+
 #### CASO l FINITO
 $$
 \lim_{x \to x_0} f(x) = l
