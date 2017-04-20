@@ -185,3 +185,4 @@ Erminia è innamorata di Tancredi che è innamorato di Clorinda, ma sono tutti a
 Termina con Goffredo che pianta il vessilo cristiano a Gerusalemme.
 
 La trama è lineare e concentrata sulla guerra. C'è l'invocazione alla Madonna ed è dedicata ai Conti d'Este
+
