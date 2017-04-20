@@ -382,3 +382,28 @@ $$
 
 Gli ioni $$H^+$$ sono un prodotto e quindi in ambiente acido la reazione si sposta verso sinistra, mentre $$OH^-$$ cattura $$H^+$$, spostando la reazione verso destra.
 
+#### Variazioni di pH dovute ai sali
+e.g.
+$$
+\begin{align*}
+NH_4Cl &\Leftrightarrow NH_4^+ + Cl^- \\ 
+H_2 O &\Leftrightarrow OH^- + H^+ \\
+NH_4OH &\Leftrightarrow NH_4^+ + OH^-  &K_b& = 1.8 \cdot 10^{-5}\\
+HCl &\Leftrightarrow H^+ + Cl^- &K_a& \gt\gt 1
+\end{align*}
+$$
+
+Si crea uno squilibrio tra gli $$OH^-$$ e gli $$H^+$$, in quanto gli $$H^+$$ continuano a crescere. Questa reazione è detta **idrolisi**
+
+e.g.
+$$
+CH_3COONa \Leftrightarrow CH_3COO^- + Na^+ \\
+H_2O \Leftrightarrow H^+ + OH^- \\
+CH_3COOH \Leftrightarrow CH_3COO^- + H^+ \quad K_a=1.8\cdot 10^{-5} \\
+NaOH \Leftrightarrow Na^+ + OH^- \quad K_b \gt\gt 1
+$$
+
+In questo caso la soluzione diventa basica
+
+#### Consiglio del Chimico
+Vince il più forte. Se il ale è costituito da una base forte e un acido debole la soluzione sarà basica e vice versa.
