@@ -29,6 +29,7 @@
 * [Cartesio](filosofia\cartesio.md)
 * [Spinoza](filosofia\Spinoza.md)
 * [Leibniz](filosofia\leibniz.md)
+* [Chalmers](filosofia\chalmers.md)
 
 ## Italiano
 
