@@ -186,3 +186,26 @@ Termina con Goffredo che pianta il vessilo cristiano a Gerusalemme.
 
 La trama è lineare e concentrata sulla guerra. C'è l'invocazione alla Madonna ed è dedicata ai Conti d'Este
 
+I ottava: Il proemio è simile a quello dell'oper virgiliana e si discosta da quella dell'Orlando Furioso. 
+
+II-III ottave: Invocatio alla Madonna. Si scusa per le sue digressioni di carattere artistico. Si scusa per aver scelto la poesia, ma dice di aver scelto i versi invece della prosa per "alleggerire" questi argowenti pesanti. Lotta manichea contro il male. 
+
+IV-V ottave: prega Alfonso di accogliere questo suo messaggio, magari in futuro scriverò su di lui.
+
+## Battista Guarini
+**Poeta manierista**, precursore del barocco. Nato il 10 dicembre 1538. Studia legge a Padove e successivamente viene mandato in Polonia ad osservare la situazione politica dagli Este.
+Nel 1583 si trasferice nel Polesine. Qui inizia a lavorare sulla sua opera principale: **Il Pastor Fido**.
+
+Scrive anche sul metodo di insegnamento il "**De ordine docendi ac studendi**"
+
+#### Il pastor Fido
+Dilemma pastorale, scritto tra il 1583 e 1587, che ha come protagonisti Mirtillo e Amarilli e Silvio e Dorinda.
+
+Scritta in endecasillabi e settenari, mischia tragedia e commedia, questa caratteristica fu osteggiata, perché rompeva la tradizione aristotelica. 
+
+Ambientata nell'Arcadia, che però è maledetta da Diana e quindi deve sacrificare una fanciulla ogni anno. Amarilli e Mirtillo si amano e quest'ultimo è amato da Corisca. Silvio non si cura dei problemi d'amore, non curandosi del fatto che Dorinda lo ama. 
+Amarilli e Mirtillo vengono sorpresi in una grotta, grazie a Corisca, e Amarilli è condannata a morte perché era promessa a Silvio. Mirtillo si offre per morire al posto di Amarilli, si scopre che Mirtillo è figlio del sacerdote Montano (discendente divino) e quindi sposando Amarilli può rompere la maledizione. Silvio si sposa con Dorinda. Per un cavillo riescono a salvarsi, si sposano e liberano l'Arcadia.
+ 
+
+
+
