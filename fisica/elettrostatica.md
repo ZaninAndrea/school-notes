@@ -181,3 +181,34 @@ Se $$r \to + \infty$$ allora $$V \to 0$$
 
 ### Superfici equipotenziali
 Le linee equipotenziali sono perpendicolari alle linee di campo. Nel caso di una carica puntiforme le superfici equipotenziali sono sfere.
+
+### Conduttori
+![](/assets/punte.png)
+Prendo 2 sferette conduttrici una più piccola _r_ e una più grande _R_. Le carico con la stessa quantità di carica positiva e quindi la sfera più piccola avrà potenziale maggiore.
+Successivamente collego le 2 sfere con un filo conduttore, quindi gli elettroni si muovono verso le zone di potenziale alto (la sferetta piccola); gli elettroni continueranno a fluire finchè le 2 sferette avranno lo stesso potenziale
+
+$$
+\begin{align*}
+V_1&=V_2 \\
+\frac{1}{4\pi\epsilon_0}\frac{Q_r}{r} &= \frac{1}{4\pi\epsilon_0}\frac{Q_R}{R} \\
+\frac{Q_r}{Q_R}&=\frac{r}{R} \\
+E_r &= \frac{1}{4\pi\epsilon_0}\frac{Q_r}{r^2} \\
+E_R &= \frac{1}{4\pi\epsilon_0}\frac{Q_R}{R^2} \\
+\frac{E_r}{E_R} &= \frac{Q_r}{r^2}\frac{R^2}{Q_R} \\
+&= \frac{r}{R}\frac{R^2}{r} \\
+&= \frac{R}{r} \\
+\sigma_r &= \frac{Q_r}{4\pi r^2} \\
+\sigma_R &= \frac{Q_R}{4\pi R^2} \\
+\frac{\sigma_r}{\sigma_R} &= \frac{Q_r}{r^2}\frac{R^2}{Q_R} \\
+&= \frac{R}{r}
+\end{align*}
+$$
+
+Troviamo quindi 3 relazioni importanti:
+- tra i raggi e la cariche $$\frac{Q_r}{Q_R}=\frac{r}{R}$$ 
+- tra i raggi e i campi elettrici $$\frac{E_r}{E_R}=\frac{R}{r}$$
+- tra i raggi e le distribuzioni di carica $$\frac{\sigma_r}{\sigma_R}=\frac{R}{r}$$
+
+Dall'ultima relazione possiamo capire che **sulle punte le cariche sono più concentrate**.
+
+Con una punta è facile avere un campo elettrico che superi la rigidità dielettrica dell'aria e riuscire quindi a far passare degli ioni attraverso l'aria. Infatti se mettiamo una punta carica vicino ad una candela "vediamo" il vento elettrico
