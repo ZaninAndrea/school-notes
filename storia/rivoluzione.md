@@ -1,0 +1,1 @@
+Crevecoeur scrive sulle sue impressioni riguardo al Nuovo Mondo. Qui tutti vivono in armonia, senza troppe disparità sociali, senza essere soggetti ad un Lord. Al contrario in Europa c'era una forte disparità sociale e coesistevano l'estrema ricchezza e l'estrema povertà.
