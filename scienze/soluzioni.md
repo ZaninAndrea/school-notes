@@ -406,4 +406,17 @@ $$
 In questo caso la soluzione diventa basica
 
 #### Consiglio del Chimico
-Vince il più forte. Se il ale è costituito da una base forte e un acido debole la soluzione sarà basica e vice versa.
+Vince il più forte. Se il sale è costituito da una base forte e un acido debole la soluzione sarà basica e vice versa.
+
+#### Tamponi
+Prendiamo il sistema costituito da $$CH_3COOH$$ e $$CH_3COONa$$ in quantità uguali, questo sistema è un ottimo tampone per il pH 4.5
+
+$$
+CH_3COOH \overset{\rightarrow}{\longleftarrow} CH_3COO^- + H^ \\
+CH_3COOH \overset{\rightarrow}{\longleftarrow} CH_3COO^- + H^ \\
+CH_3COOH \Leftrightarrow CH_3COO^- + Na^ \\ 
+$$
+
+Se aggiungo una base che libera $$OH^-$$ tali ioni vengono catturati dagli $$H^+$$, mentre gli $$H^+$$ liberati da un acido verrebbero catturati da $$CH_3COO^-$$
+
+Il sistema tampone può essere costituito da acido debole e sale con base forte oppure base debole e sale con acido forte.
