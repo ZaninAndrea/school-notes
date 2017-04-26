@@ -192,20 +192,49 @@ II-III ottave: Invocatio alla Madonna. Si scusa per le sue digressioni di caratt
 
 IV-V ottave: prega Alfonso di accogliere questo suo messaggio, magari in futuro scriverò su di lui.
 
-## Battista Guarini
+### Battista Guarini
 **Poeta manierista**, precursore del barocco. Nato il 10 dicembre 1538. Studia legge a Padove e successivamente viene mandato in Polonia ad osservare la situazione politica dagli Este.
 Nel 1583 si trasferice nel Polesine. Qui inizia a lavorare sulla sua opera principale: **Il Pastor Fido**.
 
 Scrive anche sul metodo di insegnamento il "**De ordine docendi ac studendi**"
 
 #### Il pastor Fido
-Dilemma pastorale, scritto tra il 1583 e 1587, che ha come protagonisti Mirtillo e Amarilli e Silvio e Dorinda.
+**Dilemma pastorale**, scritto tra il 1583 e 1587, che ha come protagonisti Mirtillo e Amarilli e Silvio e Dorinda.
 
-Scritta in endecasillabi e settenari, mischia tragedia e commedia, questa caratteristica fu osteggiata, perché rompeva la tradizione aristotelica. 
+Scritta in endecasillabi e settenari, **mischia tragedia e commedia**, questa caratteristica fu osteggiata, perché rompeva la tradizione aristotelica. 
 
 Ambientata nell'Arcadia, che però è maledetta da Diana e quindi deve sacrificare una fanciulla ogni anno. Amarilli e Mirtillo si amano e quest'ultimo è amato da Corisca. Silvio non si cura dei problemi d'amore, non curandosi del fatto che Dorinda lo ama. 
 Amarilli e Mirtillo vengono sorpresi in una grotta, grazie a Corisca, e Amarilli è condannata a morte perché era promessa a Silvio. Mirtillo si offre per morire al posto di Amarilli, si scopre che Mirtillo è figlio del sacerdote Montano (discendente divino) e quindi sposando Amarilli può rompere la maledizione. Silvio si sposa con Dorinda. Per un cavillo riescono a salvarsi, si sposano e liberano l'Arcadia.
  
+**Estratto: lode all'età dell'oro**
+Riprende l'opera _Aminta_ di Tasso sia nei temi che nella metrica, nonostante ci siano degli interventi contrapposti.
+Tasso dice che se una cosa piace allora dovrebbe essere lecita, mentre Guarini dice che una cosa dovrebbe piacere solo se è lecita.
+Inoltre Tasso dice che nell'età d'oro si stava così bene perché non c'era l'idea di onore, mentre Guarini pensa che l'onore sia una cosa positiva.
 
+Formata da 5 strofe rimate da 13 versi e un ultima strofa (congedo) di 3 versi.
 
+Descrizione dell'età dell'oro come magnifica
 
+## Giordano Bruno
+Filippo Bruno nasce nel 1548 a Nola.
+A 17 anni entra in convento come novizio nel convento di San Domenico e cambia il suo nome in Giordano
+Matura una convizione panteistica, che gli costa l'accusa di eresia.
+Si sposta a Roma, Nola, Savona, Venezia e Ginevra.
+Poi gira per l'Europa prima di tornare a Venezia, dove viene arrestato e successivamente bruciato vivo nel 1600 a Roma
+
+## Barocco
+Raccolta delle correnti letterarie nazionali sviluppatesi tra la metà del '500 e il '600.
+È difficile darne una definizione precisa e l'origine stessa del termine non è chiara.
+Ha radici nel Manierismo, ma se ne mantiene separato.
+Nel '500 il termine aveva un'accezione negativa.
+Ha un atteggiamento critico verso la cultura antica.
+Tra i temi principali troviamo la necessità del nuovo, il collegamento arte-natura, l'ingegno (capacità utilizzare le parole) e acuteza e spirito (capacità di colpire il lettore). Tutte queste caratteristiche sono espresse attraverso la capacità retorica.
+
+Gli scrittori barocchi rifutano la natura comunicativa del linguaggio, si definiscono esponenti del concettismo.
+
+In Italia il massimo esponente del genere è Gianbattista Marino.
+
+### Giambannista Marino
+Nasce nel 1569 a Napoli, si trasferisce a Roma nel 1600, va a Ravennaa dal 1605 al 1608. Dal 1608 al 1615 vive a Torino alla corte dei Savoia, per poi trasferirsi a Parigi dopo essere stato arrestato per ingiurie ed e accusato di immoralità. Nel 1623 pubblica l'_Adone_, successo a livello europeo. Torna in Italia e muore nel 1625 a Napoli. 
+
+Egli scriveva per stupire il lettore, prende spunto sia dalla cultura classica sia dalla cultura moderna, senza discriminazione. _Contaminatio_ e meta-letteratura. Il suo stile era "commerciale", quindi seguiva i gusti del pubblico.
