@@ -413,7 +413,6 @@ Prendiamo il sistema costituito da $$CH_3COOH$$ e $$CH_3COONa$$ in quantità ugu
 
 $$
 CH_3COOH \overset{\rightarrow}{\longleftarrow} CH_3COO^- + H^ \\
-CH_3COOH \overset{\rightarrow}{\longleftarrow} CH_3COO^- + H^ \\
 CH_3COOH \Leftrightarrow CH_3COO^- + Na^ \\ 
 $$
 
