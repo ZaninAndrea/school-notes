@@ -238,3 +238,20 @@ In Italia il massimo esponente del genere è Gianbattista Marino.
 Nasce nel 1569 a Napoli, si trasferisce a Roma nel 1600, va a Ravennaa dal 1605 al 1608. Dal 1608 al 1615 vive a Torino alla corte dei Savoia, per poi trasferirsi a Parigi dopo essere stato arrestato per ingiurie ed e accusato di immoralità. Nel 1623 pubblica l'_Adone_, successo a livello europeo. Torna in Italia e muore nel 1625 a Napoli. 
 
 Egli scriveva per stupire il lettore, prende spunto sia dalla cultura classica sia dalla cultura moderna, senza discriminazione. _Contaminatio_ e meta-letteratura. Il suo stile era "commerciale", quindi seguiva i gusti del pubblico.
+
+#### La Lira
+Pubblicata nel 1614 è la raccolta di tutti i suoi versi lirici. Si distacca dallo stile petrarchesco della donna ideale, per una donna che deve essere solo bella ed è descritta nella quotidianità. Unisce vari _topoi_ poetici per stupire, non vuole trasmettere nessun tipo di sentimento al lettore e prevale il senso della vista.
+
+#### L'Adone
+Opera capolavoro di Marino, con i suoi 40984 versi è l'opera più lunga della letteratura italiana. Si concentra sui temi della pace e dell'amore. La trama contiene molte digressioni e non presenta tematiche cristiane e per questo viene inserita nell'indice, nonostante avesse inserito una morale nella storia. 
+È composta da 20 canti divisibili in 4 parti:
+- I-IV evento iniziale con l'innamoramento di Adone e Venere ad opera di Cupido
+- V-XI iniziazione di Adone al piacere nel Giardino del Piacere
+- XII-XVI peripezie di Adone dovute all'ira di Marte
+- XVI-XX conclusione nel quale Adone per difendersi da un cinghiale lo colpisce con una freccia di cupido. Il cinghiale innamorato di Adone tenta di baciarlo, ma lo infinlza con le zanne e quindi Adone muore dissanguato.
+
+Molte citazioni al limite del plagio.
+
+**Il giardino del tatto**
+Si vedono molte somiglianze con il paradiso dantesco e lo stesso viaggio di Adone nel giardino è un riferimento al viaggio di Dante.
+
