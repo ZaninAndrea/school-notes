@@ -38,4 +38,5 @@
 ## Storia
 
 * [Illuminismo](storia\illuminismo.md)
+* [Rivoluzione americana](storia/rivoluzione.md)
 
