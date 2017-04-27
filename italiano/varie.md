@@ -253,5 +253,18 @@ Opera capolavoro di Marino, con i suoi 40984 versi è l'opera più lunga della l
 Molte citazioni al limite del plagio.
 
 **Il giardino del tatto**
+Il giardino del tatto è il più grande dei giardini dei 5 sensi, riempito con tutte le gioie raccolte da Amore.
 Si vedono molte somiglianze con il paradiso dantesco e lo stesso viaggio di Adone nel giardino è un riferimento al viaggio di Dante.
 
+Esalta la bellezza del giardino con la tecnica del contrasto.
+Nell' ottava 19 inizia a parlare Mercurio che presenta il giardino del tatto come un luogo dove ogni guerra d'amore finisce in pace.
+
+Il tatto è l'unico senso che comprende tutto il corpo e non viene ingannato da miraggi, ...
+
+### Alessandor Tassoni
+Nasce nel 1565 da una famiglia noile di Modena, studia diritto a Ferrara e nel 1589 diventa un accademico della Crusca. Va prima a Roma, po, a Torino nel 1619, a Roma nel 1621, nel 1626 torna a Modena, dove muore nel 1635.
+
+#### La secchia rapita
+L'opera appartiene al genere eroicomica, composta da 12 canti in ottave è pubblicata nel 1622 a Parigi e nel 1630 a Venezia. Riprende la tradizione satirico-burlesca e i canoni aristotelici di unità e verosomiglianza.
+
+La trama narra la guerra tra i Modenesi (ghibellini) e i Bolognesi (guelfi). I modenesi hanno rubato un secchio ai Bolognesi. Il Re Enzo e la guerriera Renoppia aiutano i modenesi, quest'ultima arriva dopo che la cattura del primo da parte dei Bolognesi.
