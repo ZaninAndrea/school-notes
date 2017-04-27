@@ -335,5 +335,40 @@ $$
 
 Analogamente a prima, posso scegliere un M arbitrariamente grande, che porterà l'ultima condizione ad essere un intorno arbitrariamente piccolo.
 
+### Teoremi
+#### Teorema di unicità
+Se esiste il limite $$\lim_{x\to x_0} f(x)=l$$ allora tale limite è unico.
 
+#### Teorema di permanenza del segno
+Se $$\lim_{x\to x_0} f(x)=l$$ e $$l>0$$ allora esiste un intorno di $$X_0$$ tale che la funzione in quell'intorno è maggiore di 0
 
+Ragionamento analogo si può svolgere anche con $$l<0$$
+
+### Operazioni con i limiti
+#### Limite della somma di 2 funzioni
+$$
+\lim_{x \to x_0} [f(x)+g(x)]=\lim_{x\to x_0}f(x)+ \lim_{x\to x_0}g(x)
+$$
+
+E.g.
+$$
+\begin{align*}
+\lim_{x\to x_0}(x+\frac{5}{x})&=\lim_{x\to - \infty}x + \lim_{x\to - \infty} \frac{5}{x} \\
+&=-\infty + 0\\
+&=- \infty
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\lim_{x\to 0^+ } (\ln{x} + x^2) &= -\infty + 0 \\
+&= -\infty
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\lim_{x\to + \infty} x - 2^x &= + \infty -(+ \infty) \\
+&= \text{forma indeterminata }+ \infty - \infty
+\end{align*}
+$$
