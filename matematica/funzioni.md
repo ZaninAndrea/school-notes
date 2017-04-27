@@ -345,7 +345,8 @@ Se $$\lim_{x\to x_0} f(x)=l$$ e $$l>0$$ allora esiste un intorno di $$X_0$$ tale
 Ragionamento analogo si può svolgere anche con $$l<0$$
 
 ### Operazioni con i limiti
-#### Limite della somma di 2 funzioni
+#### Proprietà lineari
+**Limite della somma di 2 funzioni**
 $$
 \lim_{x \to x_0} [f(x)+g(x)]=\lim_{x\to x_0}f(x)+ \lim_{x\to x_0}g(x)
 $$
@@ -355,20 +356,35 @@ $$
 \begin{align*}
 \lim_{x\to x_0}(x+\frac{5}{x})&=\lim_{x\to - \infty}x + \lim_{x\to - \infty} \frac{5}{x} \\
 &=-\infty + 0\\
-&=- \infty
-\end{align*}
-$$
+&=- \infty \\
 
-$$
-\begin{align*}
 \lim_{x\to 0^+ } (\ln{x} + x^2) &= -\infty + 0 \\
-&= -\infty
-\end{align*}
-$$
+&= -\infty \\
 
-$$
-\begin{align*}
 \lim_{x\to + \infty} x - 2^x &= + \infty -(+ \infty) \\
 &= \text{forma indeterminata }+ \infty - \infty
+\end{align*}
+$$
+
+**Limite del prodotto di 2 funzioni**
+$$
+\lim_{x \to x_0} [f(x)\cdot g(x)]=\lim_{x\to x_0}f(x) \cdot \lim_{x\to x_0}g(x)
+$$
+
+E.g.
+$$
+\lim_{x\to -\infty}x \cdot 2^x = \text{f.i. }0 \cdot \infty
+$$
+
+**Limite del rapporto di 2 funzioni**
+$$
+\lim_{x \to x_0} \frac{f(x)}{g(x)}=\frac{\lim_{x\to x_0}f(x)}{\lim_{x\to x_0}g(x)}
+$$
+
+E.g.
+$$
+\begin{align*}
+\lim_{x\to x_0}\frac{\ln{x}}{e^{-x}} &=\frac{+\infty}{0} \\
+&=+\infty
 \end{align*}
 $$
