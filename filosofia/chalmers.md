@@ -24,3 +24,10 @@ Se nego una natural supervenience non cado in contraddizione.
 ## Consciusness
 L'**awareness** consiste nella consapevolezza, mentre la **consciusness** nella nostra reazione ad un qualcosa.
 Nel dibattito filosofico gli **zombies** sono creature come noi, ma con solo awareness e non consciusness
+
+### Gruppo Gir
+Chalmers vuole dimostrare che l'esistenza degli zombies (fisicamente identici a noi, ma senza coscienza) non è contraddittoria ai principi logici.
+
+Per dimostrare questo concetto dice che è anche possibile immaginare un monociclo alto un miglio, anche se non è possibile. Concepibile è anche una replica isomorfica del nostro cervello in cui ogni neurone è rimpiazzato da un cinese, in questa configurazione è concepibile che non ci sia una coscienza collettiva.
+
+Si dovrebbe usare 'it' per indicare lo zombie. 
