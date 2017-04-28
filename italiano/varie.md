@@ -268,3 +268,5 @@ Nasce nel 1565 da una famiglia noile di Modena, studia diritto a Ferrara e nel 1
 L'opera appartiene al genere eroicomica, composta da 12 canti in ottave è pubblicata nel 1622 a Parigi e nel 1630 a Venezia. Riprende la tradizione satirico-burlesca e i canoni aristotelici di unità e verosomiglianza.
 
 La trama narra la guerra tra i Modenesi (ghibellini) e i Bolognesi (guelfi). I modenesi hanno rubato un secchio ai Bolognesi. Il Re Enzo e la guerriera Renoppia aiutano i modenesi, quest'ultima arriva dopo che la cattura del primo da parte dei Bolognesi.
+
+A Modena rimane la secchia e a Bologna re Enzo.
