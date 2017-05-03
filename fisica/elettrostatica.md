@@ -212,3 +212,9 @@ Troviamo quindi 3 relazioni importanti:
 Dall'ultima relazione possiamo capire che **sulle punte le cariche sono più concentrate**.
 
 Con una punta è facile avere un campo elettrico che superi la rigidità dielettrica dell'aria e riuscire quindi a far passare degli ioni attraverso l'aria. Infatti se mettiamo una punta carica vicino ad una candela "vediamo" il vento elettrico
+
+### Condensatore
+Un condensatore è un dispositivo per immagazzinare energia elettrica.
+Un semplice comndensatore è il **condensatore a facce piane parallele**, ossia 2 lamine cariche con la stessa densità di carica ma segno opposto poste vicine e parallele.
+
+La **capacità** di un condensatore è il rapporto tra la quantità di carica e la differenza di potenziale elettrico che riesco a creare $$C=\frac{Q}{V}$$, l'unità di misura è il farad **F**
