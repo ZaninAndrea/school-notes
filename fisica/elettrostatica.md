@@ -217,4 +217,20 @@ Con una punta è facile avere un campo elettrico che superi la rigidità dielett
 Un condensatore è un dispositivo per immagazzinare energia elettrica.
 Un semplice comndensatore è il **condensatore a facce piane parallele**, ossia 2 lamine cariche con la stessa densità di carica ma segno opposto poste vicine e parallele.
 
-La **capacità** di un condensatore è il rapporto tra la quantità di carica e la differenza di potenziale elettrico che riesco a creare $$C=\frac{Q}{V}$$, l'unità di misura è il farad **F**
+La **capacità** di un condensatore è il rapporto tra la quantità di carica e la differenza di potenziale elettrico che riesco a creare $$C=\frac{Q}{V}$$, l'unità di misura è il farad **F**. 
+$$
+\begin{align*}
+Q&=\sigma A \\
+E&=\frac{\sigma}{\epsilon_0} \\
+\Delta V&=E\cdot d \\
+&=\frac{\sigma}{\epsilon_0}\cdot d \\
+C&=\frac{\sigma A}{\frac{\sigma d}{\epsilon_0}} \\
+&=\frac{\epsilon_0 A}{d}
+\end{align*}
+$$
+
+Dall'ultima formula $$C=\frac{\epsilon_0 A}{d}$$ capiamo che la capacità dipende solo dalla geometria del condensatore. 
+
+Per costruire un condensatore con $$d$$ molto piccola separo le 2 piastre con un sottile strato di un isolante, detto **dielettrico**, che ha la funzione di separare fisicamente le 2 piastre.
+I dipoli indotti nell'isolante formano un campo elettrico che contrasta quello delle 2 lamine, dato che il campo elettrico complessivo si riduce, la **capacità aumenta**. 
+Il dielettrico inoltre dovrebbe avere una rigidità elettrica maggiore dell'aria, in modo da permettere di avere differenze di potenziale molto alte.
