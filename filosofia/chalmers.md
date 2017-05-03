@@ -29,5 +29,9 @@ Nel dibattito filosofico gli **zombies** sono creature come noi, ma con solo awa
 Chalmers vuole dimostrare che l'esistenza degli zombies (fisicamente identici a noi, ma senza coscienza) non è contraddittoria ai principi logici.
 
 Per dimostrare questo concetto dice che è anche possibile immaginare un monociclo alto un miglio, anche se non è possibile. Concepibile è anche una replica isomorfica del nostro cervello in cui ogni neurone è rimpiazzato da un cinese, in questa configurazione è concepibile che non ci sia una coscienza collettiva.
+**Obiezione**: Esistono dei fatti necessari _a posteriori_ (e.g. l'acqua è $$H_2O$$), ossia quando questa necessità va verificata. Prima di verificarne questa necessità io avrei potuto concepirlo, ma non sarebbe comunque stato possibile.
+**Risposta**: il dubbio è sufficiente a determinare che la coscienza non è riducibile alla materia.
 
 Si dovrebbe usare 'it' per indicare lo zombie. 
+
+Obiezione: secondo alcuni la concepibilità non implica la possibilità
