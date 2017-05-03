@@ -18,6 +18,7 @@
 
 * [Reazioni ed equilibrio](scienze\equilibrio_reazioni.md)
 * [Soluzioni](scienze\soluzioni.md)
+* [Sassi](scienze/sassi.md)
 
 ## English Literature
 
