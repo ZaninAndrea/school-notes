@@ -388,3 +388,62 @@ $$
 &=+\infty
 \end{align*}
 $$
+
+### Forme indeterminate
+**Caso $$+\infty -\infty$$ in un polinomio**
+$$
+\lim_{x\to +\infty} x^4 -3x^2 +1 = fi +\infty -\infty
+$$
+Raccolgo il termine di grado più alto
+$$
+\lim_{x\to +\infty} x^4(1-\frac{3}{x^2} + \frac{1}{x^4})=+\infty
+$$
+
+**Caso $$+\infty -\infty$$ con una radice**
+$$
+\lim_{x\to +\infty} x-\sqrt{x^2 +1}=fi +\infty - \infty
+$$
+
+"Razionalizzo"
+
+$$
+\begin{align*}
+&\lim_{x\to +\infty}x-\sqrt{x^2 + 1}\cdot \frac{x+\sqrt{x^2 +1}}{x+\sqrt{x^2+1}}= \\
+&\lim_{x\to +\infty} \frac{x^2 -x^2 -1}{x+\sqrt{x^2 +1}}=0^-
+\end{align*}
+$$
+
+**Caso $$\frac{\infty}{\infty}$$**
+$$
+\lim_{x\to + \infty} \frac{x^3+2x+3}{x^2+5}=fi \frac{\infty}{\infty}
+$$
+
+Raccolgo il termine di grado massimo sia al numeratore che al denominatore
+
+$$
+\begin{align*}
+&\lim_{x\to +\infty} \frac{x^3(1+\frac{2}{x^2}+\frac{3}{x^3})}{x^2(1+\frac{5}{x^2})}= \\
+
+&\lim_{x\to +\infty} \frac{x(1+\frac{2}{x^2}+\frac{3}{x^3})}{1+\frac{5}{x^2}}= +\infty
+\end{align*}
+$$
+
+E.g.
+$$
+\begin{align*}
+&\lim_{x\to + \infty} \frac{x^5-3x}{5x^2+4x^5} = \\
+&\lim_{x\to +\infty} \frac{x^5(1-\frac{3}{x^4})}{x^5(\frac{5}{x^3}+4)}= \frac{1}{4}
+\end{align*}
+$$
+
+
+Se i termini di grado massimo di numeratore e denominatore hanno lo stesso grado allora il limite è uguale al rapporto tra i coefficienti dei 2 termini.
+
+**Forma indeterminata $$\frac{0}{0}$$**
+$$
+\begin{align*}
+&\lim_{x\to 3}\frac{x^2-2x-3}{2x^2-9x+9}=fi\frac{0}{0} \\
+&\lim_{x\to 3}\frac{(x-3)(x+1)}{(x-3)(2x-3)}=\\
+&\lim_{x\to 3}\frac{x+1}{2x-3}=\frac{4}{3}
+\end{align*}
+$$
