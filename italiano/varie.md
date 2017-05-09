@@ -270,3 +270,31 @@ L'opera appartiene al genere eroicomica, composta da 12 canti in ottave è pubbl
 La trama narra la guerra tra i Modenesi (ghibellini) e i Bolognesi (guelfi). I modenesi hanno rubato un secchio ai Bolognesi. Il Re Enzo e la guerriera Renoppia aiutano i modenesi, quest'ultima arriva dopo che la cattura del primo da parte dei Bolognesi.
 
 A Modena rimane la secchia e a Bologna re Enzo.
+
+## Gruppo Gir
+Saepe aude --> motto dell'illuminismo
+Neoclassicismo --> diciottesimo secolo
+Crescita della capacità produttiva dovuta anche alla rivoluzione industriale
+1765 macchina a vapore
+Miglioramenti nell'alimentazione e nel bestiario
+Salotti letterari: molti e importanti
+Lumi della ragione, che spazzano via l'ignoranza (è una metafora)
+Dispotismo illuminato
+L'Arcadia è una "rerepubblica delle lettere" che travalica i confini nazionali
+Nasce l'illuminismo, che ebbe lo scopo di rischiarare le tenebre intellettuali dell'epoca.
+Migliore definizione di illuminismo è quella di Kant
+In Italia venne accolto con grande fervore, i maggiori contributi italiani sono la rivista Il Caffè e Dei delitti e delle pene
+L'Encyclopediè fu la prima enciclopedia, pubblicata tra il 1751 e il 1772
+Milano assunse un ruolo centrale nella seconda metà del '700, la Scala è simbolo di questo rinnovamento di Milano
+Progetto di riforma del teatro.
+Bosco Parrasio?? 1726-1849 ritrovo dei pastori arcadi. I poeti arcadi assumono uno pseudonimo dalla letteratura greca.
+Opposizione tra la corrente letteraria portata avanti da Gian Vincenzo Gravina e quella di Cresinbeni.
+Nasce l'accademia dei Quirini.
+Il Caffè venne pubblicato dal 1764 al 1766 dall'accademia dei pugni, che dava valore alla ragione. Gli articoli hanno per "sfondo" un immaginario caffè.
+
+Goldoni reinterpretò la commedia dell'arte in senso nazionale. Nato nel 1707 a Modena. Produsse molte opere teatrali a Feltre e a Parigi. Con la rivoluzione francese perse le pensioni assegnategli dal re e morì quindi in miseria.
+
+Giuseppe Parini fu uno dei massimi esponenti dell'illuminismo italiano.
+Le difficili condizioni economiche della sua giovinezza gli impedirono di proseguire gli studi, ma grazie ad una famiglia agiata potè riprenderli. Venne ammesso all'accademia dei Trasformati, quì Parini venne a contatto con la cultura francese e gli usi e costumi della nobiltà. Nel 1763 pubblica "Il mattino". Egli venne inserito nell'accademia del'arcadia.. Morì nel 1799.
+La Caduta è ispirata ad un fatto reale, esprime disdegno verso coloro che rinuniciano all'indipendenza nel giudizio. 
+Metro di 26 quartine di 3 settenari ed un endecasillabo.
