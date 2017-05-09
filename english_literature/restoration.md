@@ -86,7 +86,7 @@ It is also a travel book and a philosophical book.
 Lemuel Gulliver worked as a surgeon, who worked on merchant ships. Throughout his 4 voyages he comes face to face with different races, either better or the same as our. 
 Examining them he thinks about our society, their society show all the flaws of his contemporaries. 
 
-The lilliputiants are evil, wwereas the giants are kindhearted. The giants kept him in a cage to protect him from the animals, eventually an eagle picks him up and drops him on an english ship.
+The lilliputiants are evil, whereas the giants are kindhearted. The giants kept him in a cage to protect him from the animals, eventually an eagle picks him up and drops him on an english ship.
 
 Then he lands on the island Laputa, the Laputians were ugly. They were philosophers and scientists, they couldn't do anything right, they weren't able to do anything practical. They carried out many experiments completely absurd.
 This passage is a sharp satire on the comtemporary philosophy and science.
@@ -94,3 +94,6 @@ This passage is a sharp satire on the comtemporary philosophy and science.
 In the last voyage he finds the Yahoos, that are similar to his race. In that lands live also the Wims, wise horses. The Wims are intelligent and Gulliver would like to live with them forever, but they do not allow him to stay with them.
 
 When he comes back to England he doesn't know any longer were he belongs and is disgusted of his own wife.
+
+**Beloved horses, Hateful Men**
+He sais that he's prouder to listen to his master than to speak in the wisest assembly in europe. He loves and respect the Wims (Horses), but despises the Yahoos and above all himself. He thinks that his countrymen are just a little bit smarter than the Yahoos.
