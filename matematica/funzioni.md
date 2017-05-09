@@ -447,3 +447,13 @@ $$
 &\lim_{x\to 3}\frac{x+1}{2x-3}=\frac{4}{3}
 \end{align*}
 $$
+
+**Forma indeterminata $$0\cdot\infty$$**
+$$
+\begin{align*}
+&\lim_{x\to\frac{\pi}{2}^+}(1-\sin{x})\tan{x} = fi \;0\cdot \infty \\
+&\lim_{x\to\frac{\pi}{2}^+}(1-\sin{x})\frac{\sin{x}}{\cos{x}} \\
+&\lim_{x\to\frac{\pi}{2}^+}(1-\sin{x})\frac{\sin{x}}{\cos{x}}\cdot\frac{1+\sin{x}}{1+\sin{x}} \\
+&\lim_{x\to\frac{\pi}{2}^+}\cos{x}\cdot\sin{x}\cdot\frac{1}{1+\sin{x}}=0^-
+\end{align*}
+$$
