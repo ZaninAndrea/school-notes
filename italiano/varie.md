@@ -298,3 +298,11 @@ Giuseppe Parini fu uno dei massimi esponenti dell'illuminismo italiano.
 Le difficili condizioni economiche della sua giovinezza gli impedirono di proseguire gli studi, ma grazie ad una famiglia agiata potè riprenderli. Venne ammesso all'accademia dei Trasformati, quì Parini venne a contatto con la cultura francese e gli usi e costumi della nobiltà. Nel 1763 pubblica "Il mattino". Egli venne inserito nell'accademia del'arcadia.. Morì nel 1799.
 La Caduta è ispirata ad un fatto reale, esprime disdegno verso coloro che rinuniciano all'indipendenza nel giudizio. 
 Metro di 26 quartine di 3 settenari ed un endecasillabo.
+Parini dichiara la sua volontà di rimanere incorrotto
+
+Thomas Dundas fu un nobile scozzese molto ricco.
+Il Giorno di Parini è  caratterizzato dal'antifrasi e iperbole.
+
+Alfieri scrisse le sue prime opere in francese. Dal 1765 si trasferì in Alsazia. Scrisse una sua auto-biografia, pubblicata postuma.
+
+Il neoclassicismo: equilibrio, armonia, classsicità. La ricerca della perfezione formale come razionalità  delle linee.
