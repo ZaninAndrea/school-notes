@@ -31,6 +31,7 @@
 * [Spinoza](filosofia\Spinoza.md)
 * [Leibniz](filosofia\leibniz.md)
 * [Chalmers](filosofia\chalmers.md)
+* [Pascal](filosofia/pascal.md)
 
 ## Italiano
 

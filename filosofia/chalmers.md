@@ -13,7 +13,8 @@ Potremmo quindi dire che le proprietà biologiche supervene quelle fisiche. La s
 
 local/global supervenience: la local supervenience implica la global supervenience, ma non il contrario. Global è quando considero due oggetti nello stesso contesto, invece local quando sono 2 contesti diversi.
 
-Logical supervenience: le proprietà A implicano le proprietà B. Dio deve creare solo le proprietà A
+Logical supervenience: l'assenza della relazione tra le proprietà A e le proprietà B provoca contraddizione  
+Dio deve creare solo le proprietà A
 	- valida in tutti i mondi possibili
 	- non è possibile immaginare che le proprietà A non implichino le proprietà B
 Natural supervenience: le proprietà B dipendono dalle proprietà A e da qualcos’altro.
