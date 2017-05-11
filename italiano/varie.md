@@ -135,6 +135,10 @@ Il cuore della lettera è il contatto che Machiavelli ha con gli antichi, attrav
 
 Machiavelli descrive il Principe come "la discussione su come siano i principati, su che tipo siano, come si acquistano, come si mantengono e perché si perdono". Ne consiglia la lettura all'amico.
 
+### Il principe 
+Logica del tutorial. Duca Valentino prende Remiro de Orco e o usa per mettere a posto la situazione, poi lo uccide.Come si può mantenere il regno:
+- me lo sono conquistato io? Allora np
+- non l'ho consquistato io? Allora è più complicato
 
 # Gruppo Paris - Manierismo e Barocco
 ## Manierismo
