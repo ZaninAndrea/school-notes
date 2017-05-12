@@ -32,6 +32,7 @@
 * [Leibniz](filosofia\leibniz.md)
 * [Chalmers](filosofia\chalmers.md)
 * [Pascal](filosofia/pascal.md)
+* [Empirismo](filosofia/empirismo.md)
 
 ## Italiano
 
