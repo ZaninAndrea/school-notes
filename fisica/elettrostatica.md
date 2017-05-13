@@ -234,3 +234,22 @@ Dall'ultima formula $$C=\frac{\epsilon_0 A}{d}$$ capiamo che la capacità dipend
 Per costruire un condensatore con $$d$$ molto piccola separo le 2 piastre con un sottile strato di un isolante, detto **dielettrico**, che ha la funzione di separare fisicamente le 2 piastre.
 I dipoli indotti nell'isolante formano un campo elettrico che contrasta quello delle 2 lamine, dato che il campo elettrico complessivo si riduce, la **capacità aumenta**. 
 Il dielettrico inoltre dovrebbe avere una rigidità elettrica maggiore dell'aria, in modo da permettere di avere differenze di potenziale molto alte.
+
+L'energia immagazzinata in un condensatore è:
+
+$$
+\begin{align*}
+U&=\frac{1}{2}CV^2 \\
+&=\frac{1}{2}QV \\
+&=\frac{1}{2}\frac{Q^2}{C}
+\end{align*}
+$$
+
+La densità di energia, ossia l'energia per unità di volume è:
+
+$$
+\begin{align*}
+\mu_E&=\frac{\frac{1}{2}QV}{Ad}  \\
+&=\frac{1}{2}\epsilon_0 E^2
+\end{align*}
+$$
