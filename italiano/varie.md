@@ -335,4 +335,13 @@ Ci sono circa 60 versi incompleti.
 Fabula e intreccio non coincidono.
 
 Inizia con l'invocazione alla musa, Enea viene accolto da Didone che si innamora di lui. Enea narra la caduta di Troia. Enea se ne va dalla città e Didone si suicida giurando eterno conflitto tra Cartagine e i discendenti di Enea.
-Enea scende nelgi inferi e incontra suo padre e Didone.
+Enea scende nelgi inferi e incontra suo padre e Didone e vede il futuro di Roma.
+Latino accoglie Enea e lgli concede sua figlia in sposa, il promesso sposo di Enea si arrabbia e scatena una Furia. Enea riceve delle aermi forgiate da Efesto.
+Viene descritta la vicenda di Eurialo e Niso.
+
+Virgilio utilizza un linguagigo pulito senza molti arcaissmi
+
+Enea racconta l'episodio di Laocoonte che al vedere il cavallo di Troia capisce che è un ignanno, ma dopo averlo detto viene stritolato da serpenti marini assieme ai figli.
+
+### Publio Ovidio Nasone
+Ovidio fu uno dei maggiori esponenti dell'elegia latina, 
