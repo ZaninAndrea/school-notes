@@ -310,3 +310,29 @@ Il Giorno di Parini è  caratterizzato dal'antifrasi e iperbole.
 Alfieri scrisse le sue prime opere in francese. Dal 1765 si trasferì in Alsazia. Scrisse una sua auto-biografia, pubblicata postuma.
 
 Il neoclassicismo: equilibrio, armonia, classsicità. La ricerca della perfezione formale come razionalità  delle linee.
+
+## Gruppo Paris
+Virgilio -> Eneide  
+OVidio -> Metamorfosi  
+Epica latina dalla metà del III secolo a.C.
+Adotta i caratteri formali dell''epica greca e tratta i temi delle virtù del popolo e i personaggi illustri della storia romana
+Serve a propagandare il sistema dei valori
+
+Prima periodo ciceroniano (78-31 a.C.) e poi augusteo (30-14 a.C.)
+
+### Virgilio
+Nasce a Mantova, figlio di una mercante, vuole diventare avvocato, ma per i suoi difetti di pronunica abbandona gli studi di oratori.
+Perse molti terreni nella battaglia di Filippi, ricorderà queste terre con nostalgia nelle _Bucoliche_
+Grazie al successo delle _Bucoliche_ entra afar parte del **Circolo di Mecenate**.
+Successivamente compone le Georgiche
+Muore per un colpo di sole.
+La sua ultima opera: L'Eneide viene pubblicata postuma
+
+#### L'Eneide
+Ci sono circa 60 versi incompleti. 
+è bipartito in versi che narrano le avventure di Enea prima di arrivare in Lazio e poi le guerre che intraprese nel Lazio.
+
+Fabula e intreccio non coincidono.
+
+Inizia con l'invocazione alla musa, Enea viene accolto da Didone che si innamora di lui. Enea narra la caduta di Troia. Enea se ne va dalla città e Didone si suicida giurando eterno conflitto tra Cartagine e i discendenti di Enea.
+Enea scende nelgi inferi e incontra suo padre e Didone.
