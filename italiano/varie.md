@@ -332,3 +332,7 @@ La sua ultima opera: L'Eneide viene pubblicata postuma
 Ci sono circa 60 versi incompleti. 
 è bipartito in versi che narrano le avventure di Enea prima di arrivare in Lazio e poi le guerre che intraprese nel Lazio.
 
+Fabula e intreccio non coincidono.
+
+Inizia con l'invocazione alla musa, Enea viene accolto da Didone che si innamora di lui. Enea narra la caduta di Troia. Enea se ne va dalla città e Didone si suicida giurando eterno conflitto tra Cartagine e i discendenti di Enea.
+Enea scende nelgi inferi e incontra suo padre e Didone.
