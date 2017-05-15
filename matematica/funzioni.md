@@ -457,3 +457,19 @@ $$
 &\lim_{x\to\frac{\pi}{2}^+}\cos{x}\cdot\sin{x}\cdot\frac{1}{1+\sin{x}}=0^-
 \end{align*}
 $$
+
+### Asintoti
+Una funzione ha come asintoto verticale la retta $$x=x_0$$ se
+$$
+\lim_{x \to x_0} f(x)= \infty
+$$
+
+Una funzione ha come asintoto orizzontale la retta $$y=y_0$$ se 
+$$
+\lim_{x\to +\infty} f(x) = y_0 \lor \lim_{x\to -\infty} f(x)=y_0
+$$
+
+Una funzione che non ha asintoti orizzontali potrebbe aver asintoti obliqui.
+Cerco l'asintoto obliquo $$y=mx+q$$
+Per trovare m: $$m=\lim_{x\to +\infty}\frac{f(x)}{x}$$ se m è finito continuo, se m non è finito allora l'asintoto obliquo non esiste.
+Per trovare q: $$a=\lim_{x\to+\infty}[f(x)-mx]$$ se q è finito ho trovato l'asintoto obliquo, altrimenti l'asintoto obliquo non esiste.
