@@ -231,8 +231,16 @@ $$
 
 Dall'ultima formula $$C=\frac{\epsilon_0 A}{d}$$ capiamo che la capacità dipende solo dalla geometria del condensatore. 
 
-Per costruire un condensatore con $$d$$ molto piccola separo le 2 piastre con un sottile strato di un isolante, detto **dielettrico**, che ha la funzione di separare fisicamente le 2 piastre.
-I dipoli indotti nell'isolante formano un campo elettrico che contrasta quello delle 2 lamine, dato che il campo elettrico complessivo si riduce, la **capacità aumenta**. 
+Per aumentare la capacità del condensatore separo le 2 piastre con un sottile strato di un isolante, detto **dielettrico**, che separa fisicamente le 2 piastre. I dipoli indotti nell'isolante formano un campo elettrico che contrasta quello delle 2 lamine, dato che il campo elettrico complessivo si riduce, la **capacità aumenta**. La nuova capacità del condensatore è determinata dalla formula
+
+$$
+C=\frac{\epsilon_r \epsilon_0 A}{d}
+$$
+
+Dove $$\epsilon_r$$ è la costante dielettrca di quel materiale.
+
+Tensioni molto alte possono portare alla **rottura del dielettrico**, ossia il campo elettrico è abbastanza elevato da rompere i legami tra tomi e rendere il materiale un conduttore. 
+La massima intensità di campo elettrico che il dielettrico può sopportare è detta **rigidità dielettrica**.
 Il dielettrico inoltre dovrebbe avere una rigidità elettrica maggiore dell'aria, in modo da permettere di avere differenze di potenziale molto alte.
 
 L'energia immagazzinata in un condensatore è:
