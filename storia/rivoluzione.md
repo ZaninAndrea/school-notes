@@ -15,3 +15,9 @@ Common Sense -> mostrare le cose come stanno nel modo più chiaro possibile.
 La società è prodotta dai desideri e promuove la felicità, mentre il governo è prodotto dalla malvagità e limita i vizi.
 La società è una benedizione, mentre il governo un male necessario e se è un governo pessimo diventa intollerabile.
 Il governo come il vestito è simbolo del peccato originale. 
+
+
+Alcuni non volevano essere una federazione, perchè avrebbero perso molte più libertà legislative.
+Alla fine si sceglie di diventare una federazione con una costituzione che tutela tutti gli stati., attraverso _checks and balances_.
+
+Si può controllare il potere del parlamento 
