@@ -64,7 +64,7 @@ he meets and indigenous whom he give the name Friday. he tames the indigenous. T
 - teaching him the principles of Christianity
 - forbid him to carry weapon, because Robinson is superior, due to his being white
 
-## Vocabulary
+#### Vocabulary
 
 | english | synonym | italian |
 | --- | --- | --- |
@@ -91,9 +91,25 @@ The lilliputiants are evil, whereas the giants are kindhearted. The giants kept 
 Then he lands on the island Laputa, the Laputians were ugly. They were philosophers and scientists, they couldn't do anything right, they weren't able to do anything practical. They carried out many experiments completely absurd.
 This passage is a sharp satire on the comtemporary philosophy and science.
 
-In the last voyage he finds the Yahoos, that are similar to his race. In that lands live also the Wims, wise horses. The Wims are intelligent and Gulliver would like to live with them forever, but they do not allow him to stay with them.
+In the last voyage he finds the Yahoos, that are similar to his race. In that lands live also the Wims, wise horses. The Houyhnhnms are intelligent and Gulliver would like to live with them forever, but they do not allow him to stay with them.
 
 When he comes back to England he doesn't know any longer were he belongs and is disgusted of his own wife.
 
 **Beloved horses, Hateful Men**
-He sais that he's prouder to listen to his master than to speak in the wisest assembly in europe. He loves and respect the Wims (Horses), but despises the Yahoos and above all himself. He thinks that his countrymen are just a little bit smarter than the Yahoos.
+He sais that he's prouder to listen to his master than to speak in the wisest assembly in europe. He loves and respect the Houyhnhnms (Horses), but despises the Yahoos and above all himself.
+He thinks that his countrymen are just a little bit smarter than the Yahoos.
+He hates is own figure and start acting like a horse. He can't bear human beings anymore, because they remind him of yahoos, on the other hand he loves horses.
+When he comes back home he can't stand the presence of his own family.
+
+### Samuel Richardson
+He was born in 1689 in a middle-class family. He moved to London and started working as a printer early on in his life. He started writing at the age of 40. His most successful books are _Pamela_ (or _Virtue Rewarded_) and _Clarissa_.
+
+#### Pamela
+Pamela is an epistolary novel, because it contains many letters; those letters are very intense and lively with both dramatic and melodramatic aspects. The letters have life of there own and are as important as the character themselves.
+Pamela is innovative, because it presents the relationship between social classes.
+Mr B embodies the figure of the master and sexually harrasses Pamela.
+
+Pamela is considered the first best-seller in England. Many debates arised after it's publication: some saw in Pamela the triumph of the virtue, others saw Pamela as a slight and cunning woman, who lured Mr B to marry her in order to climb the social ladder.
+
+A play has been made of the book by Goldoni: _Pamela Nubile e Pamela maritata_
+
