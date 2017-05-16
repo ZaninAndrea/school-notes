@@ -81,7 +81,7 @@ $$
 &= \frac{\lambda \cdot h}{\epsilon_0} \\
 \overrightarrow{E} \cdot 2\pi r h &= \frac{\lambda \cdot h}{\epsilon_0} \\ 
 &\Downarrow \\
-\theta_E &= \frac{\lambda}{2\pi \epsilon_0 r}
+E &= \frac{\lambda}{2\pi \epsilon_0 r}
 \end{align*}
 $$
 
