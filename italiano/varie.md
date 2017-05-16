@@ -344,4 +344,12 @@ Virgilio utilizza un linguagigo pulito senza molti arcaissmi
 Enea racconta l'episodio di Laocoonte che al vedere il cavallo di Troia capisce che è un ignanno, ma dopo averlo detto viene stritolato da serpenti marini assieme ai figli.
 
 ### Publio Ovidio Nasone
-Ovidio fu uno dei maggiori esponenti dell'elegia latina, 
+Ovidio fu uno dei maggiori esponenti dell'elegia latina, nasce a Sulmona, il padre lo avrebbe voluto oratore. Si trasferisce a Roma e studia poetica e retorica con il fratello. Completati gli studi viaggia e va ad Atene.
+Vive un anno in Sicilia, poi rinuncia a diventare un senatore. Entra nel circolo di Messalla dove conoscerà molti degli autori più importanti dell'epoca. Nell 8 d.C. viene esiliato, non sappiamo perchè, a Tomi dove muore nel 17 d.C.
+
+Rese celebri e tramandò molti miti. Utilizza la tecnica del _racconto nel racconto_ per trasformare i personaggi in narratori. lega tutti i racconti con il principio della metamorfosi e racconta i miti in ordine cronologico.
+
+Stile: galante, piccante, indifferente rispetto alla politica e ateo. Vedde definito il Chierico dell'amore. 
+
+TESTO FILEMONE E BAUCI
+Giove sotto aspetto umano venne con il nipote di Atlante. Chiesero asilo a molti, ma solo Filemone e Bauci li accolsero. Ad un certo punto si accorgono di avere in casa 2 dei e si scusano per la loro povertà, i 2 dei però decidono di ricompensarli trasformando la loro casa in un tempio e li concedono un desiderio. Filemone e Bauci chiedono di diventare sacerdoti nel tempio e di morire assieme, gli dei concedono questo desiderio. All'ora della loro morte ognuno vede l'altro trasformarsi in un albero e quindi s abbracciano.
