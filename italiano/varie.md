@@ -353,3 +353,39 @@ Stile: galante, piccante, indifferente rispetto alla politica e ateo. Vedde defi
 
 TESTO FILEMONE E BAUCI
 Giove sotto aspetto umano venne con il nipote di Atlante. Chiesero asilo a molti, ma solo Filemone e Bauci li accolsero. Ad un certo punto si accorgono di avere in casa 2 dei e si scusano per la loro povertà, i 2 dei però decidono di ricompensarli trasformando la loro casa in un tempio e li concedono un desiderio. Filemone e Bauci chiedono di diventare sacerdoti nel tempio e di morire assieme, gli dei concedono questo desiderio. All'ora della loro morte ognuno vede l'altro trasformarsi in un albero e quindi s abbracciano.
+
+## Gruppo Leo (Italiano)
+Ripresa dal passato, la perfezione è il massimo che l'uomo può raggiungere con il proprio impegno, c'è un nuovo accento sul mondo interiore. Romanticismo deriva da romantico, pittoresco e quindi che suscità emozioni oppure da romance come romanzo.
+Il Romancismo fu un movimento che interessò tutte le forme d'arte.
+
+### Infinito e titanismo
+L'uomo tende all'infinito
+$$
+\lim_{\text{uomo}\to \infty} \text{uomo}*\text{n° romantici}
+$$
+tale infinito per l'uomo è rappresentato dalla natura. L'uomo cerca di liberarsi da un iniziale senso di oppressione dall'impareggiabilità della natura, in maniera analoga ai titani che erano oppressi da Zeus.
+
+**Monaco in riva al mare**: opera simbolo del Romanticismo, mostra l'enormità della natura in contrsto con l'uomo
+
+### Leopardi
+Leopardi, nonostante lo negasse, fu uno dei più importanti esponenti del Romanticismo. Secondo Leopardi è possibile arivarealla comprensione dell'inifito attraverso una visione limitata. . 
+Poesia dell'ermo colle: l'autore racconta un silenzio interrotto solo dal frusciare del vento, ma i suoi pensieri sono invasi da immaginazione e ricordi. Il poeta quindi annega nell'immensità dello spazio e del tempo, ma in una maniera positiva.
+
+### Wagner
+Wagner vuole essere il titano musicale romantico, per questo utilizza molto il crescendo.
+
+### Viadante sopra il mare di nebbia
+è forse l'opera più famosa del Romanticismo, l'uomo è pensoso. L'opera è quasi un manifesto per il Romanticismo.
+
+### L'anello dei nibelunghi
+Leit motiv compongono la maggior parte dell'opera in modo da sottolineare il concetto di infinito
+
+### Suicidio
+Dato che l'uomo si sente molto picoclo e vulnerabile talvolta compie suicidio come un atto più grande di lui, come vediamo ne "I dolori del giovane Werther", la depressione di Werther è accentuata dalla comprensione romantica dell'infinità della natura.
+
+Ugo Foscolo ne "Le ultime lettere di Jacopo Ortis" racconta di un suicidio dovuto anche alle condizioni politiche
+
+Manzoni e Leopardi rifiutano la visione positiva del suicidio: Manzoni lo ritiene una falsità, mentre Leopardi un atto inumano fatto solo per sfuggirre alle difficoltà.
+
+### Il Sublime
+Il Romanticismo definisce sublime (da sub, sotto, e lime, soglia) il sentimento dell'uomo che non si lascia intimorire dall'immensità
