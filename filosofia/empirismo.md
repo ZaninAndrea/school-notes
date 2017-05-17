@@ -11,5 +11,16 @@ Locke scrive "Essay on Human Understanding" in cui afferma che inizialmente la m
 >
 > In maniera analoga è utile sapere la "profondità" dei nostri sensi, anche se non sono in grado di spiegare ogni cosa.
 
-Se ci fossero idee innate perchè sembra che i bambini, selvaggi e idioti non sappiano nulla? Se io ho un concetto innato, ma non l'ho ancora formulato, allora c'è un momento in cui quell'informazione passa dallo stato _latente_ allo stato _attuale_. Quindi se c'è stato questo processo in che modo tale idea è diversa da una appresa attraverso i sensi? Quindi **tutte le idee sono apparese attraverso i sensi**.   
-Locke inoltre sostiene che il consenso generale non è una prova sufficiente per un idea innata.
+Se ci fossero idee innate perchè sembra che i bambini, selvaggi e idioti non sappiano nulla? Se io ho un concetto innato, ma non l'ho ancora formulato, allora c'è un momento in cui quell'informazione passa dallo stato _latente_ allo stato _attuale_. Quindi se c'è stato questo processo in che modo tale idea è diversa da una appresa attraverso i sensi? Quindi **tutte le idee sono apprese attraverso i sensi**.  
+Essere innatisti significa essere pigri intellettualmente e accettare i concetti come sono senza metterli in dubbio.
+Locke inoltre sostiene che il consenso generale non è una prova sufficiente per un idea innata
+
+Le idee possono venire da:
+- l'interno e quindi sono **idee di riflessione**
+- l'esterno e quindi sono **idee di sensazione**
+
+Si possono anche dividere in idee semplici (e.g. colori) e complesse, che richiedono un elaborazione ulteriore.  
+I modi sono combinazioni di idee per cui non c'è una sostanza alla base.  
+L'idea di sostanza è un idea complessa, dato che ci arriviamo mettendo in relazione oggetti diversi.  
+
+L'idea di Dio nonostante sia un'idea complessa è dimostrabile, perchè _Ex nihilo nihil fit_, ossia è necessario che esista un qualcosa che ha generato il mondo.
