@@ -458,6 +458,25 @@ $$
 \end{align*}
 $$
 
+**Forma indeterminata $$0^0$$, $$\infty^0$$, $$1^\infty$$**
+$$
+\begin{align*}
+&\lim_{x\to x_0} {f(x) }^{g(x)} \\
+&\lim_{x \to x_0} e^{(\ln{f(x)^{g(x)})}} \\
+&\lim_{x \to x_0} e^{g(x)\cdot \ln{f(x)}}
+\end{align*}
+$$
+
+E.g.
+$$
+\begin{align*}
+&\lim_{x \to +\infty} x^{\frac{1}{\ln{x}}} \\
+&\lim_{x \to + \infty} e^{\ln{(x^{\frac{1}{\ln{x}}})}} \\
+&\lim_{x \to +\infty} e^{\frac{1}{\ln{x}}\cdot \ln{x}} \\
+&\lim_{x \to + \infty} e^1 = e
+\end{align*}
+$$
+
 ### Asintoti
 Una funzione ha come asintoto verticale la retta $$x=x_0$$ se
 $$
@@ -473,3 +492,23 @@ Una funzione che non ha asintoti orizzontali potrebbe aver asintoti obliqui.
 Cerco l'asintoto obliquo $$y=mx+q$$
 Per trovare m: $$m=\lim_{x\to +\infty}\frac{f(x)}{x}$$ se m è finito continuo, se m non è finito allora l'asintoto obliquo non esiste.
 Per trovare q: $$a=\lim_{x\to+\infty}[f(x)-mx]$$ se q è finito ho trovato l'asintoto obliquo, altrimenti l'asintoto obliquo non esiste.
+
+### Teorema del confronto (o dei carabinieri)
+Siano $$h,f,g$$ tre funzioni definite sullo stesso dominio.
+$$
+se \; \forall x \in D (x\ne x_0) \quad h(x) \le f(x) \le (g(x) \\
+\land \\
+\lim_{x \to x_0} h(x) = \lim_{x \to x_0}g(x) = l \\
+\Downarrow \\
+\lim{x \to x_0} f(x) = l
+$$
+
+E.g.
+$$
+\lim_{x \to + \infty} \frac{\sin{x}}{x} \\
+-1 \le \sin{x} \le 1 \\
+\frac{-1}{x} \le \frac{\sin{x}}{x} \le \frac{1}{x} \\
+\lim_{x \to +\infty} \frac{-1}{x} = \lim_{x \to +\infty} = 0 \\
+\Downarrow \\
+\lim_{x \to +\infty}\frac{\sin{x}}{x}=0
+$$
