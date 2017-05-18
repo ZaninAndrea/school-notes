@@ -28,3 +28,26 @@ La formula mieralogica, quando lo stesso elemento è presente con più valenze, 
 ## Struttura cristallina
 L'**abito** di un cristallo è la sua forma esterna e spesso rispecchia la struttura cristallina microscopica, ma è influenzato da molti fattori, tra cui le condizioni di crescita.
 Per avere tutte le informazioni sul cristallo 
+
+## Minerali
+Da recuperare dalle schede
+
+## Rocce
+Le rocce sono composte da più minerali e possono essere di 3 tipi:
+- ignee: formatesi in un vulcano
+- sedimentarie: formatesi per sedimentazione
+- metamorfiche: cambiamenti di roccie preesistenti
+
+Il raffreddamento del magma avviene in 2 modalità alternative:
+- molto rapidamente: in poche ore **rocce effusive**
+- molto lentamente: in milioni di anni. In questo caso si riescono a formare dei cristalli. **rocce intrusive**
+
+### Tessitura
+La tessitura indica la presenza o meno di cristalli e le loro dimensioni ed è caratteristica di ogni roccia.
+
+Le rocce con cristalli visibili si dicono a **tessitura faneritica** o **rocce olocristalline**. Le rocce olocristalline hanno impiegato moltissimo tempo per formarsi, ma la formazione di cristalli è facilitato dalla presenza di gas o alta pressione.
+
+Una roccia con cristalli non visibili è detta **roccia afanitica**   o a **tessitura criptocristallina**, se presenta anche alcuni cristalli visibili allora è **profirica**. Queste rocce sono prodotte molto più velocemente  da magma che si raffredda, anche in poche ore, i cristalli visibili si formano durante le fasi di salita o di stazionamento del magma
+
+Se il raffreddamento avviene molto velocemente, nell'ordine dei minuti si ottiene **tessitura vetrosa** (come l'ossidiana) oppure a **tessitura vescicolare**, prodotta da una schiuma di magma molto viscosa e ricca di gas, che solidifica con le bolle di gas racchiuse.
+
