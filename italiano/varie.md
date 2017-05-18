@@ -389,3 +389,9 @@ Manzoni e Leopardi rifiutano la visione positiva del suicidio: Manzoni lo ritien
 
 ### Il Sublime
 Il Romanticismo definisce sublime (da sub, sotto, e lime, soglia) il sentimento dell'uomo che non si lascia intimorire dall'immensità
+
+### Novalis
+La natura è madre di tutto ed è comprensibile più con l'intuito che con la ragione.
+ La notte è identificata come la mrote, ma la Natura si china su di noi per proteggerci.
+ ### La danza macabra
+ Sanson fu il primo compositore a rompere gli schemi
