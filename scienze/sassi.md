@@ -51,3 +51,13 @@ Una roccia con cristalli non visibili è detta **roccia afanitica**   o a **tess
 
 Se il raffreddamento avviene molto velocemente, nell'ordine dei minuti si ottiene **tessitura vetrosa** (come l'ossidiana) oppure a **tessitura vescicolare**, prodotta da una schiuma di magma molto viscosa e ricca di gas, che solidifica con le bolle di gas racchiuse.
 
+Una seconda distinzione tra rocce è basata sul contenuto di silice:
+- silice libera $$SiO_2$$ silicio e ossigeno formano la struttura tipica del quarzo
+- vincolata, $$SiO_4$$, che gli permette di legarsi con altri materiali
+
+Rocce persiliche, ossia ad alto contenuto di silice (> 65%), anche dette acide o sialiche. I minerali tipici di queste rocce sono quarzo, K-feldspato, plagioclasi e biotite.
+
+**Sialico**: tanto silicio e/o alluminio , apporto Si/O alto
+**Femico**: tanto ferro e/o magnesio, rapporto Si/O basso
+
+La roccia tanto più è chiara tanto più è sialica.
