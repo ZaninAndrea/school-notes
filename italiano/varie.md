@@ -393,5 +393,20 @@ Il Romanticismo definisce sublime (da sub, sotto, e lime, soglia) il sentimento 
 ### Novalis
 La natura è madre di tutto ed è comprensibile più con l'intuito che con la ragione.
  La notte è identificata come la mrote, ma la Natura si china su di noi per proteggerci.
+ 
  ### La danza macabra
- Sanson fu il primo compositore a rompere gli schemi
+ Sanson fu il primo compositore a rompere gli schemi. In questa parte del periodo romantico la nobiltà perde importanza e quindi i musicisti e compositori si trovano a "rischio disoccupazione" e devono dimostrare al pubblico la loro bravura.
+ 
+ ### Worthsword
+ Il Poeta ricorda i narcisi come una folla animata, quasi danzassero al vento.
+ 
+ ### La Moldava
+ Composta da Bedrieh, l'opera descrive il movimento del fiume Moldava
+ 
+ Nella ricerca del passato c'è una riscoperta della religiosità che era stata negata dall'illuminismo
+ 
+ ### La zattera della Medusa
+ Si ispira ad un fatto storico realmente accaduto. I Superstiti del naufragio dovettero arrivare al cannibalismo per sopravvivere. La testimonianza di 2 superstiti fece scalpore in tutta Europa. Forte realismo. 
+ 
+ ### I Promessi SPosi
+ Il romanzo è diviso in 6 nucl###
