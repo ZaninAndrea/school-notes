@@ -424,3 +424,14 @@ Importante è il segmento in cui Foscolo parla delle armi di Achille e della gue
 
 ### I miserabili
 Il romanzo racconta la vita dei più poveri e oppressi parigini. Tutti amano la loro madrepatria, che li porta a morire per difenderla. Sono inseriti molti riferimenti storici che dipingono il quadro della Francia post-restaurazione
+
+C'è un confronto tra gli uomini, da cui nasce il forte concetto di popolo e di nazione come unione dei singoli individui in qualcosa di più grande.
+
+### La libertà che guida il popolo
+LL'artista vuole raccontare la storia presente invece che passata. La lLIibertà incita il popolo al'assalto. Nell'opera si notano le varie classi sociali unite dallo stesso sentimento comune.
+L'opera fu criticata per il forte realismo, tuttavia i dettagli reali sono mescolati con elementi derivati dall'iconografia classica.
+
+### Il 5 Maggio e l'adelchi
+Composto di getto da Manzoni dopo la morte di napoleone. L'ode prende forma in un susseguirsi di stati e movimento, luce e tenebra.
+
+La vicenda storica diventa testimonianza di una norma universale che rivela l'inganno dell'eroismo storico.

@@ -21,3 +21,11 @@ Alcuni non volevano essere una federazione, perchè avrebbero perso molte più l
 Alla fine si sceglie di diventare una federazione con una costituzione che tutela tutti gli stati., attraverso _checks and balances_.
 
 Si può controllare il potere del parlamento 
+
+
+-----
+
+
+Anche un parlamento può essere tirannico, per questo serve una costituzione scritta che tuteli le minoranze e questa è una novità.
+
+Se io do una procura a qualcuno egli può esercitare il mio volere solamente nei limiti della procura.
