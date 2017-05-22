@@ -29,3 +29,9 @@ Si può controllare il potere del parlamento
 Anche un parlamento può essere tirannico, per questo serve una costituzione scritta che tuteli le minoranze e questa è una novità.
 
 Se io do una procura a qualcuno egli può esercitare il mio volere solamente nei limiti della procura.
+
+Si cerca di tener separato il legislativo, l'esecutivo e il giudiziario, questo sistema è detto _checks and balances_.
+I vari poteri interagiscono
+
+> **Frase da tatuare**
+> The constitution is either a superior, paramount law, unchangeable by ordinary means, or it is on a level with ordinary legislative acts, and like other acts, is alterable when the legislature shall please to alter it
