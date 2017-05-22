@@ -512,3 +512,22 @@ $$
 \Downarrow \\
 \lim_{x \to +\infty}\frac{\sin{x}}{x}=0
 $$
+
+### Limiti notevoli
+$$
+\lim_{x\to 0} \frac{\sin{x}}{x} = 1
+$$
+
+**Dimostrazione**: $$y=\frac{\sin{x}}{x}$$ è una funzione pari (perchè $$f(x)=f(-x)$$) quindi 
+$$
+\lim_{x\to 0^-}\frac{\sin{x}}{x} = \lim_{x\to 0^+}\frac{\sin{x}}{x}
+$$
+
+Faccio il limite destro infatti se vedo x come l'angolo in radianti ossia la lunghezza dell'arco  sulla circonferenza goniometrica.
+
+$$
+\sin{x} \lt x \lt \tan{x} \\
+1 \lt \frac{x}{\sin{x}} \lt \frac{1}{\cos{x}} \\
+\cos{x} \lt \frac{\sin{x}} \lt 1 \\
+1 \lt \frac{\sin{x}}{x} \lt 1
+$$
