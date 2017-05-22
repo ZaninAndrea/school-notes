@@ -411,3 +411,16 @@ Si ispira ad un fatto storico realmente accaduto. I Superstiti del naufragio dov
 ### I Promessi Sposi
 è diviso in 6 nuclei narrativi
 Molti dei personaggi sono realmente esistiti (e.g. l'Innominato) e in generale il romanzo è preciso dal punto di vista storico, sebbene sia romanzato. Tra gli avvenimenti descritti: la peste di Milano, l'occupazione spagnola.
+
+### Ave Maria
+Compositori che compongono canzoni religiose in contrasto alla razionalità dell'illuminismo. L'Ave Maria è un lied che ha segnato la storia musicale. MAria è la madre per eccellenza.
+
+Un episodio iconico della madre è presente nei promessi sposi è quello della madre di Cecilia: Renzo vede uscire una donna da un abitazione con un espressione triste e affaticata. In braccio a lei una bambina morta di peste. La madre pone la bambina sul carro dei monatti e paga un monatto perché se ne prenda cura e gli dice che la sera dovrà tornare per prendere lei e l'altra figlia. La donna si sraia quindi sul letto per morire. Il passo termina con una citazione a Virgilio.
+
+### Ugo Foscolo e i Sepolcri
+Valore, riti funebri, memoria e morte sono i temi. I riti funebri come legame tra i vivi e i morti, in particolare i riti inglesi e classici. La poesia è molto più eterna delle tombe. C'è una sorta di successione trionfale: morte sulla vita, tomba sulla morte, tempo sulla tomba, poesia sul tempo. 
+
+Importante è il segmento in cui Foscolo parla delle armi di Achille e della guerra di Troia.
+
+### I miserabili
+Il romanzo racconta la vita dei più poveri e oppressi parigini. Tutti amano la loro madrepatria, che li porta a morire per difenderla. Sono inseriti molti riferimenti storici che dipingono il quadro della Francia post-restaurazione
