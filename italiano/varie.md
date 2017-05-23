@@ -435,3 +435,8 @@ L'opera fu criticata per il forte realismo, tuttavia i dettagli reali sono mesco
 Composto di getto da Manzoni dopo la morte di napoleone. L'ode prende forma in un susseguirsi di stati e movimento, luce e tenebra.
 
 La vicenda storica diventa testimonianza di una norma universale che rivela l'inganno dell'eroismo storico.
+
+### La dama ddelle Camelie (Dumas)
+Esalta l'importanza della scoperta delle proprie emozioni e dell'altro. La protagonista è una cortigiana che per amore cambia la sua vita, ma alla fine del romanzo torna alla sua vita precedente sempre per amore.
+
+La Traviata è ispirata a questo libro.
