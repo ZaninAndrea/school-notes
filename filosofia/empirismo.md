@@ -24,3 +24,5 @@ I modi sono combinazioni di idee per cui non c'è una sostanza alla base.
 L'idea di sostanza è un idea complessa, dato che ci arriviamo mettendo in relazione oggetti diversi.  
 
 L'idea di Dio nonostante sia un'idea complessa è dimostrabile, perchè _Ex nihilo nihil fit_, ossia è necessario che esista un qualcosa che ha generato il mondo.
+
+In Hume c'è il problema del nesso causale, ossia dell'**idea di causa**
