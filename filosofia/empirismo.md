@@ -25,4 +25,5 @@ L'idea di sostanza è un idea complessa, dato che ci arriviamo mettendo in relaz
 
 L'idea di Dio nonostante sia un'idea complessa è dimostrabile, perchè _Ex nihilo nihil fit_, ossia è necessario che esista un qualcosa che ha generato il mondo.
 
-In Hume c'è il problema del nesso causale, ossia dell'**idea di causa**
+In Hume c'è il problema del nesso causale, ossia dell'**idea di causa**. Le idee sono un pallido simuacro delle percezioni, che rimane dopo che esse sono sparite.
+L'operazione di mettere assieme le idee è un'operazione umana che non rappresenta l'esperienza che facciamo.
